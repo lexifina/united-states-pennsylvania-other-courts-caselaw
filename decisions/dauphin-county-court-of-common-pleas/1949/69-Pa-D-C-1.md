@@ -1,0 +1,42 @@
+---
+court: "Dauphin County Court of Common Pleas"
+docket: "no. 363"
+decided: "1949-04-04"
+citations: ["69 Pa. D. & C. 1"]
+reporter: "pa-d-c"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Huber v. The Patriot Company"]
+source_url: "https://static.case.law/pa-d-c/69/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1585052
+cites_cases: ["103 S. W. (2d) 1087", "133 Pa. Superior Ct. 1", "157 N. Y. S. 392", "189 S. E. 772", "19 Ind. App. 133", "2 P. & W. 325", "211 N. C. 295", "281 Pa. 313", "289 Pa. 369", "309 Pa. 539", "49 N. E. 185", "60 N. W. 205", "91 Iowa 675", "91 Pa. Superior Ct. 117"]
+---
+
+# Huber v. Patriot Co.
+
+## Majority (Woodside, J.,)
+
+Woodside, J.,
+This comes before us on plaintiff’s motion for a new trial after the jury found a verdict for defendant in an action for libel based upon an article appearing in a newspaper owned and published by defendant.
+On June 4, 1947, the fifth edition of the Evening News, published by defendant in Harrisburg, stated that plaintiff had been convicted by a jury in Dauphin County court on charges of receiving stolon goods. The fact was that the jury had acquitted plaintiff of the charge. The following day defendant published a correction in its morning paper, The Patriot, and in all five editions of the Evening News.
+Defendant admitted the publication of the incorrect article. The “rewrite” man who prepared the article, testified that he received the correct information by telephone from defendant’s reporter at the court house. He admitted that it was his error, and his only explanation for it was that he was emotionally disturbed by the fact that defendant’s general manager had fallen over dead that day in one of the newspaper offices.
+It is well established that words charging a felony are libelous per se and imply malice: Will v. Press Publishing Co., 309 Pa. 539 (1932) ; Williams v. Kroger Grocery & Baking Co., 133 Pa. Superior Ct. 1 (1938).
+The newspaper article in question erroneously stated that plaintiff had been found guilty of the crime of receiving stolen goods, a felony. This was libelous per se and in proving the publication plaintiff made out a prima facie case. To avoid liability it then became necessary for defendant to either prove the truth of the defamatory matter or show that it was privileged to publish it: Williams v. Kroger Grocery & Baking Co., supra; A. L. I. Restatement of the Law of Torts, §569(6).
+Defendant admitted the article was not true, and did not attempt to claim any privilege. Therefore, plaintiff made out his case, and the jury should have returned a verdict in his favor.
+Although the trial judge indicated in his charge that the verdict should be for plaintiff he did not state categorically that it must be for him. The trial judge stated that the publication was libelous per se, that legal malice could be presumed, and “that under the evidence we think that it is clear that the libel has been committed”.
+A request of defendant to charge that the jury could bring in a verdict for nominal damages was objected to, and refused because the Supreme Court has said to charge “that plaintiff was entitled, at least, to nominal damages (is) an instruction prejudicial to plaintiff and more favorable than defendant was entitled to”: Will v. Press Publishing Co., supra, p. 542, citing Leppley v. Smith, 91 Pa. Superior Ct. 117 (1927). The court did charge, however, that the jury could bring in a verdict for plaintiff “in such amount as you think justified by the evidence”.
+Under the law plaintiff was entitled to a verdict in his favor. On the other hand, by its verdict for defendant the jury has established the fact that plaintiff suffered no actual damage. The question is whether, under these circumstances, a new trial should be granted.
+Although the question has never been raised in Pennsylvania the courts elsewhere have uniformly held that under these circumstances plaintiff is not entitled to a new trial.
+In Wolfe et al. v. Montgomery Ward & Co. et al., 211 N. C. 295, 189 S. E. 772, the Supreme Court of that State in a slander case where the jury had found for defendant said:
+“. . . since the jury have established the fact that the plaintiff suffered no damage, the judgment could only have awarded nominal costs. Hence, the form of the judgment has occasioned no injury to the plaintiff of which he can justly complain. No substantial rights are involved, and the trifling item of costs is too small to justify a new trial or further consume the time of the court.”
+In Lynch v. New York Times, 157 N. Y. S. 392, 393 (1916), the jury found for defendant and the lower court granted a new trial. The Supreme Court reversed, saying:
+“There can be no doubt that the verdict was technically erroneous, for under the law as expounded to the jury by the court the plaintiff was entitled, at the least, to nominal damages. Having in mind the instructions of the court, it seems evident that this verdict must have been the result of a conviction in the minds of the jurymen that the plaintiff had in fact suffered no damage at all; but, being laymen, they failed to distinguish the nice, perhaps artificial, distinction between a verdict for the defendant and one for plaintiff with nominal damages. They doubtless considered, as most laymen would, unless carefully instructed to the contrary, that if a plaintiff had suffered no damage he was entitled to no verdict. . . .
+“If the jury in the case at bar had given expression to the opinion that plaintiff had suffered no injury by rendering a technically correct verdict for nominal damages, no fault could have been found with their verdict on the record before us. Assuming, as we are entitled to do, that another jury would take the same view of the plaintiff’s damage that the first one took, the result of an affirmance of the order appealed from would be to set aside the verdict and order a new trial, in order that the plaintiff might recover a verdict for nominal damages. It has now become the established rule that a verdict will not be set aside for this reason.”
+In Tracy v. Hacket, 19 Ind. App. 133, 49 N. E. 185 (1898), in refusing a new trial where the jury brought In a verdict for defendant after the publication of an article which was libelous per se the court said:
+“There is no claim on behalf of appellant that under the evidence, which we need not recount, he would be entitled to a reversal for failure to assess substantial damages; but it is insisted that for the invasion of his legal right by the defamatory publication, which has not been justified he was entitled to a verdict for nominal damages. Assuming this claim to be correct, it does not necessarily follow that the appellant is entitled to a reversal of the judgment (refusing to grant new trial) on appeal.” See also: Morin et al. v. Houston Press Co., 103 S. W. (2d) 1087 (19-37, Texas); Crawford v. Bergen, 91 Iowa 675, 60 N. W. 205 (1894), 53 C. J. S. 359, and 33 Am. Jur. 189.
+Although as stated this question apparently has never been before the courts of Pennsylvania there have been decisions holding in other types of cases that a new trial should not be granted where plaintiff is entitled to nominal damages only. In the early case of Allen v. Sawyer, 2 P. & W. 325 (1831), in reversing the granting of a new trial by the lower court, the Supreme Court said:
+“Indeed it has been long since well settled, by numerous authorities, that when the plaintiff has only entitled himself to claim nominal damages, and the jury find a verdict for the defendant, that the court will not set it aside and grant a new trial, unless the question of right or title to property of value should be involved in the suit, and affected by the verdict. . . . It would be even an injury, or at least attended with a loss to the plaintiff to grant him a new trial . . . the recovery of nominal damages cannot possibly compensate him for the loss of time, and ordinary expenses which he must necessarily incur in the prosecution of a second trial.”
+Allen v. Sawyer, supra, was cited with approval in Bastian v. Marienville Glass Co., 281 Pa. 313, 319 (1924). See also Bisk Candy Co. v. Stout et al., 289 Pa. 369, 377 (1927).
+In view of the foregoing, plaintiff’s motion for a new trial must be refused.
+And now, to wit, April 4,1949, plaintiff’s motion for a new trial is hereby denied.
