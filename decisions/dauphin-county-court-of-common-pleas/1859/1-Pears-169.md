@@ -1,0 +1,25 @@
+---
+court: "Dauphin County Court of Common Pleas"
+decided: "1859-04-04"
+citations: ["1 Pears. 169"]
+reporter: "pears"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the Distribution of George W. and Mary P. Fritchey’s Estate."]
+source_url: "https://static.case.law/pears/1/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814519
+cites_cases: ["1 C. 81", "12 H. 82", "5 C. 513", "6 H. 363", "6 H. 79", "8 H. 308", "9 H. 349"]
+---
+
+# In re the Distribution of Fritchey's Estate
+
+## Majority (By the Court.)
+
+By the Court.
+We are not prepared to say that the auditor’s report is erroneous in this case, but from its brief and meagre statement of facts it is unsatisfactory. We are inclined to believe, from a single expression used by the auditor, that he took an erroneous view of the alleged title of Mrs. Fritchey. “ He presumes it to be valid in the absence of sufficient evidence to the contrary.” The date of the deed is not given; but we infer that it was some time after the judgment was entered in favor of Mr. Haldeman.
+It must be borne in mind, that long before that period Mr. Fritchey was indebted to Gimmel & Smith, as appears by the annexed account, and if he acquired property, he could not lawfully convey it to his wife, or to a trustee for her use, without not only clear and satisfactory evidence that a full and adequate consideration was paid, but also that the money was her own separate property, acquired by her before marriage, or by gift, devise, or descent during coverture. It must appear, beyond all peradventure, that it did not come in any way from her husband, or through his instrumentality (Gamber v. Gamber, 6 H. 363; Keeney v. Good, 9 H. 349; Bradford’s Appeal, 5 C. 513). The fact that the property was paid for out of her own earnings and savings gives her no title, as her husband is entitled to them (Raybold v. Raybold, 8 H. 308). Therefore, the evidence in the present contest should have come from those claiming to be creditors of the wife, that the estate sold was bond fide hers; and the bare production of a deed from her husband to her trustee was insufficient. Every presumption is against such a deed, where it is shown that the husband was indebted at the time. The validity of the instrument may have been established on the hearing, but we must infer the contrary from the auditor’s report. Several judgments to which money is awarded in this report appear to have been entered against Mrs. Fritchey alone, and others against herself and husband. The auditor in his report does not show any reason for treating these judgments as valid. The question may have been inquired into, and their validity established by proof; but primd facie they are void, and should have been treated as such by thu auditor until their consideration was proved.
+The note, bond, recognizance, or judgment of a feme covert is absolutely void at common law, and that principle is not altered by the act of 1848, except in the cases expressly provided for (Caldwell v. Walters, 6 H. 79). It is not merely voidable and subject to be set aside or reversed, but it is absolutely void, and requires no action of the court to avoid it. In an action on her note it must be shown affirmatively that it was given for necessaries, the improvement of her real estate, or to pay for her trespasses or torts, else there can be no recovery; and no affidavit of defence is necessary against such a note (Mahon v. Gormley, 12 H. 82). And a note given for money lent to repair her real estate is void, unless the lender can show that the money was actually so applied (Hugh v. Jones, Leg. Int., March 25th, 1859). It is true that a bond with a warrant of attorney to enter judgment was held good, when given in part payment of the purchase-money of property bought by her; but that is sustained on the ground of necessity to prevent fraud, else it was thought she could keep the land and refuse to pay for it (Patterson v. Robertson, 1 C. 81). In the last case decided, and reported in the Legal Intelligencer, Judge Woodward raises some question as to the validity of the note given for repairs done to her real estate, probably supposing it might often be anything but beneficial to make them. But until otherwise decided, we shall hold such a debt to be valid.
+Herr, for plaintiff.
+Mumma and Kunhel, for defendant.
+Ordinarily, an auditor cannot pass on the validity of judgments; but where they are against a married woman, they are primd facie void, and he can hear evidence to sustain them and establish their validity, as having been given for some of the debts recognized by the act of 1848.' Every presumption must be made in favor of the auditor’s decision; but we are so extremely apprehensive that the principles on which this matter should be determined have been overlooked, probably both by the counsel and the auditor, that we think justice will be more probably reached by referring it back to him for further examination, and the principles suggested will indicate the course to be pursued.
