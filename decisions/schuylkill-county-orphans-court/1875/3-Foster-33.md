@@ -1,0 +1,50 @@
+---
+court: "Schuylkill County Orphans' Court"
+decided: "1875-06-14"
+citations: ["3 Foster 33"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ACCOUNT OF WM. FLOOD, Executor of MARGARET MAGINNES, Deceased."]
+source_url: "https://static.case.law/foster/3/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12169069
+cites_cases: ["12 H. 80", "3 B. 170", "3 Phila. Rep. 508", "3 Whart. 309", "6 H. 79", "8 C. 432", "8 C. 85", "9 C. 525"]
+---
+
+# In re the Account of Flood ex rel. Maginnes
+
+## Majority (Walker, J.)
+
+Opinion delivered June 14, 1875, by
+Walker, J.
+There are two exceptions to the confirmation of this report, and the first of which is the only material question to be considered, to wit: that the auditor erred in rejecting the claims of certain of the creditors of Mrs. Maginnes.
+The auditor finds the following facts, viz : That Margaret Maginnes was married to John Maginnes in May, 1843, and died 31st August, 1868, having first made her last will and testament, by which she appointed Wm. Flood her executor. She devised and bequeathed her real and personal estate to her five children, her husband being still living. The will was probated on the 3d of July, 1868.
+The auditor finds that Mrs. Maginnes in 1860 or 1861 started business in Pottsville, in her own name, and on her own credit, and carried on a dry goods and grocery store; and that she bought and sold on her own separate credit with her customers; and that she was possessed of certain real estate in her own right. That the business was carried on with the knowledge and consent of her husband, who often made the purchases himself. Her executor haying filed his account showing a balance in his hands of $2,415.80, an auditor was appointed to distribute the fund to those entitled to receive it.
+The exceptants are the creditors of Mrs. Maginnis. Their aggregated claims for flour, feed, merchandise, &c., amount to $2621.78, which would give but a pro rata distribution. These articles were bought by Mrs. Maginnes, for the purpose of carrying on her business, and were not paid for at the time of her death.
+The auditor declined to allow these claims and distributed the balance to the legatees after deducting the costs of audit and the claims of Bancroft & Co., which the legatees agreed should be paid.
+The rejection of these claims is on the ground that the contracts of the testator, a married woman, are null and void under the aforesaid facts, and cannot be enforced by law or equity without her consent. Was this error?
+It is conceded by the counsel for the creditors that a married woman *at common law can make no valid contract; that her agreements and promises are nullities, and that the authority she possesses is conferred by the Act of Assembly. The power that is not given by statute, is not possessed and cannot legally be exercised.
+The statute must therefore be the criterion of her capacity to contract.
+The 6th section of the Act of April 11, 1848 (Purdon’s Dig. 1005, P. L. 13), gives her the power to own, use and enjoy, both real and personal property accruing to her, by will, descent, or otherwise, whether owned by her before marriage, or accruing to her after, free from levy and execution of the debts and liabilities of her husband and to sell and convey the same, &c.; Provided, That the said husband should not be liable for the debts of the wife contracted before marriage; provided, that nothing in this Act shall be construed to protect the property of any such married woman from liability for debts contracted by herself, or in her name, by any person authorized to do so.” The exception in the Act of debts contracted by herself has reference only to her debts contracted for necessaries for the support and maintenance of her family. Glyde v. Kiester, 8 C. 85; Heugh v. Jones et ux., 8 C. 432; Bear’s admr. v. Baer, 9 C. 525.
+Her power, therefore, to contract in a case like the present one is not conferred by that proviso.
+By the 8th section she may contract for necessaries for the support and maintenance of her family.
+In Mahon v. Gormley, 12 H. 80, the Supreme Court say that this proviso may be limited to torts; to debts contracted before marriage; to liabilities necessai’ily incurred in the management of her estate; and for necessaries for the support and maintenance of her family. But she is not vested with the unlimited powers of feme sole.
+“ Under the Act of 1848,” C. J. Lewis says, in Patterson v. Robinson, 1 Casey, 83, “ her power to purchase (land) giver her a right to contract for the payment of the consideration money, so far as to charge the property.” Ramborger v. Ingraham, 2 Wr. 146; Brunner’s Appeal, 11 Wr. 67.
+Her judgment bond is absolutely void, though given for debts contracted before marriage, or for necessaries for the family. Her separate estate if liable must be reached through the proper form of action. Keiper v. Helfrecker, 6 Wr. 325 ; Glyde v. Keiser, 8 C. 85 : Dorrance v. Scott, 3 Whart. 309 ; 2 Wr. 146 ; 6 H. 79 ; 15 P. F. S. 386. But she is liable for repairs to her separate estate made at her request and necessary for its preservation and enjoyment. Lippincott v. Hopkins, 7 P. F. S. 728 ; 8 C. 432.
+*A claim against a wife for improvement to her real estate is only constructively within the proviso of the 6th section of the 11th April, 1848, Finley’s Appeal, 17 P. F. S. 453. In Glidden v. Strupler, 2 P. F. S. 400 (affirmed in Graham v. Long, 15 P. F. S. 386), a married woman by agreement signed only by herself, and without any acknowledgment, contracted to sell land. She received one year’s interest and a small part of the purchase money. The purchaser took possession and made improvements, with her knowledge and encouragement. Held, that neither the principle of estoppel nor compensation would prevent her from recovering the land.
+And it was there also held that a married woman has no capacity to make contracts for the sale of land or to convey it except in the precise statutory mode.
+That at law femes covert have no capacity to make contracts ; their contracts are nullities, and in this respect equity follows the law, that positive acts of encouragement which might estop one sui juris, will not affect one under legal disability. Nor can legal incapacity be removed by fraudulent representations. Keen v. Coleman, 3 Wr. 299. See also Kirkland v. Hepselgefer, 2 G. 84 ; 10 Wr. 455 ; 3 P. F. S. 167 ; 9 P. F. S. 479 ; 11 P. F. S. 314.
+A married woman released railroad damages, her husband not joining. Held, she was not bound by the release. Railroad Company v. Burson, 11 P. F. S. 369. Under these authorities it is very evident that Mrs. Maginnes had no power to make contracts for the purchase of goods and merchandise that were not necessaries for her family and did not go towards improvements and repairs of her real estate, while she lived with her husband and was supported by him, and was never declared a feme sole trader.
+Such contracts cannot be enforced at law against her consent. The auditor has ably discussed the effect of her act, regarded as a feme sole trader, without a decree of the court under the Acts of 22d February, 1718, and 4th May, 1855, and in the absence of the facts and circumstances mentioned in the former act he correctly arrives at the conclusion that Mrs. Maginnes had no such power to contract which could be enforced in law or equity against her consent.
+In this conclusion we coincide.
+The case of Black v. Tricker, 9 P. F. S. 13, shows that a decree of a feme sole trader is not absolutely necessary in order to enable the wife to assert her rights and privileges in regard to her own property acquired under them. See Jacob v. Featherstone, 6 W. and S. 346 ; Hale v. Hesser, 3 Phila. Rep. 508 ; Cleaver v. Scheetz, 20 P. F. S. 496. But creditors who trade with married women who live with their *husbands, do it solely on their promise to pay, and must look to them alone. They are bound to know that they cannot legally enforce their claims without their consent arising on contracts not expressly or constructively within the statute. The hardship of the creditors is attributable to their own negligence.
+If this was a construction of the statute for the first time, it might be hard; but where, in cases of greater hardship, the Supreme Court have, in line upon line, and precept upon precept, enunciated this same doctrine, it becomes no longer a question of doubt but one of established law.
+In addition to what has already been said the auditor finds that John Maginnes, the husband, assented to the purchases of Mrs. Maginnes, and in many instances purchased for her himself. This would, without doubt, make him personally liable, the presumption of law being that she acted as his agent. Petty v. Anderson, 2 C. and P. 38 ; S. C. 3 B. 170 ; Jacob v. Featherstone, 6 W. and S. 346 and 9 ; Robinson v. Wallace, 3 Wr. 129 ; Hoffman v. Toner, 13 Wr. 232.
+The conclusion at which we arrived is
+1st. That at law a married woman could make no valid contract.
+2d. That her power to contract springs from the statute.
+3d. That when the Act of Assembly conferred authority upon her to purchase real estate it gave her the right to contract for the payment of the purchase money.
+4th. That she is liable for debts contracted before marriage and for necessaries after marriage by the express terms of the Act; and, constructively, she is liable for repairs and improvements to her real estate.
+5th. That she is not liable as a /eme covert, whilst living with her husband and being supported by him, for articles purchased; and that being under legal disability, she is not estopped from setting up her coverture as a defence; and that equity which follows the law will not aid the creditors in recovering their claims without her consent.
+The exceptions are therefore overruled, and the report is confirmed.
