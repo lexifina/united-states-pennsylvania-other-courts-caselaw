@@ -1,0 +1,26 @@
+---
+court: "Schuylkill County Court of Quarter Sessions"
+decided: "1873-09-29"
+citations: ["1 Foster 307"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JOHN MEEHAN."]
+source_url: "https://static.case.law/foster/1/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761955
+---
+
+# In re Meehan
+
+## Majority (Walker, J.)
+
+Opinion delivered September 29, 1873, by
+Walker, J.
+The petition of Edward Connelly and other tax payers; of Reilly township, was presented to the court, praying that the appointment of John Meehan, as treasurer and collector of school and road taxes,, should be vacated and suitable persons appointed by the court under the 6th and nth sections of the act of 17th February 1859 (P. Laws 1859, p. 53 and 54), entitled “An act to secure a stricter accountability of certain public officers in Schuylkill county,” on the ground that Meehan’s appointments are incompatible, and that he has failed to file the bonds required by the act.
+Upon filing of this petition, the above rule was granted on 8th September, 1873. An answer was put in, admitting the material facts in substance, but denying the conclusion of law. This case, therefore, involves the construction of these two sections. ' It appears from the evidence in this case, that John Meehan was a director in the school board of Reilly township school district in 1872 and 1873 ; that in March, 1873, he was appointed by Thomas McGovern, his deputy, for the collection of road tax of Reilly township; that he received the duplicate of Thomas McGovern, and exercised the duties of the office; that in July/ 1873, he was appointed by the board of said school district, the district treasurer, and also the collector of school taxes, and that on the 20th September, 1873, he resigned the office of district treasurer. These are the facts, briefly stated.
+The 6th section of the act of 1859, above referred to, provides “that no person shall be eligible to hold more than one township, borough, or school district office at one time, except the offices of township treasurer and collector.” That one person cannot, at the same time, hold the office of councilman and school director, has been decided by this court in the case of The Commonwealth v. Shoener, Legal Chronicle 177, and the opinion of the court by Judge Pershing, is in accordance with the spirit •and letter of the act. And this is so whether there be any pecuniary compensation connected with the office or not. A person cannot hold a township office at the same time he holds a school or borough office. He can not hold at the same time, two school, or borough, or township offices, •except as excepted in the act. Therefore it is incompatible that Meehan ••should be district treasurer of the school board, and collector of school •tax at the same time. Neither will his resignation of district treasurer help him to retain the office of collector of school taxes, if he be disqualified at ■the time of his appointment. 6 Harris 519.
+But the real question here is : Can Meehan, being a school director, receive the duplicate and act as the deputy for McGovern, in the collecting of road taxes in Reilly township? McGovern was duly elected the treasurer of Reilly township in 1873, for the purpose of collecting the road taxes, and faithfully performing his duty as treasurer. Whether he can ■delegate his power to another, is an important question, but wholly immaterial here, and upon which we express no opinion.
+If Meehan took upon himself the duties of the office, acted in it, and ' ■exercised the power conferred by the warrant, he must be regarded as an ■officer de facto. If, while he is a school director, he can hold and exercise ■the treasurer’s office under the name of deputy, there is nothing to prevent Ihim from exercising, at the same time, all .the school and township offices iin the township in the same way. This would be a palpable infraction of ‘.the law, and any other view would be to hold that he could do indirectly, what he could not do directly — in other words, that he could collect the tax without a bond, which he could not do with a bond. Both appointments are therefore illegal and void. But under the i ith section of this act, we are asked, after we declare both the offices of district treasurer and collector of school tax vacant, to appoint suitable persons to fill the offices.
+C. D. Hippie, Esq., for rule; S. W. Geer, Esq., contra.
+The 12th section of the act of the 8th of May, 1854 (P. L. 1854, p. 619, Pur. Dig. 240 pl. 28), provides that the board of school directors ■shall meet annually, and organize by choosing a president, secretary, and treasurer; and the 31st section (Pur. Dig. 246 pl. 65) of the same act, requires the board to appoint some suitable and competent person as collector of the school tax duplicate. The school board therefore have the •undoubted right to appoint the treasurer and collector. After this is done, -should the officers so appointed neglect or refuse to file their respective ¡•bonds within the time specified in the act, then the court of quarter sessions. may appoint. But we are clearly of the opinion that we cannot do so, ■¡until that contingency arises. Rule made absolute.
