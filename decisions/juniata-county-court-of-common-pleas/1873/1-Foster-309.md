@@ -1,0 +1,29 @@
+---
+court: "Juniata County Court of Common Pleas"
+decided: "1873-04-29"
+citations: ["1 Foster 309"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. VAN IRVIN v. ABRAHAM SEIBER."]
+source_url: "https://static.case.law/foster/1/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761987
+---
+
+# Van Irvin v. Seiber
+
+## Majority (Junkin, P. J.)
+
+Opinion delivered April 29, 1873, by
+Junkin, P. J.
+Samuel Richenbaugh, to raise money, gave his note to the defendant, Abraham Seiber, for $400, negotiable at thirty days, payable at Juniata Valley bank. Seiber endorsed, and plaintiff paid Richenbaugh the money. On last day of grace, after demand made, but before protest, Daniel Richenbaugh, brother of maker, was called into the bank, and upon being informed that his brother’s note was going to protest, agreed, in order lo save protest, to guarantee its payment, which the holder accepted. Under endorsement of defendant, on back of note, is this: “I hereby guarantee payment of within note,” and signed by Daniel Richenbaugh.
+The testimony shows, as per evidence of defendant, that when plaintiff 'handed o'ver the note- for protest (for it was on the same -day duly protested), he said that “ the man would not stand the guaranty, and it would have to be protested.” This could only mean that the guarantor ’had asked- to be relieved from his obligation, and the plaintiff then proceeded to protest, which discharged the guarantor.
+Under these facts defendant’s counsel contended that there could be no recovery — because of plaintiff accepting the guaranty of the brother of' maker, the consideration being not to protest, tied maker’s hands — and though but a few hours, still it discharged the endorser. The court overruled this position, and directed a verdict for the plaintiff. Defendant now moves for a new trial, assigning this instruction for error.
+Guarantees for commercial paper, upon sufficient consideration are recognized, and whatever of diversity of- opinion exists as to a guaranty made contemporaneously with the bill itself, it is agreed that when made afterwards, it is to be treated as the parties intended it should, to wit, a. guaranty in the technical sense of the term. Story on Promissory Notes, § 467 to § 486.
+Here, then, we have a guaranty made on the last day of grace, after demand of payment made, followed by due protest of the note, and it admits of no doubt, that Daniel Richenbaugh, was but a guarantor in the legal, ordinary, and accepted meaning of the term.
+Then we have simply this : The consideration of guaranty was that the holder should not protest the note. The maker, Samuel Richenbaugh, was not entitled to notice of protest, and the only person who was, is Seiber himself, endorser and defendant. Pie received such protest in due form from the notary. But'he complains that plaintiff by accepting the guaranty precluded himself from giving this notice, and by giving it violated his contract with the guarantor. The case then presents this anomaly : If the holder has ■ failed to protest, the endorser would have been discharged, not because of the guaranty but for want of notice, and because the protest was made the endoser claims that he is equally relieved from liability, because the holder, by the terms of the accepted guaranty had agreed not to protest. The solution of this question is found in the charge-of the court, where the jury were instructed that the contract of guaranty was between independent persons, who were not parties to the note, and with which the maker and endorser had nothing to do — were not privy, but utter strangers who could neither avail themselves of its benefits nor sue for its breach — in short, as to them (maker and endorser) there was no such guaranty.
+There was nothing in the guaranty which prevented the endorser from taking up the note and suing the maker, and as long as he could do-this he was not prejudiced.
+The hands of the holder were not tied as against the maker; there-was nothing to prevent instant action against the latter, and the utmost force the contract of guaranty could have exerted, if fully executed, would; have been to prevent notice of protest reaching the endorser. Of what can the latter complain ? His grievance, logically stated, is, you: were bound to protest and give me notice, or the law would have considered me injured, and therefore discharged. You contracted with the-guarantor to injure me in this way, and did not) therefore I am discharged. Then, is he not relieved of his obligation because he has received due-notice of the protest? We cannot see that the guaranty did him either good or harm. When we say the contract of guaranty was an independent, superadded agreement between other parties, who alone can complain of the breach, we escape all this absurdity, and the endorser is fixed for the debt.
+It is supposed that the contract of guaranty, being for the benefit of the maker of the note, if he accepted the act of his brother, the guarantor, might operate to the discharge of the endorser. But what part or lot had the maker in it ? it did not relieve him for a moment — did him no good— did him no injury if executed. But, be this as it may, the evidence cited •shows that the guarantor himself rescinded the guaranty, with the consent of the holder. This broke up the guaranty within a few hours after it was-.given, and there is not the slightest proof that the maker ever assented to •or adopted it. And can it be doubted that the parties to the guaranty •were competent to rescind the latter, without consulting either the maker •or the endorser? This guaranty was their own offspring, and they could put it to death at any moment by mutual consent, and this they did.
+New trial refused and judgment for the plaintiff on the verdict.
