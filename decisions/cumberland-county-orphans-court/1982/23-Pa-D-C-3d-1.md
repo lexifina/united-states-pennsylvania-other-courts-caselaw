@@ -1,0 +1,28 @@
+---
+court: "Cumberland County Orphans' Court"
+docket: "no. 232 of 1978"
+decided: "1982-05-21"
+citations: ["23 Pa. D. & C.3d 1"]
+reporter: "pa-d-c3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of Roland"]
+source_url: "https://static.case.law/pa-d-c3d/23/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4668349
+cites_cases: ["211 Pa. 99", "35 Somerset L.J. 259", "36 Somerset L.J. 336"]
+---
+
+# Estate of Roland
+
+## Majority (SHUGHART, P.J.,)
+
+SHUGHART, P.J.,
+On January 22, 1978, Commonwealth National Bank, as administrator of the Estate of Robert W. Roland, Sr., and as “guardian of the heirs of Robert W. Roland, Sr.” (sic) (actually guardian of Robert W. Roland, Jr., Christina Ann Roland and David G. Roland) entered into a contingent fee agreement with the law firm of Cleckner and Fearen to represent the administrator/guardian with respect to a cause of action which occurred April 6, 1978, resulting in the death of Robert W. Roland, Sr. The wrongful death and survival actions proceeded to trial and on September 25, 1981, a verdict was returned in the wrongful death action in the amount of $127,083.63, and in the survival action in the amount of $475,870.42 for a total of $602,954.05. Motions for judgment n.o.v. and for new trial were filed by defendant which are pending in the Court of Common Pleas of Dauphin County.
+The Commonwealth National Bank, as guardian of the three minor children, presented a petition to this court asking approval to borrow a total of $20,719.86 from the cash and short-term investment accounts of the minors in order to pay expenses that have been incurred in the litigation of the case. A hearing was fixed on the application and because it appeared that there was a conflict of interest between the guardian and the wards, J. Wesley Oler, Jr., Esq., was appointed a special guardian ad litem for each of the wards. The hearing was held on April 26 following which briefs were filed. The matter is now ready for decision.
+During his lifetime the father had established separate Totten Trusts for the children which at the present time have values of approximately $19,000 for the child, Robert W. Jr., $23,000 for Christina Ann and $7,000 for the youngest child, David G. The guardian has requested that the total amount to be borrowed to cover the expenses be allocated against the estate of each minor in proportion to the value of each estate. The sole asset in the estate of Robert W. Roland, Sr. is the house in which he resided prior to his death with the three children and in which his ex-wife, the mother of the three children, now resides with the wards. The trust officer testified that it was impractical to use the estate’s assets to pay the costs because it would destroy the present residence of the children. There is income coming to the fiduciary from social security and workmen’s compensation benefits, but the bulk of this is used to defray the maintenance costs of the children.
+Counsel have cited no case to us in which the problem here involved has been decided, and our own research has likewise been fruitless. A number of problems immediately confront us. First, of the $600,000 total, only the $127,000 wrongful death verdict, if paid, would go directly to the three children. Although they are the heirs of Robert W. Roland, Sr., survival recovery would be payable to the estate and there is no indication in the record as to the existence of debts, etc. which might reduce this recovery. On the other hand, petitioner seeks to have the full amount of the costs payable from the minors’ estates. It is clear under R.C.P. 2206 that the trial court may distribute the proceeds of the wrongful death recovery, including approval of counsel fees and expenses. Here, however, it is sought to have the orphans’ court having jurisdiction over the minors make this determination. We are immediately confronted with the responsibility of determining costs when another court is in far better position to determine what the expenses were and the reasonableness of them. A far more troublesome aspect of this situation is that since there has been a motion for judgment n.o.v., it is conceivable that the $600,000 verdict might be wiped out completely. We have before us nothing on which to evaluate the prospect of this occurrence. We are completely unable to determine whether we are in effect authorizing the expenditure of the minors’ funds in a futile effort to enhance their estates. Trial counsel has cited authority for the proposition that the representative of an estate is authorized to enter into a contingent fee agreement in litigation involving the estate: Shoeberger’s Estate, 211 Pa. 99 (1905), Ringler Estate, 36 Somerset L.J. 336(1979), Craig Estate, 35 Somerset L.J. 259, 10 D. & C. 3d 154 (1978). In none of these cases, however, does it appear that there was any request for the payment of costs from the separate estates of the wards, such as is here involved.
+Based on the record before us, we feel unwarranted in authorizing the payment of the costs from the estates of the minors as prayed for and the petition must therefore be denied.
+ORDER
+And now, May 21, 1982, for the reasons set forth above, the application to pay the expenses incurred in the litigation from the principal of the estates of the minors be and is hereby denied.
+It is further directed that J. Wesley Oler, Jr., Esq., court-appointed guardian ad litem, be compensated from the estates of the minors in the amount of $450. The guardian is directed to pay one-third of this amount from the estate of each minor.
