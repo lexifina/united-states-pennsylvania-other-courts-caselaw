@@ -1,0 +1,33 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "no. 0122"
+decided: "2004-12-28"
+citations: ["71 Pa. D. & C.4th 64"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harris v. Thomas Jefferson University Hospital"]
+source_url: "https://static.case.law/pa-d-c4th/71/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8923815
+cites_cases: ["840 A.2d 446", "862 A.2d 591"]
+---
+
+# Harris v. Thomas Jefferson University Hospital
+
+## Majority (NEW, J.,)
+
+NEW, J.,
+This court properly granted plaintiff’s motion to open judgment of non pros for failing to file a timely certificate of merit because plaintiff met all the requirements under Pennsylvania Rule of Civil Procedure 3051 for opening a judgment of non pros and satisfied the purpose of filing a certificate of merit.
+FACTUAL AND PROCEDURAL HISTORY
+James Harris (plaintiff) initiated this present action on April 5,2004, against Thomas Jefferson University Hospital (defendant Hospital), Kenneth Neuburger M.D. (defendant Neuburger), Aaron Weiss M.D. (defendant Weiss), and Maria P. Childers M.D. (defendant Childers). Plaintiff alleged that defendants failed to appropriately treat plaintiff’s decedent’s, Dimitrius Stratton, asthma, resulting in his death.
+On July 6 and August 22, 2003, plaintiff obtained the expert reports of Marc M. Levine M.D., a board-certified emergency room physician. In the reports, Dr. Levine provided his opinion that defendants Hospital, Neuburger, Weiss and Childers breached the standard of care in their treatment of plaintiff’s decedent which led to his death. These reports were provided to defendant Hospital as well as the insurance carrier for defendant Neuburger in October and September, 2003, respectively. In January 2004, plaintiff also obtained the report of Dr. Alan Rushton M.D., Ph.D., a board-certified pediatrician. Dr. Rushton’s report indicated that the conduct of the defendants fell below the standard of care for hospitals and physicians in their respective specialties and that such conduct was a substantial factor in the death of plaintiff’s decedent. Plaintiff argues that the reports of Dr. Levine and Dr. Rushton complied with the requirements of the certificate of merit rules.
+Pursuant to Pa.RC.P. 1042.3(a), plaintiff was required to file a certificate of merit on or before June 4, 2004. Plaintiff failed to file a certificate of merit. On July 8 and 9, 2004, defendants Hospital, Neuburger and Weiss filed praecipes to enter judgment of non pros pursuant to Rule 1042.6. Judgment of non pros was entered. Plaintiff filed a petition to open the judgments of non pros entered in favor of defendants Hospital, Neuburger and Weiss on July 16, 2004. On August 17, 2004, this court entered an order granting plaintiff’s petition to open the judgments of non pros. Defendants appeal the order.
+LEGAL ANALYSIS
+Pennsylvania Rule of Civil Procedure 1042.3(a) contains the requirement that in any action based upon an allegation that a licensed professional deviated from an acceptable professional standard, the plaintiff shall file a certificate of merit within 60 days after the filing of the complaint. The certificate certifies that another appropriate licensed professional has supplied a written statement that there is a basis to conclude the care, skill, or knowledge exercised or exhibited by the defendant in the treatment, practice, or work that is the subject of the complaint fell outside acceptable professional standards and such conduct was a cause in bringing about the harm. Hoover v. Davila, 862 A.2d 591 (Pa. Super. 2004).
+Rule 1042.6 allows for the prothonotary to enter a judgment of non pros against the plaintiff for failing to file a certificate of merit within the required time. Pa.R.C.P. 1042.6. The procedure to open a judgment of non pros entered pursuant to Pa.R.C.P. 1042.6 is governed by Pa.R.C.P. 3051. Koken v. Lederman, 840 A.2d 446 (Pa. Commw. 2003). In order to open the judgment, Rule 3051 requires: (1) the petition to open be timely filed; (2) there be reasonable or justifiable excuse for any delay; and (3) there be a meritorious cause of action.
+In the case sub judice, plaintiff met all the requirements to open a judgment of non pros as defined by Rule 3051. The first entry of judgment of non pros was entered on July 8, 2004. The second entry was filed the next day. Plaintiff filed a petition to open the judgment of non pros as to both one week later. Filing within one week is considered timely.
+As to whether there was a reasonable or justifiable excuse for delay, the reason provided by plaintiff was based upon his knowledge that, prior to the initiation of the lawsuit, plaintiff had provided the defendants with all the information that would have been contained in a certificate of merit. Plaintiff’s counsel was under the belief that the information provided was enough to satisfy the requirement under Pa.R.C.P. 1042.3. By providing the defendants with the medical expert reports stating there is a valid cause of action, plaintiff believed he had more than satisfied the purpose of the filing of a certificate of merit. Plaintiff’s counsel had provided defendants with full, complete information, and therefore believed there was no need for the filing of a certificate of merit. Although the court believes the plaintiff is in error and that a certificate of merit must be filed, the court finds the plaintiff has met the requirements of Rule 3051 that he had a reasonable belief \hat the requirements of the certificate of merit had been met.
+Based on the expert reports of Dr. Levine and Dr. Rushton, plaintiff has shown a meritorious claim. The reports allege the defendants’ conduct fell below the applicable standard of care and the conduct of the defendants caused plaintiff’s decedent’s death.
+Plaintiff met all three requirements set out in Pa. R.C.P. 3051 for the opening of a judgment of non pros. Additionally, plaintiff has more than satisfied the purpose of filing a certificate of merit. Plaintiff provided defendants, prior to the required filing of the certificate of merit, not just an attorney’s affidavit, but the reports themselves. The purpose of Pa.R.C.P. 1042.3(a) is to prevent the filing of baseless professional negligence claims. Since plaintiff has met that purpose, he should not be barred from his day in court because he mistakenly, but reasonably, believed he had met his obligation. Therefore, the order opening the judgment of non pros was proper.
+Wherefore, for all the reasons stated above, this court’s order should be affirmed.
