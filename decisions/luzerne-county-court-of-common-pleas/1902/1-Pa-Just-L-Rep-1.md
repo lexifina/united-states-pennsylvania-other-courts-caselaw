@@ -1,0 +1,29 @@
+---
+court: "Luzerne County Court of Common Pleas"
+docket: "62"
+decided: "1902-02-14"
+citations: ["1 Pa. Just. L. Rep. 1"]
+reporter: "pa-just-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wagner v. Hoffman."]
+source_url: "https://static.case.law/pa-just-l-rep/1/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761825
+---
+
+# Wagner v. Hoffman
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The defendant appealed from the judgment of a Justice of the Peace rendered against her and, in the common pleas, agreed that the case should be referred to a referee, under the act of March 23, 1870, and supplements, who found, after a full trial upon the merits, “That plaintiff is entitled to recover.” Upon exceptions to the finding of the referee, the court below reversed his findings as to jurisdiction and set aside the report. The order so doing constitutes the only assignment of error.
+In the course of the trial before the referee, the defendant offered in evidence a letter signed by the Justice of the Peace, before whom the case was tided, addressed to Dr. O. E. Hoffman, the husband of the defendant, notifying him that a claim against him in favor of Harry Wagner, of Conyngham, Pa., calling for $60.00, with interest from March, 1899, had been left with him for collection. This was offered “for the purpose of showing that Harry Wagner, if he had a claim at all it was against O. E. Hoffman.” The trial proceeded and at the argument the defendant presumably used this letter for the purpose of showing that the defendant having been the agent of the plaintiff, was incapacitated for trying the case.
+In reviewing the case in the court below, the judge before whom it was heard, after quoting the letter in full, says: “It thus appears that Hunter was a collecting agent for the plaintiff and afterwards assumed to sit in judgment concerning the subject matter of his agency as between his principal and the defendant. That this was a high misdemeanor in office indictable at common law was held by Justice Gibson in Boyer vs. Potts, 14 S. R. 158.”
+In Swain vs. Brady, No. 32 of January Term, 1902, we have this day filed an opinion, in which we have pointed out the difference between the statutory appeal from a judgment of the justice of the peace and the common law writ of certiorari issued out of the court of common pleas to bring up the proceedings before him and held that, the justice having had jurisdiction of the subject matter, if the defendant, who had appealed, desired to take advantage of any irregularity, he must do so by a cer-tiorari, and not upon the appeal in which there could only be a trial upon the merits. In this case the Justice undoubtedly had jurisdiction of the subject matter and the fact that he was a Justice of the Peace was not denied. It was alleged, however, that by reason of the letter addressed to the husband of the defendant, he had ousted his own jurisdiction and had incapacitated himself for hearing the case between the plaintiff and the defendant subsequently brought. For the reasons pointed out in Swain vs. Brady Supra, we think the decree of the court reversing the finding of the referee was erroneous. There was not such a lack of jurisdiction, even admitting that the Justice was incapacitated for trying the case before him, as could be taken advantage of upon appeal.
+We do not think, however, that the Justice, so far as the testimony shows was incapacitated. The facts of the. case are very similar to those of Boyer vs. Potts, 14 S. R. 157, above referred to. In that case, Mr. Justice Gibson says: It was alleged that Boyer had sued David Potts, the father, ’before Justice Menden-hall for the same cause of action that is laid in this suit against his son, and to prove this the defendant offered an account furnished to his father in the handwriting of Justice Mendenhall, who is dead, accompanying a note from the Justice which contains an admission of a payment.
+This was furnished before suit was brought and it is contended to be competent evidence, because, as it is said the Justice was the agent of Boyer and consequently, that his acts are to be treated as the acts of his principal.
+There, was no evidence of any delegation of authority except what was thought to result from the relation in which the parties stood of magistrate and suitor, and the law certainly will not from this presume the existence of an agency so fraudulent and base. “There is no sufficient evidence in this case, outside the letter, to constitute the Justice of the Peace the attorney in fact or agent of the plaintiff for the collection of this money for a consideration. The account was left with him by the plaintiff to collect.”
+“Upon the cross-examination of the Justice he was asked: Q. Whether or not Wagner told you to send it? A. Wagner told me he had a claim for the building of that house amounting to $60.00, and I should collect it for him. Q. And you were his agent? A. In a manner.”
+The entire evidence taken together is not sufficient, in our opinion, to constitute such an agency as would disqualify a Justice of the Peace from acting in his official capacity in the collection of the claim by a suit. The letter was such a notice as is frequently given and very properly given by Justices of the Peace to their neighbors, in order to avoid costs, but this should not of itself disqualify him, in the absence of evidence that he had been employed as attorney in fact or agent by the plaintiff to collect his claim. Upon both grounds, therefore, we think the finding of the referee should be sustained. The decree of the court below is reversed and judgment is directed to be entered in favor of the plaintiff and against the defendant, in accordance with the finding of the referee.
