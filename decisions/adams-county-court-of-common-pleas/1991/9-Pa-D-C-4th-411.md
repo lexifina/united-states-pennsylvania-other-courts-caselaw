@@ -1,0 +1,50 @@
+---
+court: "Adams County Court of Common Pleas"
+docket: "no. 90-S-980"
+decided: "1991-03-06"
+citations: ["9 Pa. D. & C.4th 411"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nationwide Mutual Insurance Co. v. Cover"]
+source_url: "https://static.case.law/pa-d-c4th/9/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821488
+cites_cases: ["115 A.2d 733", "119 F.2d 809", "223 A.2d 681", "236 A.2d 758", "269 A.2d 888", "297 N.Y. 519", "349 Pa. Super. 541", "382 Pa. 326", "392 Pa. Super. 452", "396 Pa. Super. 527", "399 Pa. Super. 206", "423 Pa. 255", "428 Pa. 179", "440 Pa. 34", "524 Pa. 542", "61 N.Y.S. 317", "715 F.Supp. 684", "74 N.E. 2d 464", "838 F.2d 73", "842 F.2d 705"]
+---
+
+# Nationwide Mutual Insurance v. Cover
+
+## Majority (SPICER, P.J.,)
+
+SPICER, P.J.,
+Nationwide Mutual Insurance Company (Nationwide) has brought this declaratory judgment proceeding seeking judicial determination of two issues. One involves the refusal by another carrier to extend coverage and is not presently pertinent. The other involves policy provisions relating to benefits available to the insureds, James E. Cover and Ethel M. Cover. Nationwide alleges that it has paid policy limits for uninsured/underinsured coverage and should not be forced to arbitrate Mr. Cover’s demands for loss of consortium damages.
+The Covers have filed preliminary objections and seek to dismiss this action because of their previously made demand for arbitration.
+Although Nationwide’s request may appear reasonable, this court holds that all questions concerning policy coverage must be determined in accordance with the arbitration clause in the policy. Therefore, we sustain preliminary objections and dismiss this action as it relates to the Covers. This decision is made despite authority urged upon us and discussed, infra.
+Policy provisions which apply to this case read as follows:
+“If we and the insured do not agree about the insured’s right to recover damages or the amount of damages, the following arbitration procedure will be used:
+“After written demand for arbitration by either party, each party will select a competent and disinterested arbitrator. The two so selected will select a third. If selection of the third arbitrator cannot be agreed upon within 30 days, the insured or the company may request that selection be made by a judge of a court of record in the county and state in which arbitration is pending. Each party will pay its chosen arbitrator, and bear equally expenses for the third and all other expenses of arbitration.
+“Arbitration shall be conducted in accordance with the provisions of the Pennsylvania Uniform Arbitration Act.” Complaint, Exhibit A, at 12.
+It is the court’s opinion that this language covers all disputes, including interpretation of policy provisions in light of applicable law.
+Nationwide cites several federal cases in support of its position that it is entitled to judicial determination about the viability of Covers’ claim. It is, of course, entitled to have its complaint allegations viewed as true, with all favorable inferences to be drawn. Franklin Chalfont Associates v. Kalikow, 392 Pa. Super. 452, 573 A.2d 550 (1990). However, since we deal with matters of contract interpretation, that principle has little impact on our decision.
+Federal cases cited by Nationwide seem rooted in the Pennsylvania Supreme Court ruling in Women’s Society for the Prevention of Cruelty to Animals v. Savage, 440 Pa. 34, 269 A.2d 888 (1970), wherein it was said:
+“The issue of whether this dispute is one that is covered by the terms of the arbitration agreement is one for the court to determine. Westmoreland H. Assn. v. West. Const. Co., 423 Pa. 255, 223 A.2d 681 (1966); Phila. Mar. Assn. v. Longshoremen’s Assn., 382 Pa. 326, 115 A.2d 733 (1955). As Chief Justice Stern explained in his opinion in Phila. Mar. Assn., supra at 336, 115 A.2d at 738:
+“ ‘The construction of a contract to determine what questions the parties have agreed therein to submit to arbitration is one, not for the arbitrators themselves, but for the court to decide, and the court will not readily infer that it was intended to empower the arbitrators to determine the extent of their own jurisdiction: International Association of Machinists v. Cutler-Hammer Inc., 61 N.Y.S. 317 (affirmed 297 N.Y. 519, 74 N.E. 2d 464); B. Fernandez & Hnos., S. en C. v. Rickert Rice Mills Inc., 119 F.2d 809, 814, 815.’” 440 Pa. at 36, 269 A.2d at 890.
+In line with this, the Third Circuit has said:
+“State Farm’s position is correct. It is well-settled law in Pennsylvania that:
+“ ‘When a party to an agreement seeks to enjoin the other from proceeding to arbitration, judicial inquiry is limited to the question of (1) whether an agreement to arbitrate was entered into and (2) whether the dispute involved comes within the ambit of the arbitration provision.’ ” Myers v. State Farm Insurance Co., 842 F.2d 705, 707 (1988).
+The District Court has echoed these statements:
+“It is well established law in Pennsylvania that a party against whom arbitration is sought under an agreement to arbitrate has a right to a judicial determination of two issues: First, the court may determine whether the parties entered into an agreement to arbitrate, and second, the court may determine whether the dispute at issue falls under the agreement. Myers v. State Farm Insurance Co., 842 F.2d 705, 707 (3d Cir. 1988); Allstate Insurance Co. v. Gammon, 838 F.2d 73, 76, (3d Cir. 1988). The Third Circuit has held that Pennsylvania law requires that agreements to arbitrate be strictly construed, and they are not to be extended beyond their terms. Gammon, 838 F.2d at 76.” Nationwide Mutual Insurance Co. v. Bodenschatz, 715 F.Supp. 684, 685 (1989).
+If our consideration ended here, we would follow the lead of our distinguished federal brethren and proceed to adjudicate the issue raised by Nationwide. In the words of the District Court, we would determine whether conditions sufficiently trigger policy application before deciding preliminary objections. This, in effect, would decide Nationwide’s declaratory-judgment action.
+We agree that the court must determine initially if there is an issue to arbitrate. From that point, we part company with Nationwide’s position. We do not agree that the central issue of this case must be adjudicated in deciding arbitrability. Nationwide wants us to hold, as a matter of law and contract interpretation, that once it has paid policy limits, it cannot be forced to pay for loss of consortium. At present, the issue is not whether this position is correct, but who is entitled to make it. Phrased a different way, the question becomes whether this court should look beyond the arbitration clause and interpret other provisions of the policy. Since there is no question that the disagreement between the parties involves coverage, we hold that we are limited to provisions of the arbitration clause.
+First of all, it is no longer true that arbitration is viewed with a hoary eye. In insurance matters, there is a “policy favoring the arbitration of all coverage related issues.” Hade v. Nationwide Insurance Co., 349 Pa. Super. 541, 547, 503 A.2d 980, 983 (1986). The Superior Court also said, citing National Grange Mutual Insurance Co. v. Kuhn, 428 Pa. 179, 236 A.2d 758 (1968), that when policy language permits, “any dispute related to coverage should be arbitrated, not just those related to the claimant’s right to recover.” Hade, supra.
+Although it is a court function to determine if a given dispute is within the terms of an arbitration agreement, a grievance is outside the arbitration clause only when it can be said with positive assurance that the clause was never intended to embrace the issue. Id.
+In Hade, Superior Court, while expressing some serious reservations, could still not conclude with positive assurance that agent misconduct was beyond arbitration language. An award of $300,000 was sustained.
+Supreme Court has cited Hade with approval for the propositions that “any issue relating to coverage is within the purview of the arbitration clause.” Brennan v. General Accident Fire & Life Assurance Corp., 524 Pa. 542, 574 A.2d 580 (1990).
+In Brennan, arbitrators considered issues neither pursued nor raised by counsel, went beyond the main issue stated and considered facts, terms, provisions of the policy and applicable law to reach a fair and just decision. The approval was affirmed.
+In Lamar v. Colonial Penn Insurance Company, 396 Pa. Super. 527, 578 A.2d 1337 (1990), arbitration was directed when the issue was the insureds’ intent to procure policy limits of $100,000 instead of the policy statement of $15,000.
+Pennsylvania decisions have made it clear that when a policy states that all disputes shall be litigated, it means all disputes. As in the case before us, when a dispute concerns coverage or construction, it falls within the arbitration clause if the language so provides. If we were to look beyond the arbitration clause to interpret other policy provisions we would be, in the words of Hade, supra, compounding court proceedings upon the arbitra-tions process and would be resolving the veiy issue that the parties agreed to arbitrate.
+We find no reason to retreat from this position. There are no issues of public policy which dictate a contrary result, such as were present in Kester v. Erie Insurance Exchange, 399 Pa. Super. 206, 582 A. 2d 17 (1990).
+ORDER OF COURT
+And now, March 6, 1991, preliminary objections filed by defendants Cover are sustained and the complaint is dismissed as to them.
+Perhaps we should observe that cases dealing with common-law arbitration differ from statutory arbitration only in the extent to which judicial review is available. All other principles are the same. Id. We deal with statutory arbitration, and review rights are considerably broader than were common-law arbitration involved.
