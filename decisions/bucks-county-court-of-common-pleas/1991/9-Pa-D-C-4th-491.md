@@ -1,0 +1,29 @@
+---
+court: "Bucks County Court of Common Pleas"
+docket: "no. 90-06974-16-2"
+decided: "1991-02-19"
+citations: ["9 Pa. D. & C.4th 491"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Taras v. Wausau Insurance Companies"]
+source_url: "https://static.case.law/pa-d-c4th/9/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821739
+cites_cases: ["360 Pa. Super. 570", "389 Pa. Super. 396", "507 Pa. 360", "525 Pa. 171"]
+---
+
+# Taras v. Wausau Insurance
+
+## Majority (KANE, J.,)
+
+KANE, J.,
+Plaintiffs have appealed from the entry of our order of December 20, 1990, wherein we granted the preliminary objections and dismissed the complaint with prejudice against defendants, Wausau Insurance Companies and Barbara Eckels, R.N.
+Plaintiffs, Brian and Nancy Taras, filed suit against Wausau, Eckels, and others. The complaint alleges Mr. Taras suffered physical injuries as well as depression and anxiety as the result of an automobile accident on April 5, 1985, while he was engaged in the course and scope of his employment. He received workers’ compensation benefits from defendant Wausau as his employer’s carrier. Defendant Eckels, on behalf of Wausau, suggested various courses of treatment and arranged for evaluation and treatment of Mr. Taras by various physicians. The complaint alleges these arrangements made by defendant Eckels and on behalf of defendant Wausau were accomplished under circumstances where Eckels informed Mr. Taras that he was required to undergo such analysis and treatment in order to continue his eligibility for benefits.
+On August 23, 1985, Eckels arranged an appointment for an evaluation to be conducted by Penn Diagnostic Center. As a result of this evaluation, Penn Diagnostic recommended to Mr. Taras that he be hospitalized at Philadelphia Psychiatric Center, and he was admitted. While hospitalized, Mr. Taras came under the care of David L. Scasta, who recommended Mr. Taras undergo electroconvulsive therapy which he did on February 17, 1987. Later, on April 24, 1987, Mr. Taras was diagnosed as suffering from post-traumatic stress disorder, and in September 1987, he was informed that the prior treatment was inappropriate. Plaintiffs allege that defendants Wausau and Eckels acted negligently and carelessly in the selection of medical providers, and in so doing, have caused a worsening and prolonging of Mr. Taras’ psychological condition.
+Defendants Wausau and Eckels filed preliminary objections in the nature of demurrers submitting that Pennsylvania law does not provide a cause of action to a claimant of workmen’s compensation benefits against the compensation insurance carrier or its representative for negligent handling of a claim. After review of the complaint and following oral argument, we granted the defendants’ preliminary objections and dismissed the complaint with prejudice.
+Rule 1017(b)(4), Pa.R.C.P., allows any party to raise preliminary objections in the nature of a demurrer. A preliminary objection in the nature of a demurrer should be sustained only in cases that clearly and without a doubt fail to state a claim for which relief may be granted. County of Allegheny v. Commonwealth of Pennsylvania, 507 Pa. 360, 490 A.2d 402 (1985). Preliminary objections in the nature of a demurrer admit as true all well-pled factual averments and all inferences fairly deducible therefrom, but not conclusions of law. Rosipal v. Montgomery Ward, 360 Pa. Super. 570, 521 A.2d 49 (1987).
+Plaintiffs argue that the injuries suffered by Mr. Taras did not arise from and were not sustained in the course of his employment and therefore not within the scope of immunity provided by sections 303(a) and 305 of the Workmen’s Compensation Act. In addition, plaintiffs allege that defendants provided services and expertise which occupied a second capacity and duty to plaintiffs, thereby allowing this action under the dual-capacity doctrine. We find the Workmen’s Compensation Act and relevant case law to clearly support our decision in sustaining the demurrer that both defendants are immune from suit.
+The Superior Court was presented with similar facts and arguments in Alston v. St. Paul Insurance Companies, 389 Pa. Super. 396, 567 A.2d 663 (1989). The court found that “the express language of section 305, coupled with judicial interpretation of that section in relation to section 303(a), confers all of the employer’s immunities and protections under the act to the Workmen’s Compensation insurer.” In addition, the court stated that “the social policies underpinning the grant of immunity to employers and their compensation insurers apply equally to those individuals employed by the insurer to review the case.” It was therefore clear that both Wausau and Eckels were immune from suit and entitled to demurrers.
+Further support for our ruling can be found in the supreme Court decision of Kuney v. PMA Insurance Company, 525 Pa. 171, 578 A.2d 1285 (1990), which involved an action against an insurance carrier for fraud and deceit in depriving an injured employee of his workers’ compensation benefits. The Supreme Court held that “inasmuch as the appellee’s claim is ultimately based upon an injury compensable under the Workmen’s Compensation Act, he is limited to the remedies provided within the framework of the act.” As all the injuries suffered by Mr. Taras originated from the automobile accident and were compensated for under the act, this action cannot be maintained.
+The Workmen’s Compensation Act as well as case law have repeatedly found workers’ compensation carriers and those working on their behalf to be immune from suit. Therefore, we appropriately sustained the demurrers as to Wausau Insurance Companies and Barbara Eckels, R.N. and dismissed the complaint as to these defendants.
