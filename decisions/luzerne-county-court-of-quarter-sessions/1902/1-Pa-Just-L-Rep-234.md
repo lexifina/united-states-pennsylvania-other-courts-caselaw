@@ -1,0 +1,38 @@
+---
+court: "Luzerne County Court of Quarter Sessions"
+docket: "504"
+decided: "1902-09-10"
+citations: ["1 Pa. Just. L. Rep. 234"]
+reporter: "pa-just-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Plymouth Borough Constable."]
+source_url: "https://static.case.law/pa-just-l-rep/1/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6764739
+cites_cases: ["106 Pa. 643", "18 Mass. 129"]
+---
+
+# Plymouth Borough Constable
+
+## Majority (Wheaton, J.,)
+
+Opinion by
+Wheaton, J.,
+OPINION:
+The sole question -raised in this matter is 'this: Must a constable in a borough, which is divided into wards, be a resident of the ward in which he is elected or appointed to serve?
+By the Act of 1889, P. L. 6, each ward, in a borough which is divided into wards, is designated as an independent district for the purpose of electing at the times, in said Act specified, a properly qualified person for constable. If, therefore, prior to said Act, residence was an essential requisite to the exercise of the office of Constable in a township or borough, that would seem to at least recognize the reason for holding it to be equally essential in a ward, since the approval of said Act. As to townships, it is provided that no person shall be eligible to any township office unless he be an elector of the township for which he shall be chosen: Act of April 15, 1834, P. L. 537. As to boroughs, it is provided that electors only shall be eligible to borough offices: Act of April 3, 1851, P. L. 320.
+As one of the essential qualifications of an elector is that he shall have residence in the election district where he shall offer to vote, at least two months immediately preceding the election, it is apparent that residence in the township or borough is prerequisite to the right to hold a township or borough office. For the purposes of this case, I am disposed to consider a constable as a township or ward officer, and nothing more.
+Notwithstanding what was said in Reading’s Constables, 8 Pa. C. C. Reps. 101, the Supreme Court of this State has vised the following language: “The constable is a township or ward" officer; outside of it he has no jurisdiction, and even his power to execute process beyond his immediate district arises rather from the jurisdiction of the magistrate than from his own:” Com. vs. Lentz, 106 Pa. 643. And this is entirely consistent with the doctrine that if a warrant be directed generally to ’all constables, no one can execute it out of his own precinct; but if it be directed to a particular Constable by name, he may execute it anywhere within the jurisdiction of the Justice.
+Considering, therefore, that, by the Act of 1889, the legislature intended to provide for ward representation strictly in boroughs divided into wards, the case is similar in principle to the election of borough councilmen by each ward in a borougn divided into wards, as provided by the Act of May 10, 1878, P. L. 51. Although that Act does not require that members of council elected from each ward shall be residents of said ward, it was held that such residence was essential, and that when a councilman, during his term, removed from the ward which he represented, he divested himself of the office, and upon quo warranto would be ousted therefrom: Com. ex rel. vs. Yeakel, 3 District Reps. 665.
+But, apart from these considerations, the office of constable is an ancient common law office, and, at the common law, residence in his district was essential: 3 Atk. 184; 12 Mod. 256. Removal from the parish caused a vacancy in the office, and statutory provision was made for the filing of such vacancy: 13 and 14 Car. 11, ch. 12, Sec. 15.
+It is argued by counsel for the respondent that a constable need not be resident of the ward because it is not expressly required.
+The answer to this is clearly, and, to me, conclusively set forth in the following language of Parker, C. J.: “It is contended by the plaintiff’s counsel that town officers, particularly constables, need not be inhabitants of the town, and it is true that this' is not expressly required, but we have no doubt that such was the intention of the legislature. Every man who is eligible to a town office is obliged, under a penalty, to serve when chosen, unless he comes within some of the exemptions. Certainly it was not intended to subject an inhabitant of another town to this penalty, he being eligible to a similar office in his own town, and liable to a penalty if he refuses to serve there. Besides, it must be conceded, as a general principle, that where the legislature has provided that certain offices shall exist in any particular community, the members of that community are alone eligible to those offices; they are, in fact, the representatives of that community in that department of municipal government which they are appointed to discharge. That community alone are judges of the qualifications of such officer, and can alone command his services. It would seem to follow that when he ceases to be a member of the community, he ceases to be its officer:" Inhabitants of Barre vs. Inhabitants of Greenwich, 18 Mass. 129.
+In addition to this, it is not entirely clear that the Act of 1889 does not expressly contemplate residence in each of the districts which it enumerates. Under the view taken by counsel for respondent, it would be quite possible for the same individual to be voted for and elected constable in all of the wards into which a borough may be divided. This would manifestly thwart the plain intent of the Act, that there should be a different constable for each ward.
+The language, “in each of said districts,” might, therefore, without any violence, quite as well apply to the location from which the properly qualified person is to be selected, as to the place where the selection is to be made, or he is to serve. If the language, “in each of said districts,” is used to designate the place where the election is to be held, or in which that officer is to serve, it is unnecessary and superfluous. If it is used to designate the place from which the officer is to be selected, it would make effective the intent of the act and would prevent the thwarting of that intent as above indicated.
+While I do not put the decision upon such an interpretation of the statute, but rather upon the two grounds, (1) that I find nothing which changes the common law, but rather that the reason of the law is from time to time recognized by statutory enactments as to analogous cases; and (2) for the reasons given by Judge Parker, I feel that if it were to be rested upon such construction of the statute as I have indicated, it would do no great violence to the language used, and would materially aid to bring about the result which the Act of 1889 clearly contemplates.
+I am of the opinion that R. F. Roberts, being admittedly a non-resident of the 10th ward of Plymouth borough, has no lawful right to hold the office of Constable for that ward, and that his appointment to fill the vacancy caused by the death of David Lawrence ought not to have been made.
+The right of the Court to remove him from the office, upon a rule to show cause is another matter. He has filed his bond and taken the oath of office, and has for some months been in the exercise of that office. His case is clearly within the quo war-ranto Act of 1836, and the statutory remedy provided by that act is exclusive. I find no other statutory method for determining the right of the de facto officer to hold his office.
+The rule, therefore, is discharged, without prejudice to a proceeding by a quo warranto.
+Reported by Harrower Bros.,
+Wilkes-Barre, Pa.
