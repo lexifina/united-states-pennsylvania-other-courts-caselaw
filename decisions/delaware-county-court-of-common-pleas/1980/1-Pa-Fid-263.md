@@ -1,0 +1,34 @@
+---
+court: "Delaware County Court of Common Pleas"
+decided: "1980-09-30"
+citations: ["1 Pa. Fid. 263"]
+reporter: "pa-fid"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson Estate"]
+source_url: "https://static.case.law/pa-fid/1/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1751762
+cites_cases: ["100 S.C. 745", "431 Pa. 542"]
+---
+
+# Jackson Estate
+
+## Majority (Diggins, S. J.,)
+
+Opinion of
+Diggins, S. J.,
+This opinion is in response to a petition by counsel for Beatrice M. Jackson, the surviving spouse of Robert F. Jackson. The petition is for the allowance of counsel fees as a claim against the estate. Mrs. Jackson has questioned the reasonableness of the amount charged and the estate raises the general rule that where a party has retained counsel to protect such party’s interest, counsel must be paid by that party.
+The court will first consider the services performed for which compensation is sought. Charles F. Mayer, Esq., represented Mrs. Jackson in a successful attempt to amend the adjudication of the estate of her husband, Robert F. Jackson. The initial adjudication on March 9, 1977 awarded Mrs. Jackson only a life estate in the premises known as 817 Crum Creek Road, Marple Township, Delaware County, plus 60 percent of the balance of the net estate for life with the power to consume for her reasonable comfortable maintenance and support. After the initial adjudication, counsel for the estate was unable to persuade the Internal Revenue Service to use the fair market value of the Marple Township property as the marital deduction. Mrs. Jackson’s life estate was valued at $10,744.08. Federal tax assessed on the estate was $41,840.84.
+Mr. Mayer was retained by Mrs. Jackson for the purpose of obtaining a fee simple interest. He filed additional petitions and presented evidence to the court in support of these petitions. Briefs were prepared, filed and argued. The amended adjudication prepared by Mr. Mayer was adopted by this court on October 2, 1978. The amended adjudication awarded Mrs. Jackson a fee simple interest in the Marple Township premises. With the award of a fee simple interest to Mrs. Jackson, counsel for the estate was able to obtain the marital deduction for the fair market value of the property. The fair market value used for the marital deduction was $93,115.08. This increase of $82,371 is an estimate of a benefit Mr. Mayer’s representation has brought Mrs. Jackson. The marital deduction utilized by counsel for the estate reduced the assessment of federal estate taxes to $10,298.12. The difference in taxes benefited the estate $31,542.72.
+Mrs. Jackson considers the $13,500 bill to be unreasonable. However, she has presented nothing to contradict the testimony of the petitioner’s witnesses, George E. Kearns, Jr., Esq. and Walter T. ReDavid, Esq., experts in the field of decedents’ estates. They testified as to the high quality of Mr. Mayer’s capabilities, the complicated nature of the Jack-sons’ prenuptial agreement and of the will of Robert F. Jackson. Both also testified that in their opinion Mr. Mayer’s fee was fair and reasonable.
+LaRocca Est., 431 Pa. 542, sets forth the factors to be considered in determining an attorney’s fee. These factors were used to develop the experts’ testimony in support of the amount charged. Therefore, the court accepts the amount of $13,500 as a fair, reasonable charge for Mr. Mayer’s professional services in this matter.
+The court will now consider whether Mr. Mayer’s fee is a responsibility of the widow alone or whether it can be charged against the estate in proportion to the benefit gained by the other residuary legatees.
+The general rule is that where a party retains counsel to represent his interest, counsel must be paid by that party: Wanamaker Trust, 30 Fiduc. Rep. 240. Mr. Mayer relies on the exception to the general rule which is restated in Wanamaker by a quote from Boeing Co. v. Van Gemert,_ U.S--, 100 S.C. 745, 749(1980): “[T]his Court has recognized consistently that a litigant or a lawyer who recovers a common fund for the benefit of persons other than himself or his client is entitled to a reasonable attorney’s fee from the fund as a whole.”
+This court considers the tax savings resulting from the increased marital deduction to be equivalent to the creation of a “common fund” benefiting the estate as a whole. However the increased market value of the property interest received by Mrs. Jackson is not part of that common fund. The total benefits created by Mr. Mayer’s efforts total $113,913.72. The residuary legatees other than Mrs. Jackson have benefited by Mr. Mayer’s efforts to the extent of 40 percent of the $31,542.72 tax savings. This is a benefit of $12,617.09, or 11.1 percent of the total benefit created by Mr. Mayer’s representation.
+The money already expended by the estate for the reasonable, comfortable maintenance and support of Mrs. Jackson from November, 1974 until December, 1979 ($37,450) is claimed by the estate to have eliminated the tax savings. Mr. Mayer’s experts testified that regardless of the success of the litigation, the estate was obligated to pay the money to Mrs. Jackson. Therefore, the tax savings are irrelevant to any previous payments made by the estate to Mrs. Jackson.
+Since the court has found that the benefits created by Mr. Mayer’s representation are valued at $113,913.72 and the residuary legatees other than Mrs. Jackson have been benefited to the extent of 40 percent of the tax savings ($12,-617.09), the beneficiaries other than Mrs. Jackson shall pay 11.1 percent of Mr. Mayer’s fee or $1,498.50. Mrs. Jackson, having received the bulk of the benefits created by Mr. Mayer’s representation remains personally liable for 88.9 percent of the fee or $12,001.50.
+Therefore, we enter the following
+ORDER
+And now, to wit, September 30, 1980, it is ordered and decreed that the sum of $13,500 be and it is hereby approved as fee to be paid to Charles F. Mayer, Esq., attorney for Beatrice Jackson; and,
+It is further ordered and decreed that all residuary legatees other than Beatrice Jackson shall pay the sum of $1,498.50 of. the total fee and Beatrice M. Jackson shall pay the'balance of $12,001.50.
