@@ -1,0 +1,34 @@
+---
+court: "York County Court of Common Pleas"
+docket: "no. 89-SU-01228-02S"
+decided: "1991-01-04"
+citations: ["9 Pa. D. & C.4th 156"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clark v. Clark"]
+source_url: "https://static.case.law/pa-d-c4th/9/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820201
+---
+
+# Clark v. Clark
+
+## Majority (DORNEY, J.,)
+
+DORNEY, J.,
+This matter is before the court on a petition to stay plaintiff’s proposed depositions, filed by defendant, Clifford W. Clark (hereinafter referred to as husband). Plaintiff is Ann L. Clark (hereinafter referred to as wife). Husband, in his petition, contests the scheduled depositions of Gary R. Clark, his brother, and Richard F. Schin, the vice-president of York Federal Savings and Loan in charge of customer service. A brief background statement is in order.
+On March 17, 1989, wife filed a complaint for divorce. On August 14, 1989, wife caused subpoenas to be served upon Richard Schin and Gary R. Clark requesting their presence at a deposition to be held on September 13, 1989, at 10 a.m. On August 24, 1989, husband petitioned the court to stay wife’s proposed depositions. The court entered an order staying the depositions until further order of court and providing a rule returnable within 20 days of service. Wife filed a response to petition to stay plaintiff’s proposed depositions, and memorandum in support of allowance of depositions on September 7, 1989. Husband filed a memorandum in opposition to allowance of depositions on September 15, 1989.
+Initially, there was some question as to whether Pa.R.C.P. 1920.22 or 23 Pa.C.S. §403(b.l), dealing with depositions in divorce cases, should apply. However, both parties agree that Pa.R.C.P. 1920.22 is the applicable rule in this case and, due to the Pennsylvania Supreme Court’s suspension of 23 Pa.C.S. §403(b.l), this court agrees. Thus, the issue herein is whether the circumstances of this case warrant the issuance of a special order of court to obtain the depositions of Gary R. Clark and Richard Schin.
+Husband argues that this court should deny wife’s request for oral depositions because the real purpose of wife’s request is to harass husband, interfere with his business relations and maliciously force him into settlement with her. Husband further argues that such depositions may have a devastating effect on his business relations and that a special order directing depositions is not necessary in this case.
+Husband claims that he is near bankruptcy, yet refuses to give wife any information about his business. Wife claims that her request for depositions is not for purposes of harassment, but to obtain pertinent information about her husband’s business dealings and economic condition. Wife made a motion for request for production of documents on June 23, 1989, and contends that husband has refused to respond.
+Discovery under the Divorce Code is governed by Pa.R.C.P. 1920.22, which provides as follows:
+“Except as provided by subdivision (b), there shall be no discovery in an action of divorce or for annulment or a claim which has been joined as permitted under the Divorce Code unless authorized by special order of court.”
+Subdivision (b) permits the filing of interrogatories regarding economic matters as of course. To apply this rule to the instant case, we look to case law for explanation as to when a special order for discovexy should issue. In Miller v. Miller, 31 Chester L. Rep. 509 (1983), the court sought to explain why discovery in divorce cases requires prior review by the court when discovery in civil cases has no such requirement. The court maintained that, “the most sensible explanation of the difference in approach in divorce cases is that the drafters of the rules wanted to prevent one spouse from harassing the other during the course of divorce proceedings and to eliminate ‘fishing’ expeditions into each other’s private lives.” The court, in McCann v. McCann, 19 D.&C. 3d 237 (1981), found that a “blanket order” for oral depositions regarding economic matters in divorce cases should not be allowed, but that special orders for oral depositions should issue when the circumstances warrant it. The court further found that oral depositions are often valuable methods of discovery in developing economic aspects pertinent to divorce cases. In McCann, the husband was president of a small, closely held corporation and the court found that the oral depositions of the husband’s accountant would be helpful to the case, and thus, warranted a special order of court.
+In the instant case, husband is a businessman who has retired from his normal employment with Die-bold Corporation. After his retirement, he became a stockholder in a corporation located in the State of Maryland. Wife now seeks permission from the court to depose both Mr. Schin and husband’s brother in light of the fact that husband now claims that his company is nearly bankrupt and that he has no assets. In particular, wife would like to depose Mr. Schin because husband may have entered into certain business arrangements with Mr. Schin regarding the business relationship between York Federal Savings and Loan and her husband’s business. Wife also proposes to depose husband’s brother, Gary R. Clark, because she has learned that husband may have entered into business arrangements that included a loan to his brother in the amount of $25,000.
+We think that the present situation merits a special order under Pa.R.C.P. 1920.22. We do not believe that wife’s purpose is to harass or delay the proceeding because proper preparation includes intensive discovery of the financial history of the marriage. Nor do we believe that permitting such discovery is allowing a “fishing” expedition into husband’s private affairs. Discovery is proper, as in this case, where inquiries are necessary to uncover the value and nature of the assets that were acquired during the marriage.
+We believe that wife’s request for discovery is proper in that marital assets may be involved in husband’s corporation. Furthermore, in light of the fact that husband is claiming that his company is nearly bankrupt and that he does not have any assets, we believe that wife’s attempt to locate marital assets is proper.
+Finally, we note that the circumstances herein are similar to those of the small, closely held corporation in McCann, supra, and likewise, find that oral deposition into the business affairs of this husband’s corporation are warranted, necessary and in accordance with proper procedure.
+Accordingly, we shall enter the following
+ORDER
+And now, January 4, 1991, it is ordered and directed that the stay of August 24, 1989, is lifted and the plaintiff, Ann L. Clark, shall be permitted discovery by depositions of Richard Schin and Gary R. Clark.
