@@ -1,0 +1,22 @@
+---
+court: "Lebanon County Court of Common Pleas"
+decided: "1864-03-21"
+citations: ["1 Pears. 536"]
+reporter: "pears"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McElree v. Fockler."]
+source_url: "https://static.case.law/pears/1/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814481
+---
+
+# McElree v. Fockler
+
+## Majority (By the Court.)
+
+By the Court.
+If there is any question firmly settled by the courts of this State (which is very doubtful), it is, that an auditor charged with the distribution of money arising from a sheriff’s sale cannot inquire into the validity or regularity of a judgment standing as a lien on the property sold. It is equally clear that the auditor can always receive proof of the direct payment of such liens. The question presented here is, which of the two principles does the action of the auditor come under ? The evidence of J. R. Henry was received to show that at the time Heilman assigned all of his interest in the judgment for five hundred dollars, given by Ryan to himself and Fockler, the note of Heilman to Ryan for two hundred and fifty dollars was handed back by the latter to the former, and this is treated by the auditor as payment of the judgment pro tanto. Could he lawfully so treat it? As we understand the evidence of Esquire Henry, the assignment of the judgment by Heilman to Fockler, and the giving over of the note by Ryan, were simultaneous acts, the one apparently the consideration for the other. It could not have been understood between the parties, at the time, that the judgment was to be considered paid or satisfied, else it would not have been assigned. The whole evidence shows that Fockler was to have the judgment, but without recourse back upon Heilman in any event. So far as we would infer from the evidence in the case, and the acts of th‘e parties as proved, Fockler must have settled for the note held by Ryan on Heilman, and thus have entitled himself to an assignment of the judgment. But giving up the note could in no event be treated as direct evidence of payment, against the simultaneous act of assigning it over. It was not so understood by the parties at the time. The most that could be inferred, if the facts were as contended by the counsel of Mr. McElree, who objects to the judgment, is that the consideration had in part failed, and the same was assigned over and kept on foot by fraud, to the injury of Ryan’s other lien creditors. In that state of the facts, taking them as established, the auditor would have no jurisdiction over the subject-matter, but like all other cases of alleged fraudulent liens, the fraud must be inquired of through an issue raised in court; the judgment cannot be impeached before the auditor. He can no more inquire whether a judgment is kept on foot by fraud, after the consideration for giving it has failed, and it ought to have been satisfied between the parties, than he can as to whether it was originally concocted for a fraudulent purpose. In the present case, on the application of Mr. McElree’s counsel, we directed an issue to inquire whether this judgment was fraudulent as to creditors, and on the trial of that issue was the proper time to make this investigation. It is true the issue was to ascertain if the judgment was fraudulent; but on the trial, fraud in keeping it on foot could have been inquired into as well as fraud in obtaining it. On the hearing of that case, we were satisfied from the evidence that the transaction was fair and honest, and the judgment in nowise impeached. The counsel for the opposing creditor seemed also convinced that he had failed, and asked leave to discontinue the issue, which was granted, and the matter was recommitted to the same auditor to make distribution, when the present claim of payment was set up. We consider it a mere effort to impeach the judgment indirectly, which cannot Ibe permitted. It was also error to receive Heilman’s declarations about the note, or the judgment, after he had assigned his interest in it, and this was the only satisfactory proof as to the amount of the note returned to Heilman.
+Fumóle, for plaintiff.
+Boughter, for defendant.
+The case is referred back to the same auditor, with instructions to report a distribution of the money to April Term, treating the judgment now in dispute as valid, unless there be proof of its direct payment in whole or in part.
