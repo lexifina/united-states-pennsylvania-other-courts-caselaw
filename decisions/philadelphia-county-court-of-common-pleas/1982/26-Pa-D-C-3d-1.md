@@ -1,0 +1,39 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "no. 3338"
+decided: "1982-12-21"
+citations: ["26 Pa. D. & C.3d 1"]
+reporter: "pa-d-c3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Blob v. Temple University"]
+source_url: "https://static.case.law/pa-d-c3d/26/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1937632
+cites_cases: ["337 F. Supp. 664", "446 F. 2d 1339", "482 Pa. 391"]
+---
+
+# Blob v. Temple University
+
+## Majority (GAFNI, ].,)
+
+GAFNI, ].,
+Before the court is the motion for summary judgment of defendant Temple University in plaintiffs complaint in trespass.
+Pa.R.C.P. 1035(a) provides, with respect to the appropriate time in which to file motions for summary judgment, that after the pleadings are closed, but within such time as not to delay trial any party may move for summary judgment . . .
+Plaintiff contends that the instant motion, filed on October 6, 1982, was filed at such a time as to delay the scheduled November 30,1982 arbitration hearing, and, accordingly, the motion should be dismissed. It is the view of the court that defendant’s October 6 filing in conjunction with the recusal, in November, of the judge to whom the motion had originally been assigned, warrants further consideration of the instant motion notwithstanding the delay of the previously scheduled arbitration hearing.
+Pa.R.C.P. 1035(b) provides for the granting of summary judgment whenever the pleadings, depositions, answers to interrogatories, and admissions of file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.
+The record, upon such a motion, must be viewed in the light most favorable to plaintiff, the non-moving party, and only if no genuine issue of material fact exists will judgment be granted to defendant as a matter of law.
+The facts, as alleged in the light most favorable to plaintiff, axe as follows: plaintiff is an employee of defendant corporation which operates as a university bounding North Broad Street, Philadelphia, Pa. Plaintiff is employed as a telephone operator at Temple University Hospital, a division of defendant university. On July 23, 1980, at about 8:15 am, plaintiff parked her car in a parking lot located at the northwest corner of Broad and Tioga Streets. This lot, known as Tioga West Parking Lot, was owned, operated, and controlled by defendant and was provided by defendant for the use of defendant’s employees and students. Plaintiff had requested a parking permit for the Tioga West lot and such a permit was provided by defendant for a fee of $5 per week. The incident occurred after 8:15 am as plaintiff was walking south on Broad Street from the parking lot area to the Parkinson Pavilion, the building in which she worked, to report for work. Plaintiff normally reported to work at 8:30 am. The Parkinson Pavilion is located on the southwest comer of Broad and Tioga Streets, diagonally across from the Tioga West parking lot. While walking, plaintiff fell on the sidewalk near the northwest comer of Broad and Tioga Streets and was injured. Plaintiff concedes that the sidewalk on which she was injured was owned, controlled and operated by defendant.
+It is the view of the court that the parties have, in effect, stipulated to all of the material facts underlying plaintiffs injuries and complaint.
+The substance of the instant motion lies in defendant’s contention that the exclusive avenue of redress for plaintiffs alleged injuries is the Workmen’s Compensation Act, 77P.S. §411(1). Section 411(1) defines “injuries arising in the course of employment" as:
+Injuries sustained while the employee is actually engaged in the furtherance of the business or affairs of the employer, whether upon the employer’s premises or elsewhere and shall include all injuries caused by the condition of the premises or by the operation of the employer’s business or affairs thereon, sustained by the employee who, though not so engaged, is injured upon the premises occupied by or under the control of the employer, or upon which the employer’s business or affairs are being carried on, the employee’s presence thereon being required by the nature of his employment. (Emphasis added.)
+It is apparent from this section that the Workmen’s Compensation Act is applicable to cover injuries incurred while an employee is acting within the scope of his employment as well as those injuries incurred while the employee is not acting in the scope of his employment as long as the injuries are incurred on the employer’s premises. As plaintiff was not acting within the scope of her employment at the time her injury occurred, the issues become whether her injuries occurred on defendant’s “premises” and whether plaintiffs presence at the site of the accident was “required by the nature of (her) employment.”
+ON THE EMPLOYER’S PREMISES
+In construing the phrase “on the employer’s premises,” the courts of this Commonwealth have looked to whether the situs of the accident was so connected with defendant’s business or operating premises as to form an integral part thereof: Epler v. North American Rockwell Corp., 482 Pa. 391, 393 A. 2d 1163 (1978). For present purposes, the issue is whether the sidewalk on which plaintiff was injured can be considered an integral part of defendant’s business or operating premises.
+It is apparent from the record that the Tioga West Parking Lot is a lot provided by defendant for the exclusive use of those University employees and students who are willing to pay a weekly fee. It is further apparent that the sidewalk on which plaintiff was injured lies adjacent to defendant’s lot and is a necessary walkway for those who travel between the lot and defendant’s buildings. It is also clear that said sidewalk was owned, operated and controlled by defendant. In Epler v. North American Rockwell Corp., supra, the Supreme Court of this Commonwealth held that an employee who was struck by an automobile while crossing a street from his employer’s plant to an employee parking lot was upon his employer’s premises for purposes of the Workmen’s Compensation Act. That he was injured upon a public street did not render the Workmen’s Compensation Act inapplicable.
+Similarly, in Ludwig v. Radio Corporation of America, 337 F. Supp. 664 (E.D. Pa. 1972), aff'd 446 F. 2d 1339 (3d Cir., 1973), the court held that an employee’s action in trespass was barred by the Workmen’s Compensation Act when plaintiff slipped and fell on a sidewalk owned and maintained by plaintiffs employer, while she was travelling from a parking lot, also owned and maintained by her employer, to the building in which she worked.
+It is the view of the court that the above cases control the court’s disposition of the instant issue. The foregoing establishes that plaintiff was injured upon defendant’s “premises” while walking from her employer’s parking lot to her place of employment; that the sidewalk was also a public easement is of no consequence. See, Epler v. North American Rockwell Corp., supra.
+It is clear, moreover, that plaintiffs presence at the situs was “required” in that plaintiff was required to be at work at 8:30 am and that it was necessary under such circumstances in order to be at work at that time, for her to use the Tioga West parking lot and the sidewalk adjacent to it. The court is satisfied that the circumstances were such as to “require” plaintiffs presence upon defendant’s premises.
+For the foregoing reasons, defendant’s motion for summary judgment will be granted.
+ORDER
+And now, December 21, 1982, upon consideration of the motion for summary judgment of defendant, Temple University, it is hereby ordered that judgment is entered in favor of defendant and against plaintiff.
