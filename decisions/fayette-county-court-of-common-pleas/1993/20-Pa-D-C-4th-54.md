@@ -1,0 +1,38 @@
+---
+court: "Fayette County Court of Common Pleas"
+docket: "no. 145 DR 1980"
+decided: "1993-03-19"
+citations: ["20 Pa. D. & C.4th 54"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kendi v. Kendi"]
+source_url: "https://static.case.law/pa-d-c4th/20/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1416247
+cites_cases: ["166 A.2d 72", "193 Pa. Super. 352", "276 Pa. Super. 51", "373 Pa. Super. 1", "379 Pa. Super. 361", "387 Pa. Super. 503"]
+---
+
+# Kendi v. Kendi
+
+## Majority (SOLOMON, /.,)
+
+SOLOMON, /.,
+Before the court is the defendant’s petition for relief of child support arrearages. Oral argument was held on the defendant’s petition on December 28, 1992.
+STATEMENT OF THE CASE
+Since 1980, the defendant has been paying $400 dollars per month for the support of his three children, pursuant to an order entered by the Fayette County Court of Common Pleas. The defendant paid his support until his incarceration in July 1986. On November 15, 1991, the defendant filed a petition to modify his support obligation. On December 20, 1991, a temporary order was entered directing the defendant to pay the sum of zero dollars per month for the support of his children since the defendant was incarcerated at that' time. Arrears of $26,000 ($14,000 due to the Department of Welfare and $12,000 due to the plaintiff) were held in abeyance.
+In support of his petition for relief of child support arrearages, the defendant argues that his arrearages should be remitted under 23 Pa.C.S. §4352 because of a substantial change in earnings as a result of his incarceration.
+DISCUSSION
+Initially, we must review the law regarding the court’s authority to retroactively remit or modify child support arrearages in light of the change in the law which occurred on March 25, 1988, and in light of the fact that the arrearages in question accrued under both the former law and the current law. We must also note at the outset that although the law has changed regarding the court’s power to remit or modify support obligations which have already accrued, once the court has determined that it does have the power to retroactively modify the accrued support, the standard to be applied in determining whether the modification should be allowed is the same under the former and current law.
+Prior to March 25, 1988, the court, in its discretion, could at any time remit, correct or reduce the amount of any arrearages. Akers v. Akers, 373 Pa. Super. 1, 540 A.2d 269 (1988). This power is discretionary and mandates the court to consider all relevant factors in the exercise of its discretion. Here, the respondent has not pointed to any factors which weigh against retroactive modification and we have also found none. Jackman v. Pelusi, 379 Pa. Super. 361, 550 A.2d 199 (1988). Thus, it is clear that this court has the power to modify the arrearages which accrued between July, 1986, when the petitioner’s incarceration began, and March 25, 1988, the effective date of the change in the law, providing that remittance is warranted.
+Effective March 25, 1988, section 4352 was amended to provide that:
+“No court shall modify or remit any support obligation, on or after the date it is due, except with respect to any period during which there is pending a petition for modification. If a petition for modification was filed, modification may be applied to the period beginning on the date that notice of such petition was given, either directly or through the appropriate agent, to the obligee.... However, modification may be applied to an earlier period if the petitioner was precluded from filing a petition for modification by reason of a significant physical or mental disability ... or other compelling reason and if the petitioner, when no longer precluded, promptly filed a petition.” 23. Pa.C.S. §4352(e).
+Here, the petitioner filed a petition for relief of child support arrears on November 4, 1991. Under the 1988 amendment to section 4352, the court is only permitted to modify those arrearages which accumulated during the pendency of the petition unless the petitioner was precluded from filing a petition for modification because of some compelling reason. Here, the petitioner alleges that his compelling reason is his incarceration. We have located only one case, Smith v. Halter, 50 D.&C.3d 104 (1989), which deals with the issue of whether incarceration qualifies as a compelling reason under section 4352(e).
+In Smith, the court found that the obligor’s incarceration was not a compelling reason which would permit the court to retroactively modify support arrearages which accrued while the obligor was incarcerated. The obligor in Smith was originally incarcerated for six months because of his failure to pay his support obligation. He was placed on work release and escaped by not returning from his place of employment. He was eventually captured and sentenced to up to 24 months in prison. Approximately five weeks before his release, the obligor wrote to the Domestic Relations Office requesting that his support obligation be lowered.
+The Smith court found that the obligor’s incarceration was not a compelling reason for his failure to earlier file a petition for modification since the defendant was actually jailed for his failure to pay support and he did write a letter to the Domestic Relations Section, near the end of his incarceration, requesting that his support obligation be lowered.
+The instant case is distinguishable from Smith. Here, the petitioner was incarcerated on a crime unrelated to his support obligation. Prior to his being jailed, he paid his support payments regularly. Additionally, the petitioner here did not receive notice, as required by 23 Pa.C.S. §4352(g), of his obligation to immediately notify Domestic Relations of his change in circumstances. Therefore, he had no reason to know that he was required to immediately contact the Domestic Relations Section regarding modification. Thus, we conclude that the petitioner’s incarceration is, under these circumstances, a compelling reason which precluded him from filing a petition for modification and, as such, this court may retroactively remit those arrearages if circumstances warrant remittance.
+To modify or reduce an existing child support order, there must be a change of circumstances and the burden is on the one who asserts that there has been a change to prove it by competent and sufficient evidence. Dugery v. Dugery, 276 Pa. Super. 51, 419 A.2d 90 (1980). Here, the petitioner has alleged that the changed circumstance is his incarceration as a result of which he was unable to work and earn money with which to pay his support obligations. The petitioner’s position is supported by the case law. See e.g. Bradley v. Bradley, 387 Pa. Super. 503, 564 A.2d 504 (1989); Dugery v. Dugery, supra; Commonwealth v. Soudani, 22 D.&C.2d 314 (1960), aff’d per curiam 193 Pa. Super. 352, 166 A.2d 72 (1960). In both Dugery and Soudani, child support arrearages were remitted due to the obligor’s incarceration.
+In light of the above cited case law, and the other circumstances relevant herein, we find that the arrearages which accumulated between July 1986, the date of the petitioner’s incarceration, and the date of petitioner’s release from incarceration, must be remitted.
+Wherefore, we will enter the following order.
+ORDER
+And now, March 19, 1993, it is hereby ordered that the arrearages which accumulated between July 1986, the date of the petitioner’s incarceration, and June 1992, the date of the petitioner’s release from incarceration, are remitted.
