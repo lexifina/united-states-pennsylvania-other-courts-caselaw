@@ -1,0 +1,40 @@
+---
+court: "Dauphin County Court of Common Pleas"
+docket: "no. 104 S 1990"
+decided: "1990-07-06"
+citations: ["6 Pa. D. & C.4th 609"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dauphin Deposit Bank and Trust Co. v. Toyota Motor Corp."]
+source_url: "https://static.case.law/pa-d-c4th/6/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1273920
+cites_cases: ["214 Pa. Super. 384", "246 A.2d 848", "257 A.2d 676", "27 U.S.C. §§212", "282 A.2d 206", "344 Pa. Super. 325", "353 Pa. Super. 648", "376 Pa. Super. 220", "387 N.W.2d 565", "432 Pa. 217", "444 Pa. 263", "462 Pa. 83", "480 Pa. 547", "498 Pa. 594", "505 Pa. 239", "506 A.2d 1340", "523 Pa. 1", "523 Pa. 176", "674 F.Supp. 1149", "679 F.Supp. 485", "735 S.W.2d 578", "835 F.2d 510", "856 F.2d 184"]
+---
+
+# Dauphin Deposit Bank & Trust Co. v. Toyota Motor Corp.
+
+## Majority (NATALE, J.,)
+
+NATALE, J.,
+Presently before the court are defendant’s, Campari USA Inc., preliminary objections in the nature of a demurrer to counts VII, VIII, IX and X of plaintiffs complaint. For the following reasons, the court sustains these demurrers and orders the complaint against Campari USA Inc. dismissed with prejudice and Carm pari USA Inc. deleted from the caption of this case.
+Plaintiffs ward was severely injured when a drunken driver crossed over into her lane of travel and hit her car (her guardian did not sue the drunken driver). Plaintiff has sued Campari USA Inc., an importer of alcoholic beverages, alleging that it sold the alcoholic beverages to the tavern where the driver bought and consumed the beverages. Plaintiff alleges that Campari USA Inc. is liable for not warning of the hazards of driving while' intoxicated and because the dangers of alcohol outweigh their benefits to our society. As a result, plaintiff claims Campari USA Inc. is liable under count VII for negligence, under count VIII for strict tort liability, under count IV for breach of warranty, and under count X for joint and several liability.
+The dangers of intoxication and of driving while intoxicated are so well known that every court that has considered the issue has held that manufacturers of alcoholic beverages need not warn about them. See, e.g., Maguire v. Pabst Brewing Co., 387 N.W.2d 565 (Iowa 1986); Morris v. Adolph Coors Co., 735 S.W.2d 578 (Tex. Civ. App. 1987).
+These dangers are not merely examples of risks that are generally known to ordinary consumers — they are the classic examples cited as such risks. Azzarello v. Black Brothers Co., 480 Pa. 547, 556 n.10, 391 A.2d 1020, 1025 n.10 (1978); Berkebile v. Brantly Helicopter Corp., 462 Pa. 83, 94, 337 A.2d 893, 898 (1975); Hon v. Stroh Brewery Co., 835 F.2d 510, 516 (3d Cir. 1987); Restatement (Second) of Torts §402A, comments i and j (1965).
+In ruling on preliminary objéctions in the nature of a demurrer, the complaint must be examined to determine whether it sets forth a cause of action which, if proved by plaintiff, would entitle her to the relief she seeks. All well pleaded factual averments and all inferences fairly deducible therefrom are admitted as true, but conclusions of law are not. Higgins v. Clearing Machine Corp., Division of U. S. Industries Inc., 344 Pa. Super. 325, 496 A.2d 818 (1985). Turning to plaintiffs causes of action seriatim, the following can be noted.
+Count VII — Negligent Failure to Warn
+Negligent warning cases are subject to the caveat that a product is not defective without warnings where the danger is obvious. Ellis v. Chicago Bridge & Iron Co., 376 Pa. Super. 220, 233, 545 A.2d 906, 913 (1988). Pennsylvania has adopted Restatement (Second) of Torts §388 (1965) as the standard for negligent failure to warn. Incollingo v. Ellis, 444 Pa. 263, 282 A.2d 206 (1971). Section 388 states that a supplier is liable if it “(b) has no reason to believe that those for whose use the chattel is supplied will realize its dangerous condition. . .” The duty to warn under this section applied to latent dangers. There is no duty to warn of obvious dangers. As noted earlier, the dangers of drinking and driving are obvious to anyone in this country. Defendant Campari USA Inc.’s demurrer to count VII is sustained.
+Count VII — Strict Tort Liability
+Pennsylvania has adopted Restatement (Second) of Torts §402A, comment j (1965) as the standard for warning defect claims. Baldino v. Castagna, 505 Pa. 239, 478 A.2d 807 (1984); Sherk v. Daisy-Heddon, 498 Pa. 594, 597 n.2, 450 A.2d 615, 617 n.2 (1982). Relying on comment j, Pennsylvania courts have repeatedly held that it is unnecessary to warn of an inherently dangerous condition of a product about which the ordinary consumer is aware. Hence, defendant Campari USA Inc.’s demurrer to. count VIII is sustained.
+Count IX — Breach of Warranty
+Breach of warranty claims and strict liability under section 402A claims have identical elements. MacDougal v. Ford Motor Co., 214 Pa. Super. 384, 257 A.2d 676 (1969), allocatur denied, October 28, 1969. Warranty claims “must be coextensive with Restatement section 402A in the case of product liability,” Kassab v. Central Soya, 432 Pa. 217, 231, 246 A.2d 848, 854 (1968). Defendant’s, Campari USA Inc., demurrer to count IX is sustained.
+Count X — Joint and Several Liability
+Count X alleges the joint and several liability of all the defendants. As no cause of action against Campari USA Inc. exists, there is no basis on which it could be jointly liable. The demurrer is sustained.
+Risk/Utility Theory
+Plaintiff argues that strict liability exists because the risks of alcohol outweigh their utility. The risk/utility theory has been rejected by several Pennsylvania courts, Faiella v. Bangor Punta Corp., 42 D.&C. 3d 534 (1985), aff'd without op., 353 Pa. Super. 648, 506 A.2d 1340 (1985); Sunsalus v. Celotex Corp., 674 F.Supp. 1149 (E.D. Pa. 1987); Miller v. Brown & Williamson Tobacco Corp., 679 F.Supp. 485 (E.D. Pa.), aff'd without op., 856 F.2d 184 (3d Cir. 1988). These cases have noted that a risk/utility theoiy would allow courts and juries to make the kind of policy judgments which are reserved for legislative bodies. The legislative bodies of this commonwealth and country have acted to allow the sale of alcohol. See, e.g., Constitution of the United States, Amendment XXI, §§1-2; 47 P.S. §§4-401 through 4-411. These enactments reflect legislative judgments that, under the prevailing social and legal values of our society, the risks associated with the consumption of alcohol do not outweigh the benefits.
+Plaintiff has asserted that the recently passed Alcoholic Beverage Labeling Act of 1988, 27 U.S.C. §§212-219a (Supp. 1990) reflects a congressional judgment that the public “does not fully appreciate the hazards presented by alcoholic beverages.” The legislative history of the act directly refutes this assertion.
+“The warning label required by this act is basically a reminder of what nearly all Americans already know about the problems of alcohol use and abuse, [statistics omitted] These figures indicated that there is widespread awareness of the health risks associated with alcohol use or abuse. . .” 134 Cong. Rec. S17301 (daily ed. October 21, 1988; remarks of Senator Ford).
+A plaintiff must prove a product defect as an essential element of any products liability action, whether the action is negligence, strict liability or warranty. See, e.g., Rogers v. Johnson & Johnson Products Inc., 523 Pa. 176, 565 A.2d 751 (1989); Wenrick v. Schloemann-Siemag Aktiengesellschaft, 523 Pa. 1, 564 A.2d 1244 (1989). As plaintiff cannot plead nor prove a defect in Campari’s product, all demurrers are sustained.
+ORDER
+And now, July 6,1990, the preliminary objections in the nature of a demurrer filed by defendant, Campari USA Inc., are hereby sustained. The complaint against Campari USA Inc. is dismissed with prejudice, and Campari USA Inc. is ordered deleted from the caption of this case.
