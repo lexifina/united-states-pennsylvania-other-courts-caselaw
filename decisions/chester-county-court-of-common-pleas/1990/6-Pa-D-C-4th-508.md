@@ -1,0 +1,43 @@
+---
+court: "Chester County Court of Common Pleas"
+docket: "no. 87-00602"
+decided: "1990-05-30"
+citations: ["6 Pa. D. & C.4th 508"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beechwood v. Shieldmakers Enterprises"]
+source_url: "https://static.case.law/pa-d-c4th/6/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1273958
+cites_cases: ["236 A.2d 508", "239 A.2d 337", "428 Pa. 468", "428 Pa. 90", "472 Pa. 331"]
+---
+
+# Beechwood v. Shieldmakers Enterprises
+
+## Majority (WOOD, J.,)
+
+WOOD, J.,
+I
+This action was brought by plaintiffs, G. Eugene Beechwood, Philip W. Beechwood and Joan O’Donnell (hereinafter the Beechwoods), to recover liquidated damages from defendant Shieldmakers Enterprises pursuant to 42 Pa.C.S. §8104. The Beech-woods claim they are entitled to liquidated damages because Shieldmakers failed to mark a judgment satisfied as required by section 8104.
+This action must be viewed in the context of the following procedural setting: In July 1978, the Beechwoods executed a $100,000 note payable to Brandywine Mortgage Company. This note was secured by a mortgage that Brandywine obtained on a piece of real property in Chester County owned by the Beechwoods.
+In April 1982, Brandywine filed a mortgage foreclosure action against the Beechwoods with respect to the July 1978 mortgage. The parties stipulated that the amount of principal, interest, costs and attorney’s fees due on the note and mortgage was $120,582.43. On March 14, 1983, a judgment was entered in that amount.
+On March 15, 1985, the Chester County Sheriffs Office conducted a sale of the Beechwood property pursuant to a writ of execution issued at the request of Hamilton Bank, which also held a mortgage on the Beechwoods’ property junior to that of Brandy-wine. In February 1985, the Brandywine note, mortgage, and judgment were assigned by Brandy-wine to VisionQuest National, Ltd. VisionQuest later transferred its rights in the assignment to Shieldmakers. Shieldmakers also purchased the Beechwood property for $455,000 at the sheriffs salé. Shieldmakers had earlier brought a specific performance action against the Beechwoods in February 1984 because of their failure to fulfill a sales contract for the same property.
+On August 27, 1985, I issued an order which confirmed the sheriffs proposed schedule of distribution of the funds from the sheriffs sale of the Beechwood property. I set forth the order in which these funds should be distributed; the Brandywine mortgage judgment was fourth in priority. On September 7, 1985, the sheriff paid Shieldmakers $138,248.23 which represented the amount due on that judgment.
+On September 12, 1985, I issued an order which reconsidered certain aspects of my August 27 order, but otherwise approved the schedule of distribution in that order. I also stated:
+“(4) To the extent that there are funds remaining after payment of all the liens contained in the sheriffs schedule of distribution, they shall be retained by the sheriff pending resolution of the specific performance action brought by Shieldmakers Enterprises against the Beechwood family. We are aware that a sum has been paid to Shieldmakers Enterprises on the basis of its mortgage and judgment lien. We consider that under the law the sale should have been subject to such mortgage and judgment lien. Nevertheless, we will make no further order with respect to the payment of that sum until the other legal issues in this matter have been concluded.” (emphasis supplied)
+At that time, Shieldmakers’ specific performance action against the Beechwoods was under consideration by the Superior Court. This appeal had been taken from my order of April 25, 1988, granting Shieldmakers specific performance, and confirming my decree nisi of September 12,1986. In an opinion issued on May 25, 1989, the Superior Court affirmed my final order in all respects, except for a provision regarding fees which is not relevant here.
+Before the Superior Court’s decision was rendered, the Beechwoods requested that Shieldmakers mark the Brandywine mortgage judgment satisfied according to 42 Pa.C.S. §8104. Shieldmakers refused to do so. Shieldmakers asserts that it should not be required to satisfy the Brandywine mortgage judgment because the full judgment amount is not final. Shieldmakers also asserts that the Beech-woods have failed to comply with 42 Pa.C.S. §8104 and adds that, even if the judgment must be marked satisfied, the Beechwoods are not entitled to the liquidated damages provided for in'section 8104.
+II
+There is no question as to the finality of the judgment in this case. The Superior Court has affirmed my specific performance decree and the court’s decision has not been appealed. At this point, Shieldmakers need have no concern that it will have to disgorge the sums received in satisfaction of the judgment. My rulings fully dispose of the issues regarding payment of the judgment and therefore are final. See T.C.R. Realty Inc. v. Cox, 472 Pa. 331, 337-8, 372 A.2d 721, 724 (1977).
+Title 42 Pa.C.S. §8104(a) sets forth the duties of a judgment-creditor to satisfy a judgment:
+“§8104. Duty of judgment creditor to enter satisfaction
+“(a) General rule —A judgment creditor who has received satisfaction of any judgment in any tribunal of this commonwealth shall, at the written request of the judgment debtor, or of anyone interested therein, and tender of the fee for entry of satisfaction, enter satisfaction in the office of the clerk of the court where such judgment is outstanding, which satisfaction shall forever discharge the judgment.”
+The plain language of section 8104(a) makes clear that two requirements must be met by the judgment-debtor before a judgment-creditor is obligated to mark a judgment' satisfied: First, the underlying judgment must be paid in full: Gretz v. Esslinger’s Inc., 428 Pa. 90, 92-3, 236 A.2d 508, 509 (1967); Time Sales Finance Corp. v. F.W. Lang Co., 428 Pa. 468, 469, 239 A.2d 337, 338 (1968). Second, a fee must be tendered for entry of satisfaction. In order to collect liquidated damages under 42 Pa.C.S. §8104(b), the requirements of section 8104(a) must be met by the debtor. If the debtor has fulfilled these requirements and the creditor fails to mark the judgment satisfied for more than 30 days the liquidated damages provision of section 8104(b) is activated.
+Although the Brandywine mortgage judgment was paid in full, the Beechwoods are not entitled to have the judgment marked satisfied or to collect liquidated damages. First, the Beechwoods did not tender the fee for entry of satisfaction as required by 42 Pa.C.S. §8104(a). The Beechwoods argue that Shieldmakers waived this requirement from the outset because it refused to mark the judgment satisfied even though the Beechwoods offered to pay the fee and see to the filings. In my estimation, however, since section 8104 is a punitive statute it should be strictly construed: Statutory Construction Act of 1972, 1 Pa.C.S. §1928(b)(l). It calls for the tender of a fee, so I will require the tender of a fee. Since the fee was not tendered, the Beechwoods are not entitled to have the judgment marked satisfied and I cannot assess liquidated damages.
+Second, the Beechwoods have asserted that since Shieldmakers did not bring a petition to fix the fair market value of the property purchased at the sheriffs sale according to 42 Pa.C.S. §8103(a), they (Beechwoods) are entitled to have me direct that the judgment be marked satisfied. However, section 8103(d) requires that the debtor request that a judgment be marked satisfied by filing a “petition ... as a supplementary proceeding. . ..” Since the Beechwoods have not filed such a petition, I cannot respond as they request. Indeed, since the judgment here was satisfied by cash payment, it is doubtful that section 8103 even applies.
+III
+In summary, the Beechwoods may have the Brandywine judgment marked satisfied either upon the tender of the fee pursuant to section 8104 or (possibly) the filing of a petition under section 8103(d). Liquidated damages may be awarded only if Shieldmakers refuses to mark the judgment satisfied for 30 days after the section 8104 fee is tendered.
+In accordance with this opinion I enter the following
+ORDER
+And now, May 30, 1990, upon consideration of the record, briefs and oral arguments of counsel, plaintiffs’ complaint to have the Brandywine judgment marked satisfied is hereby denied. Plaintiffs must comply with either section 8103(d) or section 8104(a) in order to have the judgment marked satisfied.
