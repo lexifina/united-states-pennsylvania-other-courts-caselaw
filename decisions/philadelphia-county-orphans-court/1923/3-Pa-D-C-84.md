@@ -1,0 +1,34 @@
+---
+court: "Philadelphia County Orphans' Court"
+docket: "218"
+decided: "1923-05-03"
+citations: ["3 Pa. D. & C. 84"]
+reporter: "pa-d-c"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gest, J., did not sit."]
+parties: ["Walton’s Estate."]
+source_url: "https://static.case.law/pa-d-c/3/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1472167
+cites_cases: ["207 Pa. 381", "274 Pa. 483", "68 Pa. 471"]
+---
+
+# Walton's Estate
+
+## Majority (Laímorelle, P. J.,)
+
+Laímorelle, P. J.,
+The award made by the auditing judge is based upon his finding that Alfred Walton was a resident of New York at the time suit was brought against him, and that the service was a good one under the law of that state. His necessary conclusion is that, in the circumstances, we must recognize the validity of the judgment when claim is made thereon in this jurisdiction.
+The exceptant, son of decedent and next of kin (Alfred Walton having divorced his wife in 1919), contends, among other things, that a foreign judgment, which does not show personal service on defendant, is a nullity in this jurisdiction, citing the recent case of German Trust Co. v. Plotke, 274 Pa. 483, as authority for such position.
+The Act of April 14, 1851, § 10, P. L. 612, provides: “That if the record of a judgment of another state does not show that personal service of the notice or process by which the suit was commenced upon which said judgment was obtained, was made in such foreign state, it shall be sufficient to maintain a plea to the jurisdiction of the court in which said judgment was rendered.”
+With reference to this section of the act, the court in its opinion, in the case cited above, said that this meant “simply that where service is depended on, it must appear as a personal, and not a constructive, service.” Judge Martin, who delivered the opinion of the lower court, says, at page 485: “The object of a summons is to give defendant a day in court and afford an opportunity to present a defense. Any objection that might have been raised by reason of the failure to serve defendant with a summons was cured by his appearance through counsel and the presentation of his defense.”
+While Plotke was not domiciled in New Jersey, and while there was no personal service on him, the record did show that he appeared by attorney, presented a defence, and that the matter being submitted to a jury, a verdict was rendered against him and judgment afterwards entered thereon.
+The record of the Supreme Court of the State of New York, County of New York, in the instant case, which was offered in evidence, shows that defendant, appearing only for the purpose of his application, moved for leave to set aside the service, alleging that he was not a resident of New York and that he had no home in that state. An order of reference was made contingent upon defendant’s entry of security for costs. This he failed tó do, whereupon judgment was entered against him.
+While the authorities are conflicting as to whether personal service means service on the defendant personally, or whether it includes service at his residence (see 6 Words and Phrases, 5363), the hereinafter cited opinion of Mr. Justice Sharswood, in Reber v. Wright, would seem to favor the latter view.
+Here, the judgment on which claim is now made followed a service, not on the person of defendant, but upon his residence, which latter means of service is allowable on allegations, properly substantiated, that defendant is evading a service upon him in person. The question of constructive service by publication does not enter into our discussion because of the findings of fact of the auditing judge.
+In this sense, therefore, Mr. Justice Brown, in Shilling v. Seigle, 207 Pa. 381, 385, says, referring to defendant: “If he was not personally served, and did not appear in the foreign court, he is not concluded by the judgment there entered against him. Section 10 of the Act of April 14, 1851, P. L. 612, provides: ‘If the record of a judgment of another state does not show that personal service of the notice or process by which the suit was commenced upon which said judgment was obtained was made in such foreign state, it shall be sufficient to maintain a plea to the jurisdiction of the court in which said judgment was rendered.5 55 In that case the return of the Ohio sheriff was: “I served the within named defendant, A. H. Seigle, by handing to him personally a certified copy of this writ with all the indorsements thereon.55 Later, in the same opinion, Mr. Justice Brown, in explanation of his former statement as to personal service, says, at page 386: “A record shows not only what appears in express words upon its face, but, in addition, it is to be read as showing whatever must be presumed to appear from it; and if in the present case it presumably shows that the summons was served on the appellant in the State of Ohio, it is sufficient, in the first instance, to sustain the jurisdiction of the foreign court in rendering judgment against him personally, to which all courts within the United States are bound to give the full faith and credit contemplated by the Federal Constitution. If 'it did not show actually or presumably that service had been made in the foreign state, the plea to the jurisdiction of the court in which the judgment was rendered could, of course, be maintained under section 10 of the Act of 1851.55
+The real meaning of section 10 of the Act of April 14, 1851, P. L. 612, is explained in Reber v. Wright, 68 Pa. 471, in the opinion of Mr. Justice Sharswood. After analyzing sections 9 and 10 of the act, he uses the following words, at page 476: “The 10th section was intended merely to provide that if the record on its face, where there was personal service, did not show that it was made in such foreign state, it should be sufficient to maintain the plea to the jurisdiction. It surely did not mean to say that where a service was made by leaving a copy at the residence of the defendant, or where there was a voluntary appearance, either in person or by attorney, the plea to the jurisdiction should be thereby maintained.5 Perhaps there was no occasion for the act. It seems to have been passed ex majori cautela.”
+While the testimony submitted to the auditing judge, by and with the approval of both parties as to defendant’s residence, as well as his domicile, is conflicting and contradictory, we are not prepared to say that he was not warranted in his finding of fact that the defendant was at the time a resident of New York, that service was made in accordance with the law of that state, and that, therefore, such judgment could be enforced against a fund in this jurisdiction.
+Accordingly, all exceptions are dismissed and the adjudication is confirmed absolutely.
+Gest, J., did not sit.
