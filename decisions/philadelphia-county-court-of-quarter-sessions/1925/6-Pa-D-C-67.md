@@ -1,0 +1,26 @@
+---
+court: "Philadelphia County Court of Quarter Sessions"
+docket: "525"
+decided: "1925-02-25"
+citations: ["6 Pa. D. & C. 67"]
+reporter: "pa-d-c"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. One-Ton Truck, Engine No. A-197995, etc."]
+source_url: "https://static.case.law/pa-d-c/6/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1479926
+---
+
+# Commonwealth v. One-Ton Truck, Engine No. A-197995
+
+## Majority (Stern, P. J.,)
+
+Stern, P. J.,
+C. Trevor Dunham, Incorporated, has presented its petition, alleging that, on July 9, 1924,.it leased to Lewis Persch a certain one-ton Dodge truck; that on July 19, 1924, the.truck was seized by the police while in the possession of Jack Spence, for the illegal transportation of intoxicating liquor; that thereafter the petitioner entered bond in accordance with the Act of March 27, 1923, § 9, P. L. 34, and', secured possession of the truck, the bond being in the penal sum of $1000. The petition further alleges that the petitioner thereupon sold the truck. The truck, under proper proceedings brought by the district attorney, was .forfeited, and condemned. Proceedings being brought on the bond, the petitioner paid the amount of the principal sum thereof, namely, $500, and interest thereon; to the district attorney; the bond being thereupon marked ‘canceled/- - The petition further alleges that under the original bailment lease there is due to the petitioner the sum of $719, and a rule on the district attorney was requested and granted, to show cause why a decree should not be made awarding to the petitioner, out of the fund paid to the district attorney, the sum o'f $500, less legal costs. In other words, the petitioner seeks, in effect, to secure a1 return to it of the money paid by it under its liability on the bond.
+The petitioner argues that, under section 11 '(B) (hi) of the act, the court is directed, where a vehicle is seized and condemned, to order a public sale thereof by the sheriff, the proceeds of such sale to be paid to the county treasurer for the use of the county, and in the event that such vehicle was held under bailment lease and the legal title thereto is in another person who was innocent of the violation of the liquor laws, the claim of the bailor for money due under the bailment lease attaches to and' is to be paid out of the funds derived from such sale after payment of costs. It is admitted in the present case that the petitioner was without knowledge of, and did not consent to, the unlawful use of the truck.
+It is seen at once that this clause of the act does not in terms cover the situation or form a basis of the statutory right contended for by the petitioner. The .provision relates only to a claim on funds obtained by the sheriff as a result of his sale of the automobile. In the present ease there is no such fund in the hands of the sheriff, and there was no such sale, because the petitioner made this impossible by itself selling the automobile, and thereby incurring liability on its bond, which was conditioned for the surrender of the truck when demanded.
+The Commonwealth, under the statute, had a right to .seize and condemn the truck — a right recognized ever since the very primitive law of “deodand” —and if the petitioner claims to recover from the Commonwealth any sums of money, it must point to some specific provision of the law providing therefor. As above pointed out, the clause referred to in the Act of 1923 gives to the petitioner no such right.
+Although not suggested at the argument, the court has considered whether such claim might rest upon the statute providing for distribution of the proceeds of forfeited bail bonds. Section 11 (D) (i) of the Liquor Act provides that the proceedings for the forfeiture or condemnation of all property under the act shall be in rem, in which the Commonwealth shall be the plaintiff and the property the defendant. The bond forfeited by the petitioner was, therefore, in effect, a bail bond for the surrender of the defendant, to wit, the truck itself, when demanded by the Commonwealth. Upon consideration, however, of the Act of July 30, 1842, §§ 25 and 26, P. L. 454, which is the statute governing the distribution of the proceeds of forfeited recognizances, it appears that these provisions relate only to recognizances taken for the appearance or surrender of persons charged with the commission of any crime or misdemeanor, and not for the appearances or surrender of property, and, therefore, by reason of this limitation, cannot be judicially extended to cover forfeited recognizances in the latter class of cases.
+In short, there would seem to be no statute upon which the petitioner can base a right to recover from the Commonwealth any .sums out of the money obtained as a result of its liability on the bond. This money does not' represent proceeds of the “res” itself, but is merely the sum obtained by reason of the petitioner’s contractual obligation on its bond and arising from the petitioner’s own act in selling the truck in violation of that obligation.
+For the reasons thus stated, the petitioner’s rule is discharged.
