@@ -1,0 +1,37 @@
+---
+court: "Greene County Court of Common Pleas"
+docket: "no. 26"
+decided: "1989-01-17"
+citations: ["1 Pa. D. & C.4th 218"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Presock v. Davis"]
+source_url: "https://static.case.law/pa-d-c4th/1/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821595
+cites_cases: ["425 A.2d 883", "492 A.2d 776", "496 Pa. 204", "57 Pa. Commw. 67", "89 Pa. Commw. 377"]
+---
+
+# Presock v. Davis
+
+## Majority (GRIMES, P.J.,)
+
+GRIMES, P.J.,
+This court’s subject matter jurisdiction has been questioned by the Secretary of the Department of Environmental Resources.
+The matters a court can decide depends on the underlying claims asserted by the parties. T.W. Phillips Gas v. Peoples Natural Gas Co., 89 Pa. Commw. 377, 381, 492 A.2d 776, 779 (1985). Plaintiffs, George F. Presock and Marsha J. Presock, bring this equity action to enjoin the implementation of a Department of Environmental Resources (DER) plan to reclaim an abandoned strip-mining site located on their property. The Presocks also seek injunctive and declaratory relief in regards to permit,, survey and bond requirements for the site. A third request of the Presocks is for damages. The damage claim is based upon their purchasing certain pipe allegedly at the direction of the DER. Each of these claims and the corresponding argument based on jurisdiction will be addressed in turn.
+The primary basis for the Presock’s attempt to stop the DER from reclaiming the site is the citizen suit provisions of the Surface Mining Reclamation and Conservation Act (SMRCA), 52 P.S. §1396.21 (Supp. 1988). The act, in pertinent part, provides that:
+“[A]ny person having an interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this act or any rule, regulation, order or permit issued pursuant to this act against the department where there is alleged a failure of the department to perform any act which is not discretionary with the department . . . the courts of common pleas shall have jurisdiction of such actions ...”
+In essence, the act confers subject matter jurisdiction on this court only for non-discretionary actions or inactions by the DER.
+According to the Presocks, their allegations concerning pollution, soil erosion, and the hazards to health and safety which will result from the reclamation plan satisfy the citizen’s suit provisions. Although these allegations are indeed salutory, as evidenced by the legislature in announcing the purposes of the SMRCA, 52 P.S. §1396.1, they do not invoke jurisdiction on this court. It is clear that the DER recognizes its legal duty to eradicate and prevent soil erosion, pollution and other environmental damage. However, the manner in which it discharges that duty, in this case by a reclamation plan which incorporates the Presocks’ idea of terracing the property, is within the discretion of the DER.
+The Presocks’ second claim seeks declaratory and injunctive relief in regards to their intended, but not submitted, application to mine the property themselves. In their prayer for relief on this claim, the Presocks claim the DER “abused its discretion.” The inference to be drawn from this statement is that the DER has exercised its discretion in its dealings with the Presocks. As discussed above, discretionary actions of the DER are not renewable by a court of common pleas. 52 P.S. § 1396.21(a). (Supp. 1988).
+The Presocks’ third claim is for damages and is based on the theory of quasi contract. Jurisdiction is not with this court but with the Board of Claims. 72 P.S. §4651-4 (Supp. 1988). Smock v. Commonwealth, 57 Pa. Commw. 67, 425 A.2d 883, affm’d 496 Pa. 204, 436 A.2d 615 (1981) (Board of Claims has exclusive jurisdiction over quasi-contract claims against the commonwealth).
+Considering this court must refuse jurisdiction of this case, our attention now turns to our ability to transfer the Presock’s claims to the appropriate forum. Preliminarily, the proper transferee forum must be ascertained. It has been established that the quasi-contract claim belongs before the Board of Claims. The proper forum for review of DER decisions, including those complained of herein, is the Environmental Hearing Board. 71 P.S. §510-21(a) (Supp. 1988).
+42 P.S. §5103(a) (Supp. 1988) provides this court the power to transfer. It states that:
+“If an appeal or other matter is taken or brought in a court or magisterial district of this commonwealth which does not have jurisdiction of the appeal or other matter, the court or district justice shall not quash such appeal or dismiss the matter, but shall transfer the record thereof to the proper tribunal of this commonwealth ...” 42 P.S. §5103(a). It must be determined whether the Board of Claims and the Environmental Hearing Board (EHB) are “tribunals” under 42 P.S. §5103(a) to which this court can transfer this case.
+“Tribunal” is defined as:
+“[A] court or district justice or other judicial officer of this commonwealth vested with the power to enter an order in a matter, the Board of Claims, the Board of Property, the Office of Administrator for Arbitration Panels for Health Card and any other similar agency.” 42 P.S. §5103(d). (emphasis supplied) As evident from the statute, the Board of Claims is a specifically included tribunal. The EHB, however, is not designated as such. Nevertheless, if the EHB is deemed a “similar agency” then it will be a tribunal for purposes of transfer.
+The EHB was created by the legislature to provide a forum for review of “any order, permit, license or decision of the Department of Environmental Resources.” 1970 Pa. Legis. Serv. Act 275 (Purdon’s). Although the purposes of the EHB have remained constant, its stature has changed. Prior to the beginning of this new year, the EHB was nothing more than an administrative agency. However, with the passage of Act 94, effective January 1, 1989, the EHB became “an independent, quasi-judicial agency,” staffed with full-time administrative law judges. 1988 Pa. Legis. Serv. Act 94 (Pur-don’s). A reading of this recent statute convinces this court that the EHB is a “similar agency” and that the legislature had every intention of equating the EHB with “tribunal” for purposes of transfer.
+As a final note, the court is remorseful for the state of affairs of this particular dispute. For a cause of action which arose here and has practically every contact with Greene County, the Presocks must maintain two foreign actions; one with the EHB and another with the Board of Claims. It is hard to fathom how the multiplicity of suits serves the ends of justice. However, in spite of its inadequacies, we are obligated to follow the written law.
+ORDER
+And now, January 17, 1989, the preliminary objections of defendant, Secretary of the Department of Environmental Resources, are hereby sustained. It is further ordered that the applicable claims, as detailed in the accompanying opinion, be transferred to the Environmental Hearing Board and the Board of Claims thereby revoking any jurisdiction this court may have possessed prior to this date, providing however, that our preliminary injunction of November 28, 1988 shall, remain in effect until jurisdiction is accepted and acted upon by the Environmental Hearing Board.
