@@ -1,0 +1,24 @@
+---
+court: "Schuylkill County Court of Common Pleas"
+docket: "101"
+decided: "1902-11-03"
+citations: ["1 Pa. Just. L. Rep. 131"]
+reporter: "pa-just-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Deisher v. Flannery et al."]
+source_url: "https://static.case.law/pa-just-l-rep/1/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6763448
+---
+
+# Deisher v. Flannery
+
+## Majority (Bechtel, P. J.,)
+
+Opinion by
+Bechtel, P. J.,
+The exceptions in this case question the sufficiency of the plaintiff’s statement filed under the 2nd section of the Act of July 7, 1879, P. L. 194, and the jurisdiction of the Justice over the person-of the defendants. The recent Act of Assembly approved July 9th, 1901, P. L. 614, is intended to provide an exclusive method of service for all process therein mentioned. This is made apparent from the repealing clause, which not only repeals all Acts and parts of Acts, general, special or local, inconsistent with the service of the writs mentioned in the Act, but adds: “It being intended hereby to furnish a complete and exclusive system in itself, relative to the service of all such writs.” The question then is, does this Act provide for the service of the writ issued in this case 2 — and is the service sufficient under its provisions? The 16th section provides that “writs issued by a Justice shall be served in the county in the same manner and with like effect as similar writs are served by the Sheriff” and further provides that “a Constable or other officer of any county of the commonwealth may be deputized to make the service, in whole or in part, in cases where the sheriff of another county, might be deputized as hereinbefore set forth.” In this case the process is a writ of summons, and it sets forth that the defendants are non-residents. They are sued jointly as individual nonresident defendants, not as a “corporation, partnership limited, or joint stock company” and consequently the service of the process cannot be regulated by the second section of the Act of 1901. The plaintiff claims that the process must be served in the same manner as the Sheriff would serve a summons and seeks to justify the service, under clause “E” of the first section of the act. This clause provides that it may be served “By handing a true and attested copy thereof at his place of business, to his agent, partner, or the person for the time being in charge thereof, if upon inquiry thereat his residence in the county is not ascertained, or if for any cause an attempt to serve at his residence has failed.” This section or clause seems to require that the defendant or defendants must have a place of business and the attested copy must be handed to the agent “at his (this case their) place of business,” and this can be done only “if upon inquiry thereat (the place of business) his residence in the county is not ascertained,” or if for any cause an attempt to serve at his residence has failed.” The return of service says “served the within writ of summons . . . upon G. M. Roads, Esq., agent for Julia Flannery & Hugh Smith, the within named defendants personally by producing the original and informing him of the contents thereof and by leaving a true copy of the same.” This does not comply with clause “E” of the section mentioned, which requires a “true and attested copy” to be handed “at his place of business,” nor does it appear that inquiry was made as to residence, or that an attempt to serve there, had failed. If it be said the latter is not necessary, because defendants are nonresidents then we say, naming them as non-residents- in the caption of the case, or so asserting in the summons, does not prove such to be the fact. The return is also deficient because it does not show that the service was at the place of business. We have thus considered the question as though the case was governed by clause “E” and to be judged by its language. But I am strongly inclined to the opinion that it does not apply to cases of non-residents. I am inclined to believe the language “residence in the county” shows this. Why should inquiry be made at the defendants’ place of business as to a “residence in the county” or an attempt be made to serve at such residence, if the defendant is a non-resident and sued as such.” If, however, the clause does apply the proceedings are irregular, because the return does not comply with it. The judgment is by default and every requisite must appear affirmatively upon the face of the record. This has been so frequently decided as to need no citation of authorities, some of these will, however, be found collected in Montgomery Table Works v. Nice & Co., 27 C. C. R. 95.
+Nov. 3rd, 1902, for reasons given the proceedings are now • reversed.
+Reported by A. W. Schalck, Esq.,
+Pottsville, Pa.
