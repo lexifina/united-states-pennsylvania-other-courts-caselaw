@@ -1,0 +1,28 @@
+---
+court: "Wyoming County Court of Common Pleas"
+decided: "1873"
+citations: ["1 Foster 172"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM RACE v. ADAM SNYDER."]
+source_url: "https://static.case.law/foster/1/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760650
+---
+
+# Race v. Snyder
+
+## Majority (Elwell, P. J.)
+
+Charge of the court by
+Elwell, P. J.
+The plaintiff in this action seeks to recover damages for injury alleged to have been done by the cattle of the defendant to his crops of growing corn in the summer of 1870. It appears by the undisputed evidence that these parties were owners of adjoining lands in North-moreland township. The land of the plaintiff was cleared and cultivated, that of the defendant was in woods, which were enclosed by fences erected for the enclosing of surrounding fields. Between the defendant’s woods and the plaintiff’s field of corn, on the line between them, a fence consisting of logs, rails, brush and stone was erected by the plaintiff and those under whom he claimed. In June, 1870, this fence being considerably out of repair, the young cattle of the defendant, as is alleged, broke into the plaintiff’s field in which corn had been planted. Upon complaint being made by the plaintiff to the defendant, he told the plaintiff to repair the fence, and gave permission to cut trees upon his side of the line and therewith repair the fence. It is alleged by the plaintiff that he •did repair the fence, by lapping trees upon if and by erecting a stone wall, and thereby made it a good and sufficient fence, but that the defendant’s •cattle being breachy continued to break into his corn field and destroy or injure his crop of corn. The principal matters in controversy are the sufficiency of the fence and the amount of damage done by the defendant’s cattle. It is a maxim of the law that every man must so use and take care •of his own as not to injure his neighbors.
+At the common law under this rule, the owner of cattle which went ■upon the cultivated land of another was liable for injury done by them, .although the land was not fenced, every man’s land being in the eye of the law enclosed and set apart from that of his neighbor.
+In these northern counties this rule of the common law was universally understood as being the law of the state, until the decision of the supreme court in the case of Gregg v. Gregg, 5 P. F. Smith 227. In 'that case the acts of assembly were construed to change the common law upon the subject.
+It was held, and must now be considered as the law, that if the owner of improved land has no fence enclosing his crops he cannot recover for injuries done thereto by reason of cattle straying upon his land. He must fence his land both to restrain his own cattle and to shut out the roving cattle of his neighbors. If he is negligent in the performance of this •duty he contributes to the damage which as a consequence ensues, and can sustain no action therefor.
+It is contended by the counsel for the defendant that the plaintiff was .guilty of negligence, and is not entitled to recover; if you find from the •evidence that his fence was not four and a half feet high, I do not concur in this view of the law. The point decided in Gregg v. Gregg does not go that length. '
+In construing the statutes upon this subject it was held by Judge Ad■dison, three-fourths of a century ago, that if a fence, though what was not ■called lawful, be what is called neighborly and sufficient to keep out cattle not breachy, that trespass will lie for injury by the cattle of another. This view of the law has not been rejected as unsound in any case of which I have knowledge, in which the question was distinctly raised. I adopt it •as substantially correct, arid instruct you that if the defendant’s cattle broke through or jumped over the fence between the plaintiff’s corn-field and the defendant’s woods and damaged the plaintiff’s corn, he is entitled to recover for the damages done, unless you are satisfied from the evidence that the fence was not such as farmers of practical knowledge and experience would consider as sufficient to protect the crop from injury by usually orderly cattle. If it was such a sufficient fence, for the damage.done while in that condition the plaintiff may recover, although it was not made of logs, or rails, or posts and boards, and was not “four and a half feet high and well staked and ridered.” On the contrary, if not sufficient, judged by the standard before mentioned, no recovery can be had for the injury done while in that condition.
+Note. — Counsel for defendant excepted to the charge before verdict. The verdict was for the plaintiff, and after a writ of error had been taken, the counsel for the defendant became satisfied of the correct ruling of the court, and the case was not carried up.
+Wm. M. and fp. W. Piatt, for plaintiff. Smith and Ross, for defendant.
+The facts of the case are to be ascertained by and are entirely submitted for your determination under the evidence. In deciding as to the sufficiency of the plaintiff’s fence, you will consider the material of which it was made, as well as its height, breadth, and firmness, and you will give to the opinion of witnesses upon the subject such weight as you think ' they are entitled to. If under the facts as you shall find them, and the law as we have laid it down, the plaintiff shall i'n your judgment be enti-tléd to recover, your verdict shall be in such amount as will compensate him for the damage sustained.
