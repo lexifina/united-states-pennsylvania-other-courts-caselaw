@@ -1,0 +1,31 @@
+---
+court: "Montgomery County Court of Common Pleas"
+decided: "1981-02-13"
+citations: ["1 Pa. Fid. 129"]
+reporter: "pa-fid"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Taxis and Tredinnick, JJ."]
+parties: ["Frick Estate"]
+source_url: "https://static.case.law/pa-fid/1/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1751775
+cites_cases: ["414 A2d 1020"]
+---
+
+# Frick Estate
+
+## Majority (Tredinnick, J.,)
+
+Opinion by
+Tredinnick, J.,
+This court’s supplemental adjudication of February 1, 1978, approved accountants’ inheritance tax deductions of approximately $99,000 because the Commonwealth was represented at audit and did not object to the deductions. The Commonwealth filed exceptions to that adjudication. The exceptions were dismissed on the basis that no “written objections” to the account had been filed by the Commonwealth. The Commonwealth appealed.
+Under date of May 30, 1980, the Supreme Court remanded the matter for appropriate consideration of the Commonwealth’s exceptions. That court noted that under local rule objections to the petition for adjudication may be made orally at audit. It therefore directed that this court afford proper relief from the supplemental adjudication “should it be determined that the Commonwealth did indeed make timely objection to the claimed deductions.”
+The issue is therefore whether the Commonwealth made timely oral objection to the claimed deductions.
+In its adjudication of February 1, 1978, the court stated that “It is clear that, the Commonwealth was represented at the audit and did not object [to the deductions] . . .” (Slip Opinion p. 4). At the time that adjudication was written, a transcript of the proceedings at audit on June 6, 1977, had not been prepared. Since the remand from the Supreme Court, the proceedings have been transcribed and are now part of the record. An examination of that transcript reveals that the attorney for the Commonwealth made no objection to, or even mention of, the claim for additional deductions.
+Accordingly, it is clear that the Commonwealth in fact failed to file timely objections.
+Notwithstanding that fact, the Commonwealth urges that the failure to comply with the rules ought to be disregarded under Orphans’ Court Rule 2.1, which provides in part that “The court at every stage of any action or proceeding may disregard any error or defect of procedure which does not affect the substantial rights of the parties in interest.”
+As suggested by that rule, the court is generally reluctant to dispose of litigation on the basis of technical rules: Pearson Est., 15 Fiduc. Rep. 552. In the present situation, however, we believe the violation to be more than a mere technicality. It should be borne in mind that, although other litigation kept this matter before the court from audit on June 6, 1977 to February 1, 1978, when the supplemental adjudication was handed down, no oral or written objections were made to the tax deductions. The first mention on the record of any such objections is in the exceptions filed by the Commonwealth.
+The rule requiring objections to be made at audit was adopted for a basic, sound, practical reason — to provide for the orderly and speedy administration of estates. The rule would be emasculated if we were to hold it to be a mere technicality, and allow an estate to be re-opened for litigation on questions which should have been raised at audit in the first instance. Parties in interest — heirs and devisees — have the right to a prompt disposition of the administration of the estate. To allow the Commonwealth to now litigate an issue first raised after a final adjudication would clearly “affect substantial rights of the parties in interest.”
+For the foregoing reasons, we hold the exceptions were initially properly dismissed and reinstate the dismissal as of this date.
+414 A2d 1020.
