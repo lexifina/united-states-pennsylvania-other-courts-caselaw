@@ -1,0 +1,24 @@
+---
+court: "Philadelphia District Court"
+decided: "1836-03-26"
+citations: ["1 Miles 156"]
+reporter: "miles"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LACROIX v. MACQUART, GERIN AND DUCOMMUN."]
+source_url: "https://static.case.law/miles/1/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6674406
+cites_cases: ["1 Rawle 343", "2 Yeates 530", "3 Yeates 42", "4 Rawle 380"]
+---
+
+# Lacroix v. Macquart
+
+## Majority (Stroud, J.)
+
+The opinion of the Court was delivered by
+Stroud, J.
+The only point for inquiry is, whether the defendant’s plea of former recovery is sustained by the record. He alleges that it is, on the ground that the discontinuance of the 9th of May 1835 was without the sanction of the court — a mere entry by counsel in the prothonotary’s office.
+At tiie time of the discontinuance, interlocutory judgment had been obtained, but no steps had been taken to ascertain the damages, A writ of inquiry had not been sued out. Was it competent to the plaintiff's attorney in this stage of the proceedings, to repair to the prothonotary’s office, get a taxation of the costs there, and without application to the court, on payment of these, to discontinue the scire facias % We are of opinion it was. It is every day’s practice to do so in any stage of the cause, previous to the signing of judgment. And it is plain from the books of practice in the English courts, that an action may be discontinued by the plaintiff after interlocutory judgment, but before a writ of inquiry has been executed. 2 Archbold's Prac. 208; 2 Sellónos Frac. 335, A rule for discontinuance, however, is necessary there in all cases ; but this may be a “ side-bar rule, which is of course before verdict or argument on demurrer or execution of inquiryIbid. And the only purpose of this requisition is the taxation of costs ; a matter of great moment there, as is well known to every one at all conversant with their practice, but of none with us, since the only fees allowed by our laws are specially fixed by act of assembly, and can be ascertained by the prothono-tary at. once by inspection of his docket. In England, it is deemed of; so much advantage to the defendant’s attorney to be present at the taxation, preliminary to a discontinuance, that by the rule in the common pleas, the plaintiff is under the necessity of repeating the service of notice on the defendant’s attorney of the time appointed for taxation no less than three times, according to Sellon, before the prothonotary will consider him in neglect, so as to proceed to the taxation without his attendance. Ibid. With us a similar rule would be preposterous; no notice to the defendant’s attorney is required ; but die prothonotary makes out the bill of costs silently, by a recollection of the fee bill, and an examination of his docket entries in the particular action.
+The Mechanics Bank v. Fisher, 1 Rawle 343, has been relied upon as authority contravening the position that a discontinuance may be effected on payment of costs, without application to the court; and without doubt an opinion of considerable length is reported there in which it is attempted to be shown that it is not consonant with our law to permit a discontinuance without leave of the court. This however was not a point in the cause, and according to the declared doctrine of that court, is to be regarded merely as the dictum of the individual who expressed it, Hickman v. Caldwell, 4 Rawle 380, Two cases are referred to in the Mechanics Bank«. Fisher, in support of the extra-judicial discussion tliere on the subject of discontinuance. The first is Brown v. Fox, 2 Yeates 530, in which the court say: “ regularly, there can be no discontinuance without leave of the court.” The other case is Pollock v. Hall, 3 Yeates 42, in which the same doctrine is again enumerated. It is plain, however, from an examination of the whole scope of these opinions, that it was not intended to impugn the practice of entering discontinuances in the prothonotary’s office without application to the court, but merely to assert the right of the court to set aside a discontinuance so entered, if the circumstances under which it was entered were such as rendered it manifestly unjust and injurious to the defendant. With this qualification we have no disposition to question the soundness of the principle. In the present case there is no allegation of injury to the defendants by the discontinuance. One only of the three, has objected to it; and his objection is restricted to a negation of its legality. We consider therefore the discontinuance of the 3th of May 1835 as regularly effected, and consequently the defendant’s plea of former recovery is not sustained by the record.
+Judgment for the plaintiff.
