@@ -1,0 +1,23 @@
+---
+court: "Schuylkill County Court of Common Pleas"
+decided: "1873"
+citations: ["1 Foster 273"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE COMMONWEALTH OF PENNSYLVANIA ex rel. WILLIAM QUIRK v. ANTHONY LALLY."]
+source_url: "https://static.case.law/foster/1/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761493
+---
+
+# Commonwealth ex rel. Quirk v. Lally
+
+## Majority (Pershing, P. J.)
+
+Opinion delivered by
+Pershing, P. J.
+The borough of Ashland is incorporated under the general borough law of 1851. The 18th section of that act provides that electors only shall be “eligible to borough offices.” The same act provides that in case of the death, resignation, removal, or refusal to serve of any one elected to a borough office, the burgess shall issue his precept to the high constable, to hold an election to supply such vacancy, giving at least eight days’ notice, by six advertisements, set up in the most public places of said borough.
+On the 6th of February, 1872, an act was passed by the legislature, by which “the qualified electors of the borough of Ashland are authorized and required, at the next election for borough officers for said borough, and annually thereafter, to elect one person as borough treasurer,” who (§ 2), before entering on the duties of his office, “is required to take” the oath or affirmation now prescribed in the case of borough officers of said borough. At the last borough election, William Quirk, the relator, was elected to the office of treasurer, being at that time an elector of the borough of Ashland. He subsequently removed from the borough, and did not take the oath of office prescribed by law, till after his removal. Mr. Quirk claims that he is now the legally qualified treasurer of Ashland borough, and on his petition a writ of alternative mandamus has been issued to Anthony Lally, the collector of taxes for said borough, commanding him to pay over the moneys collected by him as taxes, to the said William Quirk, or to show cause why the same should not be paid to said William Quirk, as treasurer of said borough.
+The answer of the respondent substantially is, that the office of borough treasurer cannot be held by one who is not an elector of the borough. We think this answer is correct. We are of the opinion that when Quirk removed beyond the boundaries of the borough, he no longer had any legal right to hold the office of borough treasurer. The distance to which he removed can have no bearing on the question of his right to the office. If he can live in the adjoining township, and still retain the office of treasurer for Ashland borough, his removal to a distant part of the county, or to some other section of the State, would not deprive him of his right to enjoy the emoluments of the office. The peculiar duties of this office require that the officer shall be easily accessible. It is true, as stated in the argument, that the act of assembly making the treasurer elective, is silent as to where that officer shall reside; but this act must be construed in reference to the general borough law under which Ashland borough exercises corporate powers. It enlarges the number of officers to be elected by a popular vote, but it does not repeal the provision that none but electors shall be eligible to borough offices. We cannot suppose that it was intended to except the office of treasurer from the general rule. A construction of the law which would allow a non-resident to be elected to this office, or allow one to hold the office, who, although eligible at the time of his election, afterward became a non resident of the borough, would be doing violence to the plain intention of the act of assembly, as well as injustice to the people of the borough of Ashland. Such a construction must be reached by the use of positive language, and not by the silence of a statute which simply increases by one the number of the officers of the borough, who are to be elected by a vote of the qualified electors. We think that a vacancy exists in the office of the treasurer of the borough of Ashland, and that the general law under which the borough is incorporated, points out the way to fill it. The conclusion to which we have come is, that an officer of a borough must be, at the time of his election, a qualified elector of the borough; and if at any time during the term for which he may be elected, by his voluntary act, ceases to be an elector of the borough, by the same act he also ceases to be one of its officers.
+It is ordered that the alternative mandamus be dismissed, and the respondent have his costs.
