@@ -1,0 +1,36 @@
+---
+court: "Dauphin County Court of Common Pleas"
+docket: "no. 4973 S 1992"
+decided: "1995-04-14"
+citations: ["24 Pa. D. & C.4th 83"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lenker v. Teramae"]
+source_url: "https://static.case.law/pa-d-c4th/24/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1413040
+cites_cases: ["221 A.2d 173", "358 Pa. Super. 400", "405 Pa. Super. 349", "418 Pa. Super. 510", "422 Pa. 304", "496 Pa. 465", "517 A.2d 1293", "534 Pa. 640", "626 A.2d 1158"]
+---
+
+# Lenker v. Teramae
+
+## Majority (TURGEON, J.,)
+
+TURGEON, J.,
+Defendant Robert R. Teramae, D.D.S., has filed a motion for summary judgment on the ground that plaintiff Carla Lenker has failed to establish a prima facie case of dental malpractice. Oral argument on this issue was held before a panel of this court on March 29,1995. For the reasons set forth below, defendant’s motion will be denied.
+The alleged malpractice at issue here occurred on December 10, 1990 and a writ of summons was issued on December 7,1992. A complaint was later filed on January 29, 1993. On January 13, 1993, defendant served interrogatories upon the plaintiff. Plaintiff timely answered the interrogatories on February 26, 1993, except interrogatory 26 which requested information on plaintiff’s expert witnesses, to which plaintiff responded “unknown at this time.”
+More than one year later interrogatory 26 had still not been answered. Accordingly, on March 9,1994, defendant filed a motion to compel. On June 20, 1994, Judge Kleinfelter entered an order directing an answer to that interrogatory within 60 days.
+On August 16, 1994, plaintiff submitted her answer to interrogatory 26, in which she identified George C. Sotereanos, D.M.D. from the University of Pittsburgh Medical Center as her expert witness. Attached was a scant letter from Dr. Sotereanos merely concluding that “Mrs. Lenker s injuries are directly related to the dental treatment received on December 10, 1990” and enclosing copies of some of the center’s office records.
+Defendant’s motion for summary judgment is based on his assertion that, since plaintiff has identified only one expert witness and because that expert’s letter fails to set forth the recognized standard of medical care attributable to defendant and a variance from the accepted level of care, as is required in Pennsylvania medical malpractice actions, judgment must be granted in his favor as a matter of law.
+Summary judgment shall be entered if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. Pa.R.C.P. 1035(b), 42 Pa.C.S.
+In order for a plaintiff to establish a prima facie case of medical malpractice, the general rule is that expert testimony is required to establish the recognized standard of medical care attributable to physicians under like circumstances and a variance from the accepted level of care. Jones v. Harrisburg Polyclinic Hospital, 496 Pa. 465, 437 A.2d 1134 (1981) and Maurer v. Trustees of the University of Pennsylvania, 418 Pa. Super. 510, 516, 614 A.2d 754, 757-58 (1992), appeal granted, 534 Pa. 640, 626 A.2d 1158 (1993).
+Dr. Sotereanos’ letter contains no opinion as to the standard of care applicable and whether or not Dr. Teramae’s treatment fell below that standard. In fact, there is no mention of Dr. Teramae, by name or otherwise, in his letter. Plaintiff, having disclosed only Dr. Sotereanos as her expert, is precluded from presenting any other expert witness at trial. Pa.R.C.P. 4003.5(b), 42 Pa.C.S. Plaintiff argues, therefore, that summary judgment should be granted in his favor.
+Plaintiff counters that since Dr. Sotereanos has stated a direct causal relationship between defendant’s treatment and her injuries, he should be given the opportunity to explain the rationale underlying his opinion regarding the causal relationship. Plaintiff seems to be arguing that his testimony on the standard of care and deviation therefrom falls within the scope of his expert report as permitted by Pa.R.C.P. 4003.5, 42 Pa.C.S.
+Rule 4003.5(c) provides that where an expert opinion has been developed through discovery, the expert’s direct testimony at trial “may not be inconsistent with or go beyond the fair scope of his testimony in the discovery proceedings as set forth in his deposition, answer to an interrogatory, separate report or supplement thereto.” Pa.R.C.P. 4003.5(c). (emphasis added) In this case, all the testimony offered by Dr. Sotereanos in these discovery proceedings to date is contained within this letter.
+It seems clear to us, however, that it is not within the fair scope of Dr. Sotereanos’ opinion on causation that Dr. Teramae deviated from a recognized standard of care. Injuries often occur in the absence of negligence and Dr. Sotereanos’ one sentence opinion that “ [plaintiff’s] injuries are directly related to the dental treatment received December 10,1990” does not in any way infer a standard of care or deviation therefrom. Negligence cannot be inferred merely because a patient’s treatment was unsuccessful. Lambert v. Soltis, 422 Pa. 304, 309, 221 A.2d 173 (1966). Summary judgment should be granted where a plaintiff’s expert’s report neither suggests an appropriate standard of care recognized by the medical community nor that the treating physician has deviated from any such standard. Strain v. Ferroni, 405 Pa. Super. 349, 357, 592 A.2d 698, 702-703 (1991).
+The issue is, therefore, whether Dr. Sotereanos should be permitted to supplement his “report.” Plaintiff has averred in her answer to the defendant’s motion for summary judgment that the opinion submitted by her expert does not constitute his total expert report, implying a supplement is forthcoming. In this case, as a result of the petition to compel answer to interrogatory 26, the court directed the plaintiff to “provide the answers and/or documents ... or show cause why such answers and/or documents are being withheld. Failing to comply with this order will result in sanctions as provided by Pa.R.C.P. 4019.” Broad discretion is given the court under this rule. As such, we will permit plaintiff to supplement her expert report within 20 days setting forth the required elements for alleging a prima facie case of medical malpractice, or else be subject to the entry of summary judgment in favor of the defendant.
+Accordingly, we enter the following:
+ORDER
+And now, April 14, 1995, defendant’s motion for summary judgment is denied. Plaintiff is hereby granted 20 days from receipt of this order to file a supplemental expert report as discussed in the attached opinion.
+. Exceptions to this rule apply when the matter is so simple, and the lack of skill or want of care so obvious, as to be within the comprehension of non-professional persons as well as in cases where res ipsa loquitur is applicable. Brophy v. Brizuela, 358 Pa. Super. 400, 405, 517 A.2d 1293, 1296 (1986). It is not alleged that either exception to the expert opinion requirement applies in this case.
