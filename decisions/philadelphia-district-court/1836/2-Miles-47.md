@@ -1,0 +1,25 @@
+---
+court: "Philadelphia District Court"
+decided: "1836-12-31"
+citations: ["2 Miles 47"]
+reporter: "miles"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DIEHL v. PERIE."]
+source_url: "https://static.case.law/miles/2/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6671488
+cites_cases: ["1 Wend. 396", "1 Yeates 41"]
+---
+
+# Diehl v. Perie
+
+## Majority (Jones, J.)
+
+The opinion of the court was delivered by
+Jones, J.
+The phrase, “ to the best of the deponent's knowledge and belief,” is of judicial origin. We have also from the same source the formal expression, “ so far as the deponent knows, and as he verily believes.” The intent and import of both are the same. Both imply that the deponent has information or evidence of the fact asserted, which, although it may not amount to certain knowledge, is in his judgment, sufficient to justify a conclusion of the fact he swears to; and both forms are intended to express a positive belief. Affidavits in this form, are allowed for the purpose of avoiding an inconvenient detail of evidence; and usually, when there is no opportunity of submitting the evidence of the requisite fact to judicial examination and inference, or when it would be inconvenient to do so. The effect of allowing affidavits in this form, is to substitute the probity and intelligence of the deponent for the judgment of the court or of a judge, inasmuch as the law, without inquiry, assumes that to be true which he says he knows, or has reason to know, and verily believes.
+A person, therefore, -who should in this form, swear to a fact upon information or evidence which does not induce his own belief of it; or upon a belief of the fact which is not founded upon what he deems sufficient evidence of it—(if we can suppose the mind can believe under such circumstances)—would be guilty of a degree of rashness, which would be evidence of a criminal purpose. Nor could he, in such circumstances, legally or consistently swear to the fact, either to the best of his knowledge, or upon his belief. For, if his knowledge be not such as actually produces in his own mind a belief of the fact, the qualification of the affirmation, as it would refer to that which has no existence, or which exists without any rational foundation, would be nugatory in conscience and illusory as respects public justice. It would, in reality, be without meaning, and therefore would give us nothing to subtract from the unqualified affirmation.
+If then we take the phrase in the disjunctive or alternative form, as it occurs in the clause under consideration, and construct an affidavit upon either branch of it, still, the deponent must be deemed to affirm both his belief of the fact, and that he has such knowledge concerning it as he conscientiously deems sufficient to justify his belief. For these reasons we must construe the word “ or,” in this place, to signify “ and.” Indeed we cannot suppose the legislature intentionally adopted this unusual form of expression. The spirit of the act certainly confines the use of the capias to cases in which the plaintiff has reason to know and verily believes the defendant is about to quit the commonwealth. And it may not be improper to suggest, that affidavits under this section should hereafter be drawn so as to make the expression conform to this view of the sense; otherwise, a door may be opened to questions of casuistry, depending on distinctions too refined for practical purposes.
+But it is not necessary to rule the point raised in this case upon these reasons. The legislature did not certainly intend that any thing less than the deponent’s full belief of the fact sworn to should be sufficient to justify the arrest. For, although the act does not require him to swear to the absolute certainty of his knowledge, or that his conclusions from facts certainly known, are infallibly true, yet he must aver that his knowledge is such, that se judice, et in foro conscientia, sues, it proves the fact, and induces his own positive belief of it. There is nothing unreasonable in this; for every man certainly knows whether he believes that which he asserts or not. He can discriminate between his belief, suspicion, unbelief and disbelief. But a qualified or partial belief, or such a state of the mind as the words “ to the best of his belief” would seem to describe, is impossible. The expression is a solecism. We cannot determine from it what precisely was the state of the deponent’s mind, nor how far it was short of positive belief. But when these qualifying words are applied—as in the act they are—to the knowledge or the evidence which the deponent possesses of the fact which he affirms, we are allowed to suppose that it does not fall very far short of certain proof, if it produces a conscientious belief in a reasonable mind. On the ground, then, that the plaintiff has not sworn positively that he believed the defendant was about to quit the commonwealth, this rule is made absolute.
+Rule absolute.
