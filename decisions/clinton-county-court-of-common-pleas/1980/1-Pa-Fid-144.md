@@ -1,0 +1,26 @@
+---
+court: "Clinton County Court of Common Pleas"
+decided: "1980-08-20"
+citations: ["1 Pa. Fid. 144"]
+reporter: "pa-fid"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dickey Trust"]
+source_url: "https://static.case.law/pa-fid/1/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1751776
+---
+
+# Dickey Trust
+
+## Majority (Brown, P. J.,)
+
+Opinion by
+Brown, P. J.,
+By memorandum and order dated January 21, 1980, the court refused the within request for an unconditional termination of the within trust and a distribution of its assets. Without discussing the facts in great detail, the basis for the court’s action was that petitioners seeking the termination of the trust were adults with issue who conceivably could inherit in a petitioner’s place in the event the petitioner predeceased his mother, the life tenant who had previously renounced any interest in the income or principal of the trust. As part of its refusal, the court did indicate that a conditional termination of the trust might be considered upon the posting of security to secure the interest of any contingent beneficiary.
+In seeking reconsideration of the court’s prior decision, petitioners are relying on the Restatement, Property, §231. Section 231 provides as follows:
+“When an attempted prior interest fails because the person to whom it is limited renounces it, succeeding interests are accelerated except when (a) the terms and circumstances of the limitation manifests a contrary intent (see §§232 and 233); or (b) the person renouncing such attempted prior interest effectively claims an interest in derogation of the dispositions sought to be made and thereby causes (i) the application of the attempted prior interest to the satisfaction of the renouncer’s new claim; or (ii) the failure of the entire disposition; or (iii) the sequestration of the attempted prior interest in accordance with the rule stated in §234 (a).”
+In addition to section 231, petitioners also cite Comment h to that section which discusses a succeeding interest coupled with a substitutional disposition. It is clear from that comment as well as the example given thereunder that this section would permit an absolute termination of the trust under the facts of this particular case. The logic of this rule of interpretation is that the testator in specifying contingent interests predicated upon the predeceasing of the life tenant by one of the main beneficiaries intended that the contingency should be the actual existence of the life interest and not the actual life span of the life tenant. In other words, if the time period during which a stated contingency may occur is artificially shortened because of a renunciation of a life interest, then the interests of those contingent beneficiaries are defeated. The premise of the rule of interpretation under this logic seems to be that the testator would have intended such a result. It is somewhat difficult for the court to understand how it can be concluded that the testator’s intent was primarily concerned with the duration of the life interest and not with the length of the life tenant’s human existence. However, the court cannot quarrel with section 281 and its language which permits an absolute termination of the trust in this case.
+Apparently, there are no Pennsylvania appellate decisions adopting section 231 of the Restatement, Property. After reviewing counsel’s brief and other written arguments, the court agrees that in all likelihood, if the occasion presented itself, section 231 would be so adopted as the law of this Commonwealth. Accordingly the termination of the trust as requested will be decreed.
+ORDER
+And now, August 20, 1980, based upon the foregoing memorandum, it is hereby ordered that the trust established herein on behalf of Mildred Eleanor Muthler as a life tenant be terminated and that the trustee be authorized to make distribution of the trust assets in accordance with paragraph Fourth (c) of the testatrix’ will to the remaindermen existing on November 22, 1974.
