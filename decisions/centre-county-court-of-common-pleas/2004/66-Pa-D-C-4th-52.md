@@ -1,0 +1,37 @@
+---
+court: "Centre County Court of Common Pleas"
+docket: "no. 2002-1765"
+decided: "2004-03-03"
+citations: ["66 Pa. D. & C.4th 52"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Halderman v. PennDOT"]
+source_url: "https://static.case.law/pa-d-c4th/66/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9215210
+cites_cases: ["532 Pa. 494", "616 A.2d 614", "776 A.2d 1022"]
+---
+
+# Halderman v. PennDOT
+
+## Majority (GRINE, J.,)
+
+GRINE, J.,
+— Defendant brings a motion for partial summary judgment in this matter concerning a vehicle accident between plaintiff Halderman and defendants PennDOT and PennDOT’s employee, defendant Bamdt, who was operating the tmck that collided with plaintiff’s vehicle. The accident occurred on August 23, 2000, on S.R. 144 near the Bellefonte sewage plant. Plaintiff was driving a truck for G.M. Mc-Crossin Inc. during the course of his employment that day. He had stopped in his lane for a vehicle ahead of him turning in the sewage plant. Defendant Bamdt came around a curve, traveling in the same lane behind plaintiff. Defendant Bamdt could not get stopped in time and collided into the rear of plaintiff’s vehicle. Defendant Bamdt was operating a tmck for PennDOT during the course of his employment when the accident occurred.
+Because the accident happened while plaintiff was on the job, plaintiff was eligible for workers’ compensation benefits and his workers’ compensation insurance carrier has paid medical and hospital expenses. As part of the instant matter, plaintiff seeks recovery for the subro-gation interest asserted by the workers’ compensation insurer. Defendants claim that sovereign immunity bars such recovery and towards that end have filed the motion for partial summary judgment that is now before this court.
+Generally, the Commonwealth and its agencies are exempt from suit under the Sovereign Immunity Act. There are exceptions to this sovereign immunity, however, and one of them is the motor vehicle exception, under which this incident appears to fall. Under 42 Pa.C.S. §8522(b)(l), the Commonwealth can be held liable for compensatory damages where its employee negligently operates a motor vehicle which causes harm:
+“Exceptions to sovereign immunity;
+“(b) Acts which may impose liability — The following acts by a Commonwealth party may result in the imposition of liability on the Commonwealth and the defense of sovereign immunity shall not be raised to claims for damages caused by:
+“(1) Vehicle liability — The operation of any motor vehicle in the possession or control of a Commonwealth party. As used in this paragraph, ‘motor vehicle’ means any vehicle which is self-propelled and any attachment thereto, including vehicles operated by rail, through water or in the air.” 42 Pa.C.S. §8522(b)(l).
+Additionally, in Pennsylvania, when an employee is injured in the course of employment, he is entitled to compensation from his employer, regardless of fault, for medical expenses and work loss. Where a third party was at fault for the incident that caused the employee injury, the employee has the right to pursue a civil action for damages. In circumstances where the employer provided workers’ compensation benefits, a subrogation interest in the matter arises with the employer. 77 P.S. §671.
+Prior to 1993, the Pennsylvania Motor Vehicle Financial Responsibility Law expressly precluded the subro-gation interest of workers’ compensation benefit payments. 75 Pa.C.S. §1720. However, this section was “repealed insofar as it relates to workers’ compensation payments or other benefits under the Workers ’ Compensation Act.” Repealer note to 75 Pa.C.S. §1720. The repeal of this part of the MVFRL came through reforms in the Workers’ Compensation Act enacted in 1993. The right of an employer to assert and recover subrogation interest in workers’ compensation benefits against a third party is at 77 P.S. §671 of the Workers’ Compensation Act.
+Defendants claim that, although an employer may now have the right of subrogation for workers’ compensation, sovereign immunity comes in to shield defendants in this particular matter because:
+“The Commonwealth, its political subdivisions, their officials and employees acting within the scope of their duties enjoy and benefit from sovereign and official immunity from claims of subrogation or reimbursement from a claimant’s tort recovery with respect to workers’ compensation benefits.” 77 P.S. §501, note.
+This caveat is in the note section, below the statute of section 501 of the Workers’ Compensation Act, and not written anywhere within the statutes of that Act. Plaintiff asserts that this note was inserted to reinstate the benefits of sovereign immunity would apply, such as, liability limitations, damages caps, etc. Defendant claims it was not necessary for the legislature to include provisions on sovereign immunity because that is the general rule in Pennsylvania; only exceptions need to be set forth in law.
+Both parties note that sovereign immunity has been preserved for the Commonwealth, except where it is expressly waived:
+“Pursuant to Section 11 of Article 1 of the Constitution of Pennsylvania, it is hereby declared to be the intent of the General Assembly that the Commonwealth, and its officials and employees acting within the scope of their duties, shall continue to enjoy sovereign immunity and official immunity and remain immune from suit except as the General Assembly shall specifically waive the immunity. When the General Assembly specifically waives sovereign immunity, a claim against the Commonwealth and its officials and employees shall be brought only in such manner and in such courts and in such cases as directed by the provisions of title 42 (relating to judiciary and judicial procedure) or 62 (relating to procurement) unless otherwise specifically authorized by statute.” 1 Pa.C.S. §2310.
+From the reading of the statutes, the court finds that because the caveat pertaining to sovereign immunity was found in the notes, and not within the actual body of the statutes, that legislature likely intended plaintiffs’ interpretation regarding limitations on recovery against the Commonwealth. The statutes at 75 Pa.C.S. §1720 in the MVFRL and 77 P.S. §671 in the Workers’ Compensation Act show that an employer is entitled to subrogation rights and that subrogation from a claimant’s tort recovery with respect to workers’ compensation benefits are included in those rights.
+Further, as plaintiffs point out by analogy to the Governmental Immunity Act, the Pennsylvania Supreme and Commonwealth courts have recognized the validity of the workers’ compensation subrogation interest. In Hankee v. Wilkes-Barre/Scranton International Airport, 532 Pa. 494, 616 A.2d 614 (1992), governmental immunity did not preclude the assertion of the workers’ compensation subrogation interest for medical expenses and wage loss. And in Laich v. Bracey, 776 A.2d 1022 (Pa. Commw. 2001), the court held that a workers’ compensation sub-rogation claim was enforceable against a Bucks County Intermediate Unit for a collision and injury to a plaintiff caused by one of BCIU’s mini-vans.
+ORDER
+And now, March 3,2004, for the reasons stated above, it is ordered and decreed that defendants’ partial motion for summary judgment is hereby denied, and plaintiff’s partial motion for summary judgment is hereby granted.
