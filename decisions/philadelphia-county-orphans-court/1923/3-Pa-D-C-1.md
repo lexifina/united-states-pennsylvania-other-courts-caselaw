@@ -1,0 +1,28 @@
+---
+court: "Philadelphia County Orphans' Court"
+docket: "484"
+decided: "1923-03-19"
+citations: ["3 Pa. D. & C. 1"]
+reporter: "pa-d-c"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Henderson, J., did not sit."]
+parties: ["Williamson’s Estate."]
+source_url: "https://static.case.law/pa-d-c/3/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1472282
+cites_cases: ["2 Wharton, 376", "202 Pa. 459", "227 Pa. 288", "242 Pa. 3", "272 Pa. 329", "4 Watts, 82", "52 Pa. Superior Ct. 412", "88 Pa. 478"]
+---
+
+# Williamson's Estate
+
+## Majority (Gest, J.,)
+
+Gest, J.,
+The testator gave to each of the children and issue of deceased children of three brothers and two sisters the income of $60,000 during life, with remainder, at the death of each, to his or her issue on attaining the age of twenty-one years, provided that if any child die without leaving any issue living at the time of his or her death, the amount of principal, namely, $60,000, should be divided among the grandchildren of his other brothers and sisters then living, per capita and not per stirpes, to be paid on attaining the age of twenty-one years. One of these life beneficiaries died without leaving any issue, and the auditing judge held that the distribution should be confined to the living grandchildren of the other brothers and sisters, excluding great-grandchildren who are the children of certain deceased grandchildren.
+The question thus raised is a narrow one and susceptible of argument. Undoubtedly there are decisions in which the word “children” has been construed to include “grandchildren,” and the same rule would apply so as to include “great-grandchildren” under the designation of “grandchildren;” but such a broad interpretation will not be given to the bequest, unless it clearly appears from the context to have been the meaning of the testator, or unless the will would otherwise be inoperative: Dickinson v. Lee, 4 Watts, 82; Hallowell v. Phipps, 2 Wharton, 376; Castner’s Appeal, 88 Pa. 478. In Campbell’s Estate, 202 Pa. 459, a broader interpretation was given to the word “children,” as the Supreme Court held that the will sufficiently disclosed the manifest intent of the testator. This case was explained in Page’s Estate, 227 Pa. 288, as not intended to infringe upon the general rule; and it may be noted that the bequest in Campbell’s Estate was to lineal descendants of the testator, and not to collaterals, as in Page’s Estate, 227 Pa. 288.
+We have examined the provisions of the will with care in order to discover, if possible, any intention of the testator that the great-grandchildren of his brothers and sisters should share in this bequest, as included under the designation of “grandchildren.” The words “children,” “grandchildren” and “issue” are used with great frequency, and in some places without much discrimination. A comparison, however, of the clauses wherein these words occur indicates that the broader term of “issue” is qualified and restricted by ihe words “grandchild” or “grandchildren” rather than the converse. Thus, in the second clause, in which the remainders are given to the issue of children of brothers and sisters, the testator, in more than one instance, qualifies the word “issue” by the parenthetical explanation that he intends “grandchildren,” and he does the same in the third clause, providing for the children of his brother John; and in the fourteenth clause he refers to such of his grandnephews and grandnieces “who shall then be living as are the issue of my brothers and sisters;” and other passages in the will might be referred to, but enough has been said to show that the testator had no manifest intention, as required by the decisions, to include great-grandchildren in this alternative bequest under consideration.
+We are not at all bound by the adjudication of Judge Anderson in 1912, when, on the death of another grandchild without issue, the distribution was awarded among grandchildren and a child of a deceased grandchild. Kellerman’s Estate, 21 Dist. R. 521, 52 Pa. Superior Ct. 412, 242 Pa. 3, is directly in point. The prior auditing judge was of opinion that the ordinary rule of interpretation was narrow and harsh, but we do not so consider it. After all, the question concerns the intention of the testator, and certainly, if he refers to children or to grandchildren, he cannot, in the absence of a controlling context, be supposed to mean, in the first case, grandchildren, and, in the second case, great-grandchildren. There can be presumed no intention, in the case of collaterals at least, to benefit descendants ad infinitum. The Intestate Acts, both that of 1917 and the prior act, do not do so, for first cousins take to the exclusion of second cousins where there is no living grandparent: Miles’s Estate, 272 Pa. 329; nor is representation admitted among collaterals after the grandchildren of brothers and sisters.
+Nor has the desire of the testator, as expressed in Item 17 of the will, that it “shall receive a liberal construction, to the end that my general purpose may not be prevented by any narrow or conflicting sense which might be given to any special expressions.” This clause, inserted, as it is, among the directions of the testator as to the powers of his executors, and to a possible deficiency in the estate, and the order of abatement of legacies, probably refers to these matters; but, however that may be, we do not think the clause has any special relevancy to the present question.
+The exceptions are dismissed and the adjudication is confirmed absolutely.
+Henderson, J., did not sit.
