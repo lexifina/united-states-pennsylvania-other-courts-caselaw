@@ -1,0 +1,32 @@
+---
+court: "Westmoreland County Court of Common Pleas"
+docket: "no. 2"
+decided: "1958-06-18"
+citations: ["17 Pa. D. & C.2d 8"]
+reporter: "pa-d-c2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rosenson’s Furniture Store v. Stanto"]
+source_url: "https://static.case.law/pa-d-c2d/17/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1636592
+cites_cases: ["22 Pa. 337"]
+---
+
+# Rosenson's Furniture Store v. Stanto
+
+## Majority (Keim, J.,)
+
+Keim, J.,
+This case came before the court on a petition to open judgment.
+On April 18, 1958, the petition was presented at open court, and a rule issued on plaintiff to show cause why the judgment should not be opened and defendants let into a defense, and at the same time, a hearing for the within matter was scheduled for Saturday, May 10, 1958, at 10 a. m., DST. The hearing was continued, and finally held on May 17, 1958, at which time, Bernard S. Shire, attorney for plaintiff, together with his clients, and Henry E. Shaw, together with William Stanto, were present in open court.
+It appears that judgment was entered against the within named defendants on April 3, 1958, by virtue of a warrant of attorney contained in a note between the parties hereto, dated August 17,1957, which related to the purchase of certain furniture from plaintiff, which stated the purchase price to be $1,926.45, payable in 47 consecutive monthly installments, from the date, of $40 each, with final installment of $46.45.
+The judgment entered against defendants was for the sum of $2,203.92, the sum of $287.47 representing attorney’s commission, with interest on $1,916.45 from August 17, 1957. That on April 7, 1958, at the above number and term, a writ of attachment was issued against defendants attaching a bank account in the name of William Stanto in the First National Bank in Greensburg.
+The testimony further revealed that William Stanto, one of the above named defendants, was a minor at the time the note in question was executed, this allegation being substantiated by the testimony of his natural mother and a duplicate copy of his birth certificate. It was further revealed by S. Milton Rosenson, one of the owners of plaintiff furniture company, that he knew at the time said note was executed that both of the above named defendants were minors.
+It is unfortunate that domestic difficulties brought about the breaking up of the home which resulted in the failure of defendants to pay off the balance of their obligation, and it is conceivable that but for the risks assumed by furniture companies in this modern day and age, it would be difficult for a large percentage of young married couples to set up housekeeping; however, it has been a general rule of law for many years that a warrant of attorney by an infant to confess judgment is absolutely void: Knox v. Flack, 22 Pa. 337.
+Immediately prior to the taking of testimony, plaintiff, by its counsel, raised the question as to the procedure to be followed in this case. It was alleged by counsel for plaintiff that it was his understanding regarding the opening of judgments in Pennsylvania, as set forth in Pennsylvania Standard Practice, that the issues of fact involved in the petition to open judgment must be submitted for deposition in order to take testimony on the facts, and after there has been a report made on the depositions, the case must then be decided by the court en banc, and if any question of fact is involved, everything is of record, and the court en banc has the authority and should decide the case. It was further alleged by counsel for plaintiff that this was not the proper time for the court to accept the allegations in evidence, which have been admitted on the answer by respondent in this case.
+With this theory expounded by the counsel for plaintiff, we cannot agree; no brief has been filed and no authority for that line of reasoning has been cited to the court; however, it is our assumption that counsel for plaintiff was referring to Pa. R. C. P. 209. If rule 209 is the rule relied upon, it does not apply in this particular instance, and as stated in Goodrich-Amram, §209-1, p. 22, we feel that the court had the authority to hear all of the allegations of both petitioner and respondent at the time set for hearing, said statement in Goodrich-Amram provides as follows:
+“This rule was devised by the Committee because of the practice in many counties where cases are not automatically listed for argument by the prothonotary and must be ordered for argument by an attorney in the action. Where an order of an attorney was required, it frequently happened that a case was in effect deadlocked after the filing of an answer because the attorney for neither side would be willing to take the initiative of ordering the case for argument and the attorney for the petitioner would not proceed to take depositions. The cause of this reluctance was the existence of the principle that the ordering of the action for argument on petition and answer admitted for the purpose of the argument the truth of the averments of the answer or petition filed by the adverse party.”
+It is to be further noted that at the time the petition was presented to this court that both plaintiff and defendant appeared at that time, before the court, and requested that a hearing date be fixed, said hearing date to be at a time after plaintiff had an opportunity to file an answer in this particular matter, all of said requests and agreements being complied with by all parties. The procedure followed in this instance is not inconsistent with Pensylvania Rule of Civil Procedure 209, and on the other hand does follow the practice which has been consistent here in Westmoreland County for many years.
+In view of the law pertaining to execution of judgment notes by minors, notwithstanding the circumstances in this particular case, we believe that this judgment should be opened and the case tried before a jury. There are no pleadings in this particular case, nor testimony, which would justify even the slightest inference of ratification.
+And now, June 18, 1958, after due and careful consideration it is ordered, adjudged and decreed that the rule to show cause why the judgment should not be opened and defendants let into a defense, be and the same is hereby made absolute.
