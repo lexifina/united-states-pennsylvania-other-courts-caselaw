@@ -1,0 +1,31 @@
+---
+court: "Schuylkill County Court of Common Pleas"
+decided: "1874-11-30"
+citations: ["2 Foster 300"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WM. ZIMMERMAN v. H. W. TRACY et al., school directors of Pinegrove school district, and J. W. BARR, Collector."]
+source_url: "https://static.case.law/foster/2/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6762139
+---
+
+# Zimmerman v. Tracy
+
+## Majority (Walker, J.)
+
+Opinion delivered Nov. 30, 1874, by
+Walker, J.
+In this bill the complainant avers that he is a tax payer in the borough of Pinegrove, Schuylkill county. - That the six defend1 ants first named are school directors of the school district of PinegróVe borough, that they have levied a school tax of twelve mills on the dollar •of the last adjusted valuation of the district for the year 1874 — and that they have issued their warrant to J. W. Barr as collector, who now seeks to collect the same from the complainant. This he alleges is illegal'and beyond the power of the board to levy. An injunction is therefore asked to restrain him from collecting the excess over ten mills. The defendants contend that the two mills is a special tax for building purposes, and to support this position the minutes of the school board of the 18th of July, 1874, and the affidavits of H. W. Tracy, Guy Wheeler and J. W. Barr have been read in evidence. The parties have agreed upon the facts in writing and have filed the same, from which it appears that the tax, levied by the board as a building tax on the 18th of July, 1874, is not for the purpose of purchasing or paying for the ground, or for the payment of the building, or for the erection of a school building, but for repairs and constructing improvements in and about the building and grounds.
+The affidavit of Dr. Robinson shows that the school house for which this tax is required (situate on the corner of Mill and Miflin streets) was erected over 15 years ago. The only question here is, “Have the directors transcended their gratitedpowers t”
+Courts of Equity have no control over the discretionary powers of school directors. If they exercise their unquestionable granted powers unwisely, there is no judicial remedy. (9 Wr. 390). But if the directors refuse to perform their duties, or transcend their authority, or misjudge their powers, a Court of Equity will interfere to compel, restrain, or correct them. Wharton v. Cass township directors — 6 Wr. 358.
+The power of taxation exists wholly by statute. History teaches us that all free people have been jealous of taxation, and have tolerated it on account of its necessity, and then only as imposed by themselves or their representatives. While the power of the Legislature to tax for public purposes is almost unlimited, the School Board can levy no tax unléss authorized by law, and they are held átrictly within their granted powers. To determine whether the directors have exceeded their authority, we must look to the facts of this case and the several Acts of Assembly on that subject.
+By the 30th sec. of the Act of May 8, 1854, (Pur. Dig. 246, PL 64) “the board of directors or controllers shall on or before the first Monday in June annually proceed to levy and apportion the school tax.,not exceeding the amount of State and coicnty taxes authorized by law to be assessed on all objects, persons, and property made or to be made taxable for State and county purposes.”
+This section has received a judicial construction by Judge Elwell, in the case of the Locust Mountain Coal & Iron Co. v. Curren et al., 2 Le gal Chron. 249, in which he holds that the amount authorized is to be ascertained by the law in force at the time of levying the tax and not at the date of the enactment, and as the law taxing real estate for State purposes has been repealed by the Act of 23 Feb., 1866, he holds that the limit of the regular school tax on real estate is ten mills on the dollar. In this decision I fully concur. But the defendants contend that under the 33d section of the same act, P. Dig. 246, PL 67, a special tax not exceeding the amount of the regular tax may be levied once in each school year, to be applied to the purchase and payment of ground and the erection of school buildings, and that the excess of two mills is levied by virtue of that authority.
+The purpose of the regular tax is for the payment of teachers’ salaries, books, stationery, for fuel, lights, repairs and the ordinary and incidental expenses incurred in keeping the school in operation.
+The object of the special tax is solely for the payment of the ground and the buildings.
+The minutes of the school board show that the special tax of two mills purports to be for building purposes, but it is admitted that the fund is for constructing improvements and repairs to an old building, built as Dr. Robinson testifies over 15 years ago. Besides this the evidence shows that the public schools in Pinegrove borough have been kept open ten months in the year, the maximum time allowed by the Act of Assembly(P. D. 245 PI. 62) and there is no allegation that the regular tax is not sufficient to pay these improvements — on the contrary the auditors’ report for the year ending 1 June, 1874, shows a balance due the board of $104.69. I am aware that the efficient superintendent of the Common Schools, for whom I entertain a high respect, has construed this 33d section of the Act to extend to repairs and improvements (School Laws, p. 93, sec. 201) but what is conclusive to my mind is the clear and explicit language of the statute. The word “solely” means for 710 other purpose and is imperative. Any other view would be judicial legislation.
+When the defendants levied a building tax to repair an old erection (which should have been done out of the regular fund) they exceeded their powers. And as the maximum tax has been already levied, they cannot increase it under another name, for if they could they would indirectly do what they could not do directly.
+The special injunction to restrain the collection of the excess over ten mills, is, therefore, granted. ‘
+See German Township School District v. Langston, 24 P. F. S. 454. St. Clair School Board’s Appeal 24 P. F. S. 252.
