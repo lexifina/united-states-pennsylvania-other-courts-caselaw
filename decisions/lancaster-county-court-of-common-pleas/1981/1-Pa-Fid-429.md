@@ -1,0 +1,52 @@
+---
+court: "Lancaster County Court of Common Pleas"
+decided: "1981-10-15"
+citations: ["1 Pa. Fid. 429"]
+reporter: "pa-fid"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JMO, TGO, and DLO"]
+source_url: "https://static.case.law/pa-fid/1/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1751754
+cites_cases: ["321 A.2d 618", "456 Pa. 429", "460 Pa. 423", "489 Pa. 597"]
+---
+
+# In re JMO
+
+## Majority (Appel, P.J.,)
+
+Opinion by
+Appel, P.J.,
+J.M.O., age 11, T.G.O., age 10, and D.L.O., age 7, are the children of Gail and Janet. The children were born during the marriage of Gail and Janet.
+The parents separated March 2, 1976. The children remained in the custody of Janet until June 18, 1978. In the meantime Gail and Janet had been divorced on November 8, 1977. Gail married Jo Anne on January 28, 1978.
+On June 18, 1978, the father abducted the children from the mother’s home in Waldorf, Maryland. For months thereafter the mother vigorously attempted to locate the children. The father successfully secreted his whereabouts and that of the children from Janet.
+On October 31, 1979, Gail, accompanied by the three children, attended a hearing in the circuit court for Baltimore County, Maryland. Janet did not attend the hearing but was represented by her counsel, Gregory James Olsen. At the hearing Gail informed the court and those present of his address, being also the address of the children. He thereafter complied with the order of the court by keeping it advised of his- place of residence and place of employment.
+On January 29, 1981, the petition of Gail and Jo Anne seeking a decree of involuntary termination of the parental rights of Janet and the adoption of the three children by Jo Anne was filed with this court.
+In compliance with Section 2313 of the Adoption Act, the court appointed Greta R. Aul, Esquire, as counsel for the adoptees.
+In the petition it was sought to plead alternatively the grounds which are set forth in Section 2511 (a) (1) and (2). At the hearing on May 8, 1981, it was stipulated that the sole ground on which involuntary termination would be sought would be under the pleaded part of Section 2511 (1). This section states:
+§2511. Grounds for involuntary termination.
+(a) General rule. — The rights of a parent in regard to a child may be terminated after a petition filed on any of the following grounds:
+(1) The parent by conduct continuing for a period of at least six months either has evidenced a settled purpose of relinquishing parental claim to a child or has refused or failed to perform parental duties.
+Paragraph 4 of the petition sets forth the allegation as follows:
+“4. Petitioners seek the involuntary termination of the parental rights of the natural mother, Janet on the basis that for a period in excess of six months she has refused or failed to perform parental duties for the reasons hereinafter set forth:
+“a) On October 31, 1979 the father was awarded custody of the children by decree of the Court of Baltimore County, Maryland.
+“b) Since that time respondent has never sought to contact the children by telephone, letter or in person.
+“c) Since October 31, 1979 to the present, respondent never remembered any of the children on their birthdays, Christmas or other holidays.
+“d) Respondent has not contributed toward the support of the children, nor has she at any time inquired of anyone, to the best of petitioners’ knowledge, as to their health, welfare, progress in school or shown any other concern.
+“e) At all times since October 31, 1979 the mother has had either the knowledge of the children’s whereabouts or easy access to it.”
+Our inquiry must, therefore, be directed toward determining whether Janet has refused or failed to perform parental duties for a period in excess of six months. The testimony and exhibits bearing thereon must be analyzed bearing in mind that the burden is on the petitioners to present evidence establishing involuntary termination of parental rights by a preponderance of the evidence: Adoption of Farabelli, 460 Pa. 423. The extent to which a parent must exert himself is stated at p. 431, as follows:
+“We have stated that this portion of §311(1) requires that! a parent exert himself to take and maintain a place of importance in the child’s life. As a corollary, we required that a parent affirmatively demonstrate his love, protection and support of his child and to make every reasonable effort to maintain communication and association with that child. See Adoption of McCray, supra; Appeal of Diane B., 456 Pa. 429, 321 A.2d 618 (1974); Jacono Adoption Case, supra. These principles, however, are necessarily subject to the qualifications that the measures taken by the parent to demonstrate his interest and affection must be viewed in light of the existing circumstances.”
+The evidence before the court meets the burden imposed on petitioners to establish that Janet “failed to perform parental duties” and that the failure was for a period in excess of six months. However, it is contended by the respondent that her failure was the result of conduct of her former husband in abducting the children from their home, he having obtained them so that they could go to a McDonald’s “for a light afternoon dinner.” ***
+In the instant matter the children were abducted from their mother’s home on June 18, 1978. They were “hidden” from their mother until October 31, 1979. Although she had failed to perform parental duties during this period, the mother exerted as much diligence as her resources permitted to attempt to locate the children. That her search was unsuccessful was not the result of lack of effort on her part. The principles above stated compel the conclusion that a temporary crisis existed from June 18, 1978, to October 31, 1979. It is inconceivable that an involuntary termination be predicated on the mother’s failure during this period.
+If an involuntary termination is to be found it must have occurred after October 31, 1979, being the date when the husband came out of hiding with respect to the court in Maryland. Pertinent to our inquiry is a determination of whether the situation changed on that date and the effect of the change, if one took place.
+On October 31st the father appeared in court, produced the children, revealed his address, and thereafter kept the Baltimore County court advised of-his whereabouts. The initial proceeding in that court had been instituted by Janet. She was represented by counsel, who was present at the hearing; however, the mother was not present.
+Without question, the abduction ended on October 31st. The court then recognized the custody of the father and subsequently entered an order confirming that the children be in his custody. If the events of that day and what occurred thereafter brought an end to the long continuing temporary crisis, then the rights of Janet must be terminated because of her failure. If the temporary crisis continued, then her parental rights are not terminable.
+We deem that until that date the crisis was of the father’s making, and the mother cannot be held to have failed to perform parental duties.
+Had Janet been at the hearing or had she learned of the events thereof, then there would be no hesitancy in concluding that the crisis had ended. Unfortunately, Janet did not learn of the hearing until early 1981, shortly before the present proceedings were commenced. Thus, there was a period in excess of fourteen months when she could have taken action with regard to her children but didn’t.
+During the period prior to October 31, 1979, Janet had been required to move because the residence property had been lost due to foreclosure and she was frequently without a telephone. These matters resulted in her attorney being unable to initiate communication with her, and it was arranged by them that she would contact him for information. ***
+Had Janet called her attorney at any time after October 31, 1979, she would have learned of the whereabouts of her children. The only effort to maintain communication and association which at that time had a prospect for success was by contact with her attorney. The steps which she had previously taken constituted reasonable effort at that time and would relieve her from continuing to search energetically and assiduously. On the other hand, the situation impels an inquiry into whether her failure to contact the attorney constituted a failure to “make every reasonable effort to maintain communication and association with” the children. See Adoption of Farabelli, supra.
+It may be suggested that since the crisis was produced by the deplorable conduct of the father in abducting the children, that a duty evolved on him to inform the mother of the location of the children. The difficulty with this contention is that by the time the husband was prepared to rectify his misdeed, the mother had placed herself beyond his ability to communicate with her excepting through her attorney.
+In partial explanation of her conduct, the respondent has presented the testimony of Ann Woodland, an expert in psychological testing diagnosis. Her diagnosis is that Janet is a dependent personality and has a chronic post-traumatic stress disorder. The tests indicate that she becomes confused and has memory lapses at times. It appears that her functioning socially and occupationally is diminished. Although she would not be able to very logically put a search together for the children, the testimony at no point suggests that her condition would have prevented contact with her attorney from time to time to learn about the children.
+The principle set forth in In Re M.A.K., 489 Pa. 597, is that upon a crisis being created, causing failure to perform parental duties, termination will not be warranted if “she exercised reasonable firmness in declining to yield to obstacles.” In failing to keep in communication with her attorney, the sole expectant possibility of contact with her children, we deem that Janet yielded to the obstacles which confronted her without exercising reasonable firmness in the situation.
+The evidence, in our opinion, establishes by a preponderance of the evidence that Janet has failed to perform parental duties for a period in excess of six months whereby the petitioners are entitled to a finding of involuntary termination. A decree is entered herewith.
