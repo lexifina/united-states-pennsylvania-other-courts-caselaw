@@ -1,0 +1,36 @@
+---
+court: "Chester County Court of Common Pleas"
+docket: "no. 87-09719"
+decided: "1990-08-21"
+citations: ["7 Pa. D. & C.4th 209"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Octorara Education Association v. West Fallowfield Township"]
+source_url: "https://static.case.law/pa-d-c4th/7/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820963
+cites_cases: ["12 Pa. Commw. 461", "29 Pa. Commw. 83", "370 A.2d 768", "457 A.2d 580", "511 Pa. 100"]
+---
+
+# Octorara Education Ass'n v. West Fallowfield Township
+
+## Majority (WOOD, J.,)
+
+WOOD, J.,
+This action commenced when plaintiff filed an action for declaratory judgment under 42 Pa.C.S. §7533 which challenged both the imposition of an occupational privilege tax by defendant West Fallowfield Township and the collection of this tax by defendant Octorara Area School District.
+Defendant township enacted the tax pursuant to the local Tax Enabling Act, 53 Pa.C.S. §6902(9). From December 1984 through the present, the district has continued on an annual basis to withhold this tax from all of its employees, including plaintiffs who are on the staff of Octorara Elementary School located in Highland Township.
+The following facts were established at a hearing on this matter held June 27, 1990: the Octorara School District grounds contain four school buildings, one of which is its elementary school in Highland Township. The elementary school is approximately 30 to 40 yards from the West Fallow-field Township line. On the West Fallowfield side the district has its intermediate school and administrative offices. Testimony revealed that although plaintiff teachers worked for the Octorara School District, they had few contacts with the administrative offices located in West Fallowfield. The business manager of the district testified that the “legal office” of the district is located in West Fallowfield. He also testified that the elementary school sometimes used playing fields in West Fallowfield.
+West Fallowfield argues that it may collect an occupational privilege tax from plaintiffs because they are administratively governed out of the main office in West Fallowfield, thereby making the plaintiff’s place of employment West Fallowfield. Plaintiffs contend that the imposition of the tax is a geographical issue: that is, if,you work in West Fallowfield, you are subject to the tax; if you don’t, you are not. Thus, the key issue here is one of first impression and requires that I give meaning to the term “place of employment” found in section 6902(9). The pertinent section of the statute reads as follows:
+“(9) To levy, assess or collect any tax on individuals for the privilege of engaging in an occupation (occupational privilege tax) except that such a tax may be levied, assessed and collected only by the political subdivision of the taxpayer’s place of employment:
+“Payment of any occupational privilege tax to any political subdivision by any person pursuant to an ordinance or resolution passed or adopted under the authority of this act shall be limited to $10 on each person for each calendar year.
+“The situs of such tax shall be the place of employment, but, in the event a person is engaged in more than one occupation, or an occupation which requires his working in more than one political subdivision during the calendar year, the priority of the claim to collect such occupational privilege tax shall be in the following order: first, the political subdivision in which a person maintains, his principal office or is principally employed; second, the political subdivision in which the person resides and works, if such a tax is levied by that political subdivision; third, the political subdivision in which a person is employed and which imposes the tax nearest in miles to the person’s home. The place of employment shall be determined as of the day the taxpayer first becomes subject to the tax during the calendar year.
+“It is the intent of this provision that no person shall pay more than $10 in any calendar year as an occupational privilege tax irrespective of the number of political subdivisions within which such person may be employed within any given calendar year.” (emphasis supplied)
+In construing statutes, I must follow the rules of construction set forth in the Statutory Constructioh Act of 1972, 1 Pa.C.S. §1501, et seq. Accordingly, the terms in section 6902(9) must be given their plain meaning: 1 Pa.C.S. §1903; Erie Western Pennsylvania Port Authority v. Rugare, 29 Pa. Commw. 83, 370 A.2d 768 (1977). In addition, 1 Pa.C.S. §1928(b)(3) mandates that statutes imposing taxes must be strictly construed in favor of the taxpayer: Coney Island II Inc. v. Pottsville Area School District, 12 Pa. Commw. 461, 457 A.2d 580 (1983). Here, section 6902(9) states:
+“Except that such a tax may be levied, assessed and collected only by the political subdivision of the taxpayer’s place of employment . -. . The situs of such tax shall be the place of employment. ...”
+The political 'subdivision of these taxpayers’ place of employment is Highland Township. Section 6902(9) does not state the situs of the tax is the location where the paychecks originate, but rather where the taxpayer is employed^ i.e. where he or she works. Thus, I agree with plaintiff’s contention that the imposition of an occupational privilege tax is limited geographically to the township in which the taxpayer works. Pursuant to section 6902(9), West Fallowfield Township is not permitted to levy, assess and collect any occupational privilege tax from persons not engaged in occupations within the geographical boundaries of West Fallowfield Township.
+West Fallowfield’s brief cites Gilberti v. City of Pittsburgh, 511 Pa. 100, 511 A.2d 1321 (1986) to support its theory that the township may collect taxes from plaintiff teachers under the business privilege tax provision found in 53 Pa.C.S. §6902(12). However, Gilberti can be distinguished from the case at bar. The taxpayer in Gilberti is a business office which exercises the privilege of maintaining its business operations within Pittsburgh and is therefore subject to the city’s business privilege tax. The court in Gilberti states:
+“Indeed, having a place of business within the city enables the taxpayer to have a base of operations from which to manage, direct, and control business activities occurring both inside and outside city limits.” Gilberti, supra.
+This set of facts is not analogous to the case at bar, which involves only individual employees subject to an occupational privilege tax. Accordingly, I enter the following
+ORDER
+And now, August 21,1990, pursuant to 53 Pa.C.S. §6902, the authority of West Fallowfield Township to collect an occupational privilege tax is limited to those who work, within the’township’s geographical boundaries, and does not include those employed and working at the Highland Elementary School. Because the parties agreed at hearing that they could work out the finances following my ruling, I will enter no further directives, but will instead retain jurisdiction in the event the parties cannot agree on the financial details.
