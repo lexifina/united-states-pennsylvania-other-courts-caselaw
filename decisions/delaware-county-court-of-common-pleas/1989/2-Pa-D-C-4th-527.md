@@ -1,0 +1,37 @@
+---
+court: "Delaware County Court of Common Pleas"
+docket: "no. 81-2399"
+decided: "1989-04-21"
+citations: ["2 Pa. D. & C.4th 527"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Grassi"]
+source_url: "https://static.case.law/pa-d-c4th/2/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1244649
+cites_cases: ["103 Pa. Commw. 174", "115 Pa. Commw. 248", "34 Pa. Commw. 310", "384 A.2d 269", "401 A.2d 1", "406 A.2d 248", "42 Pa. Commw. 352", "46 Pa. Commw. 64"]
+---
+
+# Commonwealth v. Grassi
+
+## Majority (BATTLE, J.,)
+
+BATTLE, J.,
+Petitioner, George Grassi, is a licensed driver in the Commonwealth of Pennsylvania. On May 17, 1979 he committed a driving violation in the State of New Jersey. He did not immediately respond to the citation issued as a result of the violation.
+The Pennsylvania Department of Transportation suspended Mr. Grassi’s operating privilege effective July 1, 1980 for failing to respond to the New Jersey citation. The department’s records indicate that the notice of this suspension was mailed to Mr. Grassi on June 30, 1980. Therefore, Mr, Grassi had no time to respond prior to the imposition of the suspension. Thereafter, on July 15, 1980, Mr. Grassi was found to be operating a vehicle on the suspended license. Mr. Grassi then paid the New Jersey citation and his driving privileges were restored on September 10, 1980.
+The Department of Transportation sent Mr. Grassi a notice on January 21’ 1981 that his operating privileges were being revoked on February 25, 1981 as a result of his driving under suspension on July 15,. 1980. On February 3, 1981 the department sent Mr. Grassi a notice that his operating privileges were being suspended for failing to respond to a citation issued on August 17, 1979. However, the department’s exhibits do not contain a copy of the August 17, 1979 citation. Nor does the department’s certified copy of Mr. Grassi’s driving record contain any information regarding an August 17, 1979 citation. No testimony or other evidence regarding the August 17, 1979 citation was presented to this court.
+Mr. Grassi appealed the Department of Transportation’s actions regarding his license on February 21, 1981. A hearing was scheduled for May 4, 1981 and thereafter continued. The hearing was rescheduled for June 8, 1981 and continued. There is no record as to who made the request for continuance of the June 8, 1981 hearing. Apparently, this matter was overlooked for quite some time. A hearing was scheduled for March 23,1988. Since Mr. Grassi’s attorney had a conflict due to a change in his employment position, a hearing was finally held on April 18,1988. At the conclusion of the hearing, the matter was taken under advisement by the court. An order denying the appeal was entered on June 9, 1988.
+Mr. Grassi has convinced this court that he received no notice of the June 9, 1988 order until July 16, 1988, when he received a notice from the Department of Transportation. Thereafter, he filed a petition for reconsideration on August 3, 1988. The petition for reconsideration must be considered timely due to the lack of notice.
+Mr. Grassi makes two arguments in support of his appeal. The first is that the Department of Transportation failed to give him sufficient notice of his license suspension for the suspension effective July 1, 1980. The notice, according to department records, was mailed on June 30, 1980. Mr. Grassi was found to be driving on July 15, 1980.
+The second argument is that Mr. Grassi has been prejudiced by the delay in this matter. He now works as a mechanic for a vehicle inspection station. If his license is suspended, he will not be able to work. If he is unable to work, he will not be able to support his wife and two children, who are aged six and two. He notes that his driving record has been free of violations since 1980.
+The passage of time alone is insufficient to set aside an action of the department. However, delay can suffice if coupled with prejudice. See Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety v. Passerella, 42 Pa. Commw. 352, 401 A.2d 1 (1979), citing Department of Transportation, Bureau of Traffic Safety v. Lea, 34 Pa. Commw. 310, 312, 384 A.2d 269, 270 (1978). See also, Commonwealth of Pennsvylvania, Department of Transportation v. Rutkowski, 46 Pa. Commw. 64, 406 A.2d 248 (1979).
+The preceding cases involve delay by the department in suspending a driver’s operating privileges after the event triggering the suspension.
+The law is clear that not only must there by delay and prejudice, the delay must be attributed to the Department of Transportation. See Commonwealth of Pennsylvania, Department of Transportation v. Monaghan, 115 Pa. Commw. 248, 539 A.2d 940 (1988); Bureau of Traffic Safety v. Passerella, supra.
+In the instant matter, it is impossible to determine which party is more responsible for the delay. The record does not reflect which party requested the continuance of the June 8, 1981 hearing. While it is probably true that both parties contributed to the delay, as well as the court system for not scheduling a new hearing in a timely fashion, this court finds that it would be manifestly unjust to attribute the delay to Mr. Grassi and absolve the commonwealth.
+Since the time of this offense, almost nine years have elapsed and Mr. Grassi has had two children. He has been successfully employed as a state inspection mechanic which requires that he have a valid license. Further, he has not had any violations since the 1980 violation.
+This court does not suggest that Mr. Grassi consciously considered his pending suspension before fathering children and becoming a state inspection mechanic, however, it is reasonable to conclude that Mr. Grassi believed that the department was no longer pursuing the suspension. Not only would he be considerably inconvenienced by this suspension, but given the unconscionable delay in this matter, this court finds that Mr. Grassi’s change of circumstances during the delay sufficient ground to set aside the suspension. Commonwealth v. Carey, 27 D.&C. 3d 367 (1983).
+This court notes that economic hardship alone is insufficient to excuse the violation of a statute. Ridge AMC/Jeep/Renault Inc. v. Commonwealth, 103 Pa. Commw. 174, 180, 520 A.2d 515, 518 (1987). However, this matter does not solely involve economic hardship. The loss of the license would result in the loss of his employment.
+The common pleas court, in its discretion, may conclude that the delay, together with the prejudice, is sufficient to render the revocation improper. Commonwealth of Pennsylvania v. Rutkowski, supra.
+Not only has there been delay and prejudice, but no evidence has been presented regarding any conviction for an August 17, 1979 offense. This court cannot assume that there was a conviction.
+This court has relied extensively in the opinion of the late Honorable John A. Reilly of the Court of Common Pleas of Delaware County in the case of Commonwealth v. Nercesian, 75 Delaware Rep. 419 (1988). The facts presented in the Nercesian case are very similar to the facts in the case at bar. The practical reasoning of Judge Reilly has been adopted for this decision. Nercesian was affirmed by the Commonwealth Court in an unreported opinion numbered 1272 C.D. 1988.
