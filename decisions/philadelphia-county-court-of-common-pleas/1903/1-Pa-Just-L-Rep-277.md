@@ -1,0 +1,39 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "100"
+decided: "1903-03-12"
+citations: ["1 Pa. Just. L. Rep. 277"]
+reporter: "pa-just-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Antone."]
+source_url: "https://static.case.law/pa-just-l-rep/1/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6765243
+cites_cases: ["11 Pa. Superior Ct. 130", "142 Pa. 308", "170 Pa. 426", "170 Pa. 430", "2 Binn. 257", "2 W. & S. 320", "67 Pa. 149", "7 Kulp, 432", "76 Pa. 465"]
+---
+
+# Commonwealth v. Antone
+
+## Majority (Audenreid, J. Beaver, J.,)
+
+Opinion by
+Audenreid, J.
+It is true that the 2d section of the Act of April 26, 1855, declares that no special allowance of a writ of certiorari to a Justice or Alderman shall be held requisite to the maintenance of such writ (P. L. 304), but that Act was merely a further supplement to the Act of March 20, 1810, 5 Bioren’s Laws, which was entitled “An Act to amend and consolidate with its supplements the Act entitled ‘An Act for the recovery of debts and demands not exceeding one hundered dollars, before a Justice of the Peace, and for the election of Constables and for other purposes.’ ” So far as the Act of March 20, 1810, relates to process, it has been construed to apply to civil actions only: Caughey v. Pittsburg, 12 S. & R. 53; Commonwealth v. Betts, 76 Pa. 465. It seems clear, therefore, that its supplement, the Act of April 26, 1855, must be held to relate to the writ of certiorari in civil cases only; and that the practice as to the allowance of the writ in criminal cases is to be regarded as being left as it stood formerly. The language of the Court in McGinnis v. Vernon, 67 Pa. 149, is not inconsistent with this construction, for that was a civil case.
+In The King v. Eaton, 2 T. R. 89 (1787), Buller, J., citing Lord Mansfield as having laid down the distinction again and again, said that the King has a right to remove proceedings by certiorari, of course, but that where a defendant makes an application of this sort, he must always lay a ground for it before the Court, further observing that this rule had obtained since the time of Charles II. The Statute of 5 and 6 W. & M. ch. 5, had already given to the several Judges of the King’s bench, as distinguished from the Court, authority to issue writs of certiorari. The powers exercised by the Judges of the Court of King’s bench in this respect were vested in the Judges of the Supreme Court of Pennsylvania by the Act establishing Courts of judicature (1 Sm. L. 131, sec. 13.) By the constitution of 1790, art. V. sec. 8, the like powers with the Judges of the Supreme Court to issue writs of certiorari to the Justice of the Peace are vested in the Judges of the Courts of Common Pleas. In a memorandum by Mr. Breckenridge (afterwards one of the Judges of the Supreme Court), quoted in a note to the case of Penn. v. Kirkpatrick, Add. 193, it is said: “If had been an early practice in this country, and I believe in the middle counties of Pennsylvania, to consider the certiorari in a criminal as well as in a civil case, as issued of course. But in the year 1785 or 1786, I think, at Chambersburg, a decision was formally given by the Judges of the Supreme Court that the certiorari was not a writ of course, but obtainable at the prayer of the defendant, only on motion. The reason is that otherwise it would be in most cases used for the purpose of delay.” The practice thus established has not been changed by legislation or affected by the constitution of 1874.
+Edward A. Anderson, with him John H. Fow, for appellant,
+cited: Eclcart v. Wilson, 10 S. & R. 44; Commonwealth v. Turnpike Road, 2 Binn. 257; In re District of Pittsburg, 2 W. & S. 320; McGinnis v. Vernon, 67 Pa. 149; Edwardsville Borough v. Rice, 7 Kulp, 432; Delaware County Turnpike Road, 4 Pa. C. C. Rep. 101; Com. v. Wolfe, n Pa. Dist. Rep. 402; Com. v Borden, 61 Par 272; Com. v. Gelbert, 170 Pa. 426; Com. v. Phelps, 170 Pa. 430.
+Clinton Rogers Woodruff, with him William D. Neilson, for appellee,
+cited: Mahanoy Borough v. Wadlinger, 142 Pa. 308; Com. v. Davidson, 11 Pa. Superior Ct. 130; Com. v. Betts, 76 Pa. 465; Com. v. Mattern, 24 Pa. C. C. Rep. 655; Com. v. Wolfj 11 Pa. Dist. Rep. 402.
+March 12, 1903.
+The failure to obtain an allocatur for the certiorari in such a case as this gives ground for a rule to quash the writ, and that is, perhaps, the better method of presenting the point to the Court, but the Court may of its own motion, on this defect appearing at the hearing of the exceptions, quash or dismiss the writ.
+As the defendant in this case failed to have his certiorari allowed by the Court or by one of the Judges, and as, in view of certain abuses which have grown up in connection with the removal of summary proceedings by appeal or certiorari, we deem this omission a fatal one, we quash the writ and affirm the judgment of the Magistrate.
+Error assigned was order quashing the writ.
+Opinion by
+Beaver, J.,
+This appeal raises the question of the necessity of securing a special allowance from the Court of Common Pleas for a writ of certiorari to a Justice of the Peace or Alderman in a summary conviction for a violation of the Sunday laws.
+Little can be profitably added to what has been said by Judge Audenried in his opinion, quashing the writ from the judgment of the Magistrate.
+The title of the Act of April 26, 1855, P. L. 304, is very specific. It is entitled, “A further supplement to an Act to amend and consolidate, with its supplements, an Act for the recovery of debts and demands not exceeding one hundred dollars, before a Justice of the Peace, and for the election of Constables and for other purposes, approved March the 20th, one thousand eight hundred and ten.” The Act of March 20, 1810, to which it is a further supplement, is found in 5 Sm. L. 161, and relates exclusively to civil actions. We cannot, by judicial interpretation, extend either of these Acts and they are, therefore, to be excluded in our consideration of the question involved and we are left, as is shown in the opinion of Judge Audenried,-to the-law as it stood prior to the enactment of these statutes.
+The question as to whether or not an action for a penalty is a civil action is fully considered in Com. v. Betts, 76 Pa. 465, in which Judge Agnew, delivering the opinion, says: “We are, therefore, of the opinion that an action such as this in the name of the commonwealth to recover a penalty for a statutory offense is not a civil action such as is meant in the 22d and 24th sections of the Act of 1810. It may be so in form but in its true nature and effect it is a proceeding for a criminal offense, the supervision of which the essential interests of the public require to belong to this Court.
+The necessity for a special allowance for a writ of certiorari has been uniformly held in the Courts of Common Pleas of Philadelphia; so far as we can gather from the reports, and this has been recognized in a rule which was promulgated June 3, 1902, in an amendment to rule 5, section 5, which provides that “no motion for the allowance of certiorari from a summary conviction before a Magistrate will be entertained, unless it appears that forty-eight hours' notice thereof has been given to the District Attorney in writing,” It is true that this rule would not apply to this case, but it is simply a recognition of the practice of the Courts of Common Pleas in Philadelphia and, even if it were not clear to us, as it is from the consideration of the statutes and the authorities arising under them, that a special allowance was necessary in a case of this kind, we would be loath to reverse except in a case clearly requiring it.
+Judgment affirmed.
