@@ -1,0 +1,32 @@
+---
+court: "Lawrence County Court of Common Pleas"
+docket: "no. 43 of 1988"
+decided: "1988-11-10"
+citations: ["1 Pa. D. & C.4th 285"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["First National Bank of Western Pennsylvania v. Hartford Insurance Company"]
+source_url: "https://static.case.law/pa-d-c4th/1/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821919
+cites_cases: ["102 Pa. Commw. 592", "267 A.2d 867", "291 Pa. Super. 145", "361 Pa. Super. 65", "439 Pa. 501"]
+---
+
+# First National Bank v. Hartford Insurance
+
+## Majority (CAIAZZA, /.,)
+
+CAIAZZA, /.,
+This case is before us for a determination on the second set of preliminary objections filed by the defendant, Hartford Insurance Company. A review of an amended complaint filed by plaintiff, First National Bank of Western Pennsylvania, reveals that Hartford insured a motor vehicle owned by James R. Smith and Michael B. Kenly. First National, which held the status of lien holder in relationship to the vehicle, was a loss payee under the provisions of the Hartford insurance policy. The insured vehicle was damaged in a collision which occurred on November 5, 1987. However, in.September 1987, the Hartford insurance policy expired by virtue of its own terms (the policy was in effect from September 24, 1986, to September 24, 1987).
+Apparently, during the terms of the policy, notice of a proposed termination of the insurance coverage was forwarded by Hartford to both the insured and First National. The non-payment of premium installments due to Hartford prompted the notice; parenthetically, notices of cancellation of insurance coverage must be provided to the appropriate parties by virtue of the provisions of 40 Pa.C.S. §1008.5. However, the insurance premiums were subsequently paid and the insurance coverage continued until the policy expired by virtue of its own terms.
+First National now contends that a duty rested upon Hartford to inform the plaintiff that the insurance policy had expired. The issue here, as formulated by First National, is whether or not Hartford pursued a course of conduct which tended to mislead the plaintiffs. They reason that Hartford, by serving notice upon the plaintiff as to the status of the insurance policy during its natural term, imposed upon itself a further duty to notify the plaintiff that the insurance contract had not been continued to a further term. In its argument, First National further contends that because of its prior conduct, Hartford is now estopped from denying that the policy was in effect on the date of the accident.
+The narrow issue in the case sub judice is whether a loss payee on an insurance company’s failure to notify the loss payee that the insured did not renew a policy which expired by virtue of its own terms.
+This court can find no statutory duty imposed upon an insurance carrier to notify a loss payée that an insurance policy had expired. Pursuant to the provisions of 40 Pa.C.S. §1008.5 an insurer cannot cancel or refuse to renew a policy of automobile insurance unless the insurer serves upon the insured a written notice of the cancellation of the policy or a refusal to renew the insurance contract, (emphasis supplied) While First National may hold an insurable interest in the property, Commonwealth of Pennsylvania .v. Rodebaugh, 102 Pa. Commw. 592, 519 A. 2d 555 (1986), this court cannot expand the word “insured” as utilized in the statute to include a “loss payee.” Pursuant to the Statutory Construction Act, section 1903(a), words and phrases shall be contrued according to rules of grammar and according to their common and approved usage. 42 Pa.C.S. § 1903(a). It would be improvident for this court to hold that in enacting the statute the Pennsylvania legislature intended the insurer to provide the requisite notice to a loss1 payee.
+Next, the plaintiff opines that Hartford should be estopped from positing that the insurance policy was not renewed. Their position is premised upon the doctrine of equitable estoppel which prevents a party from taking a position that is inconsistent with a position previously taken and, thus, disadvantageous to the other party. Curran v. Eberharter, 361 Pa. Super. 65, 521 A.2d 474 (1987).
+An examination of the facts here reveals that a time when the insurance policy was to be canceled due to the non-payment of premiums, Hartford served notice upon First National solely as a volunteer; at that time no definitive legal relationship existed between the plaintiff and the defendant. If the policy was cancelled prematurely due to the non-payment of a premium, First National would have had no express knowledge of that fact except for the notice served upon them gratuitously by Hartford.
+First National seemingly opines that Hartford, by notifying it of a premature policy cancellation, assumed the further obligation to notify First National that the policy had not been extended beyond its expiration date. Carried through to its logical conclusion, First National is apparently arguing that the failure of Hartford to notify it of the expiration of the policy on its anniversary date is inconsistent with Hartford’s prior conduct, viz., notifying First National of the premature cancellation of the automobile insurance policy.
+A preliminary objection in the nature of a demurrer is not to be sustained and the complaint dismissed unless no récovery is possible. Hoffman v. Misericordia Hospital of Philadelphia, 439 Pa. 501, 267 A.2d 867 (1970); Bickell v. Stein, 291 Pa. Super. 145, 149, 435 A.2d 610, 612 (1981) (only where it appears with certainty upon the facts averred that the law will not permit recovery can the complaint be dismissed and summary judgment entered for the defendant).
+Consequently, if any theory of law will support an action, a dismissal at this juncture is impossible. Considering the legal principle of equitable estoppel and acknowledging that all doubts must be resolved against the moving party, the preliminary objections in the nature of a demurrer will be dismissed through the terms of the accompanying
+ORDER
+Now, November 10, 1988, following a consideration of the appended memorandum opinion, the preliminary objections in the nature of a demurrer filed by defendant are dismissed. The defendant is extended a period of 20 days from the date of order in which to file a responsive pleading.
