@@ -1,0 +1,44 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "no. 3084"
+decided: "1993-01-06"
+citations: ["17 Pa. D. & C.4th 91"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilson v. The Budd Co."]
+source_url: "https://static.case.law/pa-d-c4th/17/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1386733
+cites_cases: ["224 A.2d 174", "281 Pa. Super. 193", "386 U.S. 1007", "423 Pa. 373", "514 Pa. 32", "521 Pa. 29", "530 Pa. 11"]
+---
+
+# Wilson v. The Budd Co.
+
+## Majority (GAFNI, /.,)
+
+GAFNI, /.,
+The 15 plaintiffs in the above-captioned cases have filed actions against their employer, The Budd Company, manufacturer of automobile parts. In their complaints, which are identical, they allege that Budd is liable for: (1) its intentional failure to protect Wilson from damaging levels of noise; (2) its intentional failure to test and evaluate Wilson’s hearing; (3) its intentional failure to advise Wilson of his hearing loss and the results of his hearing tests; and (4) fraud.
+Budd has filed identical preliminary objections in each case. Accordingly, this opinion is equally applicable to all 15 cases. For the reasons stated below, Budd’s preliminary objections will be sustained as to all counts, except for the fraud counts. The fraud counts will be stricken without prejudice to plaintiffs’ right to refile the complaints accompanied by proper verifications.
+1. FACTUAL BACKGROUND
+In their complaints, plaintiffs allege that, during their periods of employment at Budd, each of them sustained permanent hearing loss as a result of exposure to excessively high levels of noise. They aver that Budd conducted hearing tests, but withheld the results of those tests from them. Each plaintiff also asserts that Budd intentionally failed to comply with federal regulations concerning noise exposure, testing and hearing protection.
+Budd argues that plaintiffs’ claims are barred by the exclusivity provision of the Pennsylvania Workmen’s Compensation statute, at 77 P.S. §481(a). It also maintains that plaintiffs have not pled fraud with the required specificity, and have not attached proper verifications to their complaints.
+2. DISCUSSION
+The Pennsylvania Workmen’s Compensation Statute provides, in relevant part:
+“(a) The liability of an employer under this act shall be exclusive and in place of any and all other liability to such employees, his legal representative, husband or wife, parents, dependents, next of kin or anyone otherwise entitled to damages in any action at law or otherwise on account of any injury or death as defined in section 301(cXl) and (2) or occupational disease as defined in section 108.” 77 P.S. §481(a).
+a. Plaintiffs’ Claims Of Intentional Wrongdoing
+In Poyser v. Newman and Co. Inc., 514 Pa. 32, 522 A.2d 548 (1987), the Pennsylvania Supreme Court decided that there is no exception to this exclusivity provision based upon the allegation pf an employer’s intentional wrongdoing. The court stated that the idea was “interesting,” but that it was rightly resolved in the General Assembly. It stated that to permit a worker to sue his employer based upon its allegedly intentional conduct would be to engraft upon the Act an exception the legislature did not see fit to put there. Id. at 38, 522 A.2d at 551.
+The Pennsylvania court reached the same conclusion regarding the Occupational Disease Act, in Barber v. Pittsburgh Corning Corporation, 521 Pa. 29, 555 A.2d 766 (1989). There, the court refused to allow an action based upon exposure to asbestos, even though the employee claimed that his employer knew of the danger and deliberately failed to protect him. The court noted that the General Assembly had not seen fit to enact an “intentional behavior” exception in the two years following Poyser, supra.
+Poyser and Barber clearly establish that no exception to the Pennsylvania Workmen’s Compensation Act exists for intentional behavior by an employer. For this reason, plaintiffs’ counts for: (1) intentional failure to protect its employees from damaging levels of noise; (2) intentional failure to test and evaluate their hearing; and (3) intentional failure to advise them of their hearing loss, must be dismissed.
+b. Plaintiffs’ Allegations Of Fraud
+Although plaintiffs may not seek compensation for their alleged work-related injuries, they may maintain actions for fraud, since they have alleged that Budd fraudulently concealed from them the results of their hearing tests, and that this resulted in the aggravation of their injuries. In Martin v. Lancaster Battery Co. Inc., 530 Pa. 11, 606 A.2d 444 (1992), the Supreme Court held that the exclusivity provision of the Workmen’s Compensation Act did not prevent an employee from maintaining an action for fraudulent misrepresentation against his employer, which he accused of altering and withholding test results which would have alerted him to his excessive exposure to lead.
+The Martin court distinguished such a case from the situations presented in Poyser and Barber, stating:
+“The employee herein has alleged fraudulent misrepresentation on the part of his employer as causing the delay which aggravated a work-related injury. He is not seeking compensation for the work-related injury itself in this action. Clearly, when the Legislature enacted the Workmen’s Compensation Act in this Commonwealth, it could not have intended to insulate employers from liability for the type of flagrant misconduct at issue herein by limiting liability to the coverage provided by the Workmen’s Compensation Act. There is a difference between employers who tolerate workplace conditions... and those who actively mislead employees already suffering as the victims of workplace hazards....” Id. at 17-18, 606 A.2d at 447-48. (emphasis in original)
+The Martin court went on to state that, although Pennsylvania Rule 1019(b) requires a plaintiff to plead fraud with particularity, it is impossible to establish precise standards as to the degree of particularity required under the rule. Id. at 18, 606 A.2d at 448. The court noted that the pleadings must adequately explain the nature of the claim to the opposing party, so as to permit the preparation of a defense, and “must be sufficient to convince the court that the averments are not merely subterfuge.” Id., citing Bata v. Central-Penn National Bank of Phila., 423 Pa. 373, 380, 224 A.2d 174, 179 (1966), cert. denied, 386 U.S. 1007 (1967).
+Here, plaintiffs have asserted that Budd intentionally failed to provide them with the results of their hearing tests, or inform them when audiographs indicated that their hearing had deteriorated. They have further asserted that Budd undertook these acts with the intent to defraud and deceive plaintiffs, and to benefit itself. Although plaintiffs’ complaints are devoid of allegations as to specific times and dates, each plaintiff’s reference to “the period of his employment” is sufficient to permit Budd to prepare defenses. Plaintiffs have asserted a factual basis sufficient to convince the court that their averments of fraud are not mere subterfuge. Accordingly, Budd’s preliminary objections as to plaintiffs’ claims for fraud will be overruled.
+c. Verification Of The Complaints
+Pennsylvania Rule 1024 sets forth the requirements for verification of a complaint, or other pleading. It provides that:
+“The verification shall be made by one or more of the parties filing the pleading unless all the parties (1) lack sufficient knowledge or information, or (2) are outside the jurisdiction of the court and the verification of none of them can be obtained within the time allowed for filing the pleading.” Pa.R.C.P. 1024(c).
+Each of the 15 complaints addressed here is verified by counsel for plaintiffs. Counsel maintains that he has specific knowledge of Budd’s alleged misrepresentations and conduct, through previous sworn testimony given by the plaintiffs. He has not, however, alleged that plaintiffs are outside the jurisdiction of the court, or that they lack sufficient knowledge to verify their own complaints. An attorney may verify a complaint, but only where the requirements of Rule 1024 are met. See Lewis v. Erie Insurance Exchange, 281 Pa. Super. 193, 421 A.2d 1214, 1217 (1980). Accordingly, plaintiffs’ complaints must be stricken, without prejudice to their right to refile them, accompanied by the proper verification.
+ORDER
+And now, January 6, 1993, upon consideration of The Budd Company’s preliminary objections, and plaintiffs’ responses thereto, it is hereby ordered that The Budd Company’s preliminary objections are granted, except that the fraud claims in each action are stricken without prejudice to plaintiffs’ right to refile the complaints accompanied by the proper verification.
