@@ -1,7 +1,7 @@
 ---
 court: "Schuylkill County Court of Common Pleas"
 decided: "1874-09-21"
-citations: ["2 Foster 318", "3 Foster 57"]
+citations: ["2 Foster 318"]
 reporter: "foster"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["WILLIAM L. TORBERT v. JOHN Y. YOCUM."]
 source_url: "https://static.case.law/foster/2/cases/0318-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6762330
-cites_cases: ["1 W. & S. 57", "1 W. & S., 57", "1 Wright, 390", "3 W., 274", "7 W. & S., 444"]
+cites_cases: ["1 W. & S., 57", "1 Wright, 390", "3 W., 274", "7 W. & S., 444"]
 ---
 
 # Torbert v. Yocum
