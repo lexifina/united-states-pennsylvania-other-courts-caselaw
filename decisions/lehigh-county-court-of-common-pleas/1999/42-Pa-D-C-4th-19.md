@@ -1,0 +1,35 @@
+---
+court: "Lehigh County Court of Common Pleas"
+docket: "no. 96-C-0832V"
+decided: "1999-03-24"
+citations: ["42 Pa. D. & C.4th 19"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of Marsh v. Hunter"]
+source_url: "https://static.case.law/pa-d-c4th/42/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743119
+cites_cases: ["263 Pa. Super. 8", "443 Pa. Super. 245", "481 Pa. 256", "526 Pa. 54", "527 Pa. 132", "661 A.2d 397", "700 A.2d 508", "705 A.2d 894"]
+---
+
+# Estate of Marsh v. Hunter
+
+## Majority (BLACK, J.,)
+
+BLACK, J.,
+Plaintiffs allege in this medical malpractice action that defendant failed to properly and timely diagnose an impending myocardial infarction of their decedent, Robert Marsh, resulting in his death. Before the court is defendant’s motion for summary judgment on the ground that plaintiffs have failed to produce an expert report sufficient to establish a prima facie case of medical negligence. For the reasons stated below, the motion for summary judgment is granted.
+The pertinent facts, for purposes of this motion, are these: On July 12,1992, decedent went to the emergency room at Muhlenberg Hospital complaining of burning chest pains that had persisted on and off for a two-week period, mainly associated with meals. In the emergency room defendant examined decedent and administered an electrocardiogram to him. She diagnosed decedent as having peptic ulcer disease, for which she recommended Maalox, Zantac tablets to be taken twice a day, and continuing antacids after meals.
+On July 21,1992, decedent once again made a visit to the Muhlenberg Hospital emergency room, complaining of similar symptoms along with a fever and pain in his left groin. Once again defendant examined decedent in the emergency room. After the examination defendant referred decedent for an ultrasound of his gallbladder the next day and for x-rays. These tests were negative. Defendant prescribed pain medication for the pain in decedent’s groin, which defendant diagnosed as a groin pull, and also continued decedent on Zantac and antacids for his chest pains. A few days later, on July 24,1992, decedent arrived at the Easton Hospital emergency room in full cardiopulmonary arrest and was pronounced dead soon thereafter.
+To state a prima facie cause of action for medical malpractice a plaintiff must establish that (1) the physician owed a duty; (2) the physician breached the duty; (3) the breach of the duty was the proximate cause of, or a substantial factor in, bringing about the harm suffered; and (4) the damages suffered were a direct result of the harm. Hoffman v. Brandywine Hospital, 443 Pa. Super. 245, 250, 661 A.2d 397, 399 (1995). In order to prove such a case the plaintiff must present a medical expert who can testify, to a reasonable degree of medical certainty, that the conduct of the physician deviated from the accepted standard of care, and that the deviation was the proximate cause of the harm to the plaintiff. Mitzelfelt v. Kamrin, 526 Pa. 54, 62, 584 A.2d 888, 891 (1990). The proximate cause requirement is met in a case such as this if the plaintiff produces an expert who opines to a reasonable degree of medical certainty that the physician’s deviation from the standard of care increased the risk of harm to the plaintiff, and that this type of harm was in fact sustained. Hamil v. Bashline, 481 Pa. 256, 392 A.2d 1280 (1978).
+A party may move for summary judgment as a matter of law “if, after completion of discovery relevant to the motion, including the production of expert reports, an adverse party who will bear the burden of proof at trial has failed to produce evidence of facts essential to the cause of action or defense which in a jury trial would require the issues to be submitted to a jury.” Pa.R.C.P. 1035.2(2).
+The question presented by defendant’s summary judgment motion in this case is whether the report of plaintiffs’ expert witness, Alan M. Greenspan M.D., dated September 14,1998, states with the required reasonable degree of medical certainty that the acts or omissions of defendant did in fact increase the risk of cardiopulmonary arrest to decedent. Dr. Greenspan’s report does state that there were four variations or deviations from standard practice by defendant. See defendant’s motion for summary judgment, exhibit “C,” report of Alan Greenspan M.D., dated September 14,1998, p. 2. However, in discussing the issue of causation the report merely states:
+“It is likely that if the patient’s clinical condition was appropriately diagnosed as unstable angina and the patient did undergo a prompt catheterization and intervention, it may have prevented his ultimate sudden cardiac death...Defendant’s motion for summary judgment, exhibit “C,” p. 2. (emphasis added)
+A medical expert does not have to testify with absolute certainty. Mitzelfelt, supra, 526 Pa. at 62, 584 A.2d at 892. Nor are there any “magic words” that he must use. Smith v. Grab, 705 A.2d 894, 900 (Pa. Super. 1997). Nevertheless, to be sufficient an expert opinion must be held to a reasonable degree of certainty.
+“An expert fails this standard of certainty if he testifies that the alleged cause ‘possibly,’ or ‘could have’ led to the result, ... or even that it was ‘very highly probable’ that it caused the result.” Kravinsky v. Glover, 263 Pa. Super. 8, 21, 396 A.2d 1349, 1356 (1979). (citations omitted)
+Similarly, an expert report does not meet the required standard of certainty where it states that the alleged deviation from the standard of care “in all likelihood . . . may have hastened” the progression of an illness or a disease. Hoffman, supra at 255, 661 A.2d at 402.
+In reviewing a motion for summary judgment, we must examine the record in the light most favorable to the non-moving party, and all doubts are to be resolved against the moving party. Long v. Yingling, 700 A.2d 508, 512 (Pa. Super. 1997). Moreover, summary judgment should be granted only in cases that are clear and free from doubt. Marks v. Tasman, 527 Pa. 132, 589 A.2d 205 (1991).
+However, even when we view Dr. Greenspan’s report in this light, the report does not measure up. Dr. Greenspan merely opines that it is “likely” that defendant’s actions “may have” increased the risk of death to decedent.
+This opinion is not offered to a reasonable degree of medical certainty. Under the current state of the law in Pennsylvania such an opinion falls short. It fails to satisfy plaintiffs’ burden of establishing a prima facie case of medical negligence. Kravinsky, supra; Hoffman, supra. Therefore, defendant is entitled to summary judgment in her favor as a matter of law.
+ORDER
+Now, March 24, 1999, upon consideration of defendant’s motion for summary judgment and plaintiffs’ response thereto, after oral argument and for the reasons set forth in the accompanying opinion, it is ordered that said motion be and hereby is granted, and judgment shall be entered in favor of defendant against plaintiffs.
