@@ -1,0 +1,57 @@
+---
+court: "Fulton County Court of Common Pleas"
+docket: "no. 229 of 1989-C"
+decided: "1990-02-22"
+citations: ["5 Pa. D. & C.4th 190"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Gallagher"]
+source_url: "https://static.case.law/pa-d-c4th/5/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8819913
+cites_cases: ["105 Pa. Commw. 468", "105 Pa. Commw. 631", "442 A.2d 837", "521 Pa. 242", "525 A.2d 444", "65 Pa. Commw. 320"]
+---
+
+# Commonwealth v. Gallagher
+
+## Majority (KELLER, P.J.,)
+
+KELLER, P.J.,
+Elwood G. Gallagher received official notice dated October 3, 1989 that due to a violation of section 1547 of The Vehicle Code on September 17, 1989 his license would be suspended for one year effective November 7, 1989. On October 31, 1989 Mr. Gallagher filed his petition for appeal from the order suspending his operating privileges, and an order was entered directing that a hearing de novo be held on December 12, 1989 at 1:30 p.m., and directing that the said order act as a supersedeas to the suspension order. The matter was continued until January 16, 1990 at which time hearing was held.
+FINDINGS OF FACT
+(1) Officer Douglas O. Thomas has been a police officer since 1983 and he has experience in investigating driving under the influence cases.
+(2) On September 17, 1989, he received a report from the Pennsylvania State Police of an automobile accident at the intersection of Cito Road and Lincoln Way East in the Borough of McConnellsburg at approximately 7 a.m. He responded to the call and arrived at the scene at 7:30 a.m.
+(3) At the scene, he observed a 1980 Oldsmobile owned by defendant and a 1983 Chevrolet Coupe owned by Brenda Burger. He learned that defendant had failed to yield the right-of-way and pulled into the path of the Burger vehicle.
+(4) Defendant was not at the accident scene when Officer Thomas arrived, and he learned that he had gone to Johnnie’s Diner for coffee.
+(5) Approximately 10 minutes after Officer Thomas arrived at the accident scene, he observed the defendant approaching. He observed that he was “swaying,” his clothes were wrinkled, his shirttail was partially out, and there were spots on his pants. The officer also detected the strong odor of alcohol on defendant’s breath.
+(6) Prior to defendant arriving at the accident scene, Officer Thomas had found on the floor of defendant’s vehicle a beer bottle with approximately one-half ounce of beer still in it.
+(7) At the officer’s request, defendant gave him his operator’s license and insurance card.
+(8) Officer Thomas inquired how the accident had happened. Defendant said he was attempting to make a left turn from Lincoln Way onto Crystal Drive when the Burger vehicle tried to pass him on the left and the collision occurred. This was contrary to other information the officer had received and evidence secured at the scene.
+(9) The officer advised defendant he was under arrest for driving under the influence and that he should not drink the coffee because the officer wanted defendant to take the blood/alcohol test at the Fulton County Medical Center. He further at 7:50 a.m. advised defendant of the implied consent law, and that his operating privileges would be suspended for a year if he refused to give blood.
+(10) Defendant was placed in the backseat of the police cruiser and taken to the Fulton County Medical Center.
+(11) During the brief conversation with defendant before he was placed in the cruiser, and during the time of his being transported to the Medical Center, Officer Thomas observed that the defendant’s attitude was indifferent and his speech fair.
+(12) At the Medical Center, the officer then informed personnel that he wanted a blood test taken. At 8:13 a.m. a Ms. Bonnie Hoffman approached the defendant and inquired whether he was ready for her to take his blood. Defendant replied that he wanted his doctor to check him out first. Ms. Hoffman told defendant that Dr. McLucas was out of town but Dr. Johnson was coming to the Medical Center. Officer Thomas agreed to wait a little while for Dr. Johnson to come and examine defendant.
+(13) At 8:35 a.m. the officer approached defendant and told him he couldn’t wait much longer for the blood test. He advised defendant of the implied consent law and that his operating privileges would be suspended for a year if he refused to provide blood. The defendant responded that he was not refusing, that he wanted his doctor to check him out first.
+(14) Between 8:35 a.m. and 8:45 a.m., Officer Thomas learned that Dr. Johnson would not arrive at the Medical Center until 9:30 a.m. He advised defendant that the time was a factor in blood/alcohol tests. He had learned and advised defendant an emergency room doctor was available and would check him out. Defendant stated again that he was not refusing, but wanted his “own doctor to check me out first.”
+(15) The officer told defendant that he had had three opportunities to agree to give blood and he considered defendant had refused his requests by attaching conditions. Defendant said he knew his rights and was calling his attorney.
+(16) Officer Thomas at no time advised defendant of his Miranda rights.
+DISCUSSION
+Defendant’s first argument is that defendant cannot be found to have refused the blood test, because no valid blood test request was made.
+Defendant argues that he was simply seeking to have the presence of a physician as required by law. Counsel for defendant relies on section 3755(a) of the Vehicle Code which provides: “If, as a result of a motor vehicle accident, the person who drove . . . any involved motor vehicle requires medical treatment in an emergency room . . . the emergency room physician or his designee shall promptly take blood samples ...”
+The court finds two flaws in defendant’s argument. First, counsel did not quote the remainder of section 3755(a) which goes on to provide: “ . . . from those persons and transmit them within 24 hours for testing to the Department of Health or a clinical laboratory licensed and approved by the Department of Health, and specifically designated for this purpose.”
+Section 3755 imposes a mandatory obligation upon hospital emergency room personnel, treating victims of accidents, to obtain blood samples from such victims when probable cause exists to believe that such person was operating a vehicle under the influence of alcohol in violation of section 3731 of the code. Section 3755, however/deals with the criminal aspects of a vehicle code violation and provides immunity from civil and criminal liability to emergency room personnel; it is inapplicable where, as here, an operator’s license has been suspended pursuant to section 1547(b) of the code. See Simpson v. Commonwealth of Pennsylvania, 105 Pa. Commw. 631, 525 A.2d 444 (1987). We find section 3755(a) inapplicable in a license suspension proceeding.
+Second, section 3755(a) deals with persons taken to the emergency room for medical treatment. In the case at bar, defendant was taken to Fulton County Medical Center so a blood/alcohol test could be performed. When defendant and Officer Thomas arrived at the Medical Center, the officer informed personnel that he wanted a blood test performed. In that context obviously section 3755(a) is inapplicable. We find section 1547 to be the applicable section, and we also find that a nurse may properly withdraw blood. We, therefore, find no merit in defendant’s first argument.
+Defendant’s second argument is that his license should not be suspended because he stated that he wanted to talk to a lawyer and Officer Thomas did not clarify and explain that there is no right to counsel prior to a blood test. That , this is a specious contention is manifest by the fact that defendant never requested an opportunity to speak to his attorney. Only after the officer advised defendant that he considered his conduct to constitute a refusal did the defendant state he was calling his attorney. (Finding of fact no. 15.)
+We will first determine whether defendant’s action constituted a refusal.
+The language of section 1547 is clear. Any person who refuses chemical testing upon notice of the consequence shall lose his operating privilege. No exceptions are contemplated, nor have past attempts to create such exceptions been successful in our courts. The reasoning is simple: as the body rapidly eliminates alcohol, it is necessary to conduct chemical testing quickly in order to get an accurate reading. Since consultation with either counsel or physicians will involve delay, courts have held that there is no right to request such consultation prior to taking the test. Commonwealth of Pennsylvania, Department of Transportation, Bureau of Driver Licensing v. Belle, 105 Pa. Commw. 468, 524 A.2d 1060 (1987).
+Courts have repeatedly followed the rule, “That anything substantially less than an unqualified, unequivocal assent to take a chemical test constitutes a refusal.” The occasion is not one for debate, maneuver or negotiation, but rather for a simple “yes” or “no” to the officer’s request. Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety v. Wroblewski, 65 Pa. Commw. 320, 442 A.2d 837 (1982); Belle, supra.
+Time is of the essence in administering blood tests, due to the volatile nature of the evidence to be obtained, and the public interest in identifying violators of section 3731 is so compelling as to justify a very strict application of the law. An officer’s agreement to wait for defendant’s doctor was strictly a matter of grace which could be withdrawn at any time without prejudice to defendant. Wroblewski, supra.
+When the officer approached defendant to inquire whether he was ready to take the test, he replied that he was not refusing, that he wanted his doctor to check him out first. The officer tried three times to get defendant to submit to the test but each time he stated he wanted to see his doctor first. The officer could not wait for the doctor to come and told defendant that, but he persisted in his refusal to take the test until his doctor came. We conclude the undisputed evidence of defendant’s action constitutes a refusal.
+The officer after the third time he approached defendant told him he was taking his action to constitute a refusal. It was only then that defendant stated his intention to speak to his attorney. We do not find defendant’s statement that he knew his rights and was calling his attorney to be a refusal, but conditioning his consent on the presence of his physician was, indeed, a refusal.
+Defendant’s statement of his intention to call his attorney is irrelevant in this proceeding. Commonwealth v. O'Connell, 521 Pa. 242, 555 A.2d 873 (1989), is factually distinguishable from the case at bar, and therefore inapplicable to this case.
+We find defendant’s contentions to be without merit, and the one-year suspension of operating privileges will be reinstated.
+ORDER
+Now, February 22, 1990, the appeal of Elwood G. Gallagher from the order of the Pennsylvania Department of Transportation suspending his driving privileges is dismissed. The October 31,1989 stay of the execution of the suspension order is vacated.
+The Pennsylvania Department of Transportation is directed to issue a new suspension notice to Elwood G. Gallagher.
+Exceptions are granted appellant.
