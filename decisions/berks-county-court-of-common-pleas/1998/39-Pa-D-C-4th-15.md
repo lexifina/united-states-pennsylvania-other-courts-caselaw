@@ -1,0 +1,34 @@
+---
+court: "Berks County Court of Common Pleas"
+docket: "no. 96-11961"
+decided: "1998-05-06"
+citations: ["39 Pa. D. & C.4th 15"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Busch v. Busch"]
+source_url: "https://static.case.law/pa-d-c4th/39/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1402536
+cites_cases: ["371 Pa. Super. 625", "525 Pa. 392"]
+---
+
+# Busch v. Busch
+
+## Majority (SCHMEHL, P, J.,)
+
+SCHMEHL, P, J.,
+This matter comes before the court on Mr. Busch’s petition for special relief to declare the parties’ prenuptial agreement invalid. Mrs. Busch filed a complaint in divorce and Husband filed a counterclaim containing claims for equitable distribution, APL and alimony. Wife filed an answer to the counterclaim and raised as a defense the prenuptial agreement between the parties. Husband also filed a complaint for support, and again, Wife answered and raised the defense of the prenuptial agreement. At the request of counsel, the matter was decided on deposition testimony and argument without hearing.
+Husband requested the prenuptial agreement in order to protect Wife from his encroaching upon her estate. Husband was familiar with the concept of prenuptial agreements because he had such an agreement with his previous wife. Wife, on the other hand, was not familiar with prenuptial agreements because she never had one. Furthermore, she had never been through a divorce.
+On December 28, 1984, the parties executed their prenuptial agreement. The agreement was executed in a bank in Robesonia, and was witnessed by two bank employees. Execution of the agreement came only after each party had the benefit of independent legal advice. Furthermore, at the time of the execution, the parties exchanged financial disclosure statements that were to be attached to the agreement but, for whatever reason, were not so attached. These disclosure statements were prepared prior to execution of the agreement and were based on the parties’ personal knowledge.
+The financial disclosure statements were exchanged between the parties at or before the time of the execution of the agreement. In his deposition testimony, Husband testified that he did not know for sure how Wife came to have a copy of his statement, but it was possible that Attorney William Forry made a copy of his statement and gave it to Wife. He also testified that he did not care to have a copy of Wife’s statement because he felt that he understood what it said. He was not personally aware of any particular items not disclosed. He said, “she is very precise, very good,” when it comes to such matters.
+Husband now suggests that there was not full and fair disclosure of Wife’s estate. Husband’s disclosure statement revealed an estate of approximately $50,000. Wife’s disclosure statement reflected her estate to be valued in excess of $300,000. Some of the values reflected in Wife’s statement, however, were a year old and some assets, though listed, were not valued. The only thing missing from her statement was her income, solely derived from her listed investments. The true value of her estate was, in fact, over $400,000. Based on this $100,000 difference and Husband’s share of the household expenses being more costly than he anticipated, a specious argument in this context, Husband alleges that the agreement did not provide full and fair disclosure of Wife’s assets and therefore must be set aside. Husband’s disavowal of the agreement is also based on the fact that Wife’s disclosure statement provided only a general description of certain stock assets without indicating their value. Husband argues the vagueness of the agreement actually obscured the value of each parties’ respective estate.
+Full and fair disclosure of the financial positions of the parties is required in order to have a valid prenuptial agreement. Simeone v. Simeone, 525 Pa. 392, 402, 581 A.2d 162, 167 (1990). The disclosure need not be exact so long as it is “full and fair.” Id. The adequacy of the disclosure is based on the facts and circumstances of each individual case. Nigro v. Nigro, 371 Pa. Super. 625, 631, 538 A.2d 910, 912-14 (1988). Apresumption of full and fair disclosure arises if an agreement provides that such a disclosure has been made. Simeone at 403, 581 A.2d at 167. This assumption can be rebutted through an assertion of fraud or misrepresentation but only if proven by clear and convincing evidence. Id.
+Because the agreement between Husband and Wife states that full disclosure has been made, a presumption arises that such disclosure was, in fact, made. Husband has the burden of proving by clear and convincing evidence that such is not the case. Because Husband was satisfied with the agreement and the parties’ financial disclosure statements when the parties executed the agreement and because he failed to prove by clear and convincing evidence that the agreement was not based on full and fair disclosure, the court declares the prenuptial agreement to be valid and denies Husband’s requested relief.
+Between the disclosures provided by Wife and his living in her home for a few weeks before their marriage, Husband must have had a fair understanding of the value of Wife’s estate. Although Wife’s disclosure statement did not list her income or list the values for each asset listed in her statement, she did her best to use the closest value available to her. Wife did not hide anything from Husband, and her failure to list the values for each individual asset was not sufficient to “obscure” the general financial resources of Wife. Husband had the ability to look up stock values and ask for more up-to-date values if he was concerned.
+There was no material misrepresentation by Wife. Husband acknowledged that he was satisfied with Wife’s disclosure statement at the time that he executed the agreement, and, in fact, testified that her statement was complete, that Wife was very precise, very good, and that he was not aware of anything that she missed. In light of this testimony, Husband cannot be heard to say that Wife’s disclosure was not “full and fair,” especially since disclosure need not be exact.
+Full and fair disclosure need not be in the prenuptial agreement. The failure to use a staple to attach the financial disclosure statements to the prenuptial agreement will not suffice to declare the agreement invalid. The agreement is not invalid, but rather, it is simply an inconvenience to a man who has changed his mind about wanting a piece of his Wife’s estate.
+For the above reasons, the court enters the following order:
+ORDER
+And now, May 6, 1998 the defendant’s petition for special relief is dismissed.
+. There was conflicting testimony as to whether the statements were exchanged for the first time at Attorney William Forry’s office or at the bank.
