@@ -1,0 +1,35 @@
+---
+court: "Washington County Court of Common Pleas"
+docket: "no. 2081 of 1986"
+decided: "1987-10-05"
+citations: ["1 Pa. D. & C.4th 277"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence v. Wargo"]
+source_url: "https://static.case.law/pa-d-c4th/1/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821871
+cites_cases: ["309 Pa. 236", "341 Pa. Super. 427", "357 Pa. Super. 286", "488 Pa. 198"]
+---
+
+# Lawrence v. Wargo
+
+## Majority (TERPUTAC, J.,)
+
+TERPUTAC, J.,
+This matter is before the court upon a motion for summary judgment filed on behalf of Alex D. Wargo, one of the defendants in a suit brought by plain tiffs, Ronald A. Lawrence and his wife, Margaret E. Lawrencé. The suit arises out of a vehicle accident between Ronald Lawrence and Florence Wargo, the other defendant. The automobile Mrs. Wargo was driving was owned by her son, Alex Wargo.
+Plaintiffs allege that Mrs. Wargo was acting as servant, agent, and employee of Alex Wargo. More specifically, plaintiffs say that at the time of the incident Mrs. Wargo was operating the vehicle on her son’s business and the. vehicle was subject to his control. Defendant contends that Mrs. Wargo was acting on her own behalf and was engaged in her own business. Pre-trial discovery has not produced any evidence of the alleged employment relationship even though Mrs. Wargo and Mr. Lawrence have been deposed. Therefore, defendant argues that there is no issue of material fact for the jury to decide concerning the agency question. We agree.
+In passing upon a motion for summary judgment, the court must examine the record in the light most favorable to the moving party. It is not part of the court’s function to decide issues of fact but solely to determine where there is an issue of fact to be tried. Any doubt must be resolved against the moving party. Washington Federal Savings v. Stein, 357 Pa. Super. 286, 515 A.2d 980 (1986). Pa.R.C.P. 1035(b) provides that a motion for summary judgment may properly be entered only if the pleadings, depositions, answers to interrogatories and admissions on file, together with the affidavits, if any, show there is no genuine issue of any material fact and that the moving party is entitled to judgment as a matter of law. Also, Pa. R.C.P. 1035(d) provides in part:
+“When a motion for summary judgment is made and supported as provided in this rule, an adverse party may not rest upon the mere allegations, or denials of his pleading, but his response, by affidavits, or as otherwise provided in this rule, must set forth specific facts showing that there is a genuine issue for trial.”
+The purpose of this language is to assure that the notion for summary judgment go beyond the pleadings by requiring the opposing party to disclose the facts of a claim or defense. Goodrich Amram 2d § 1035(d): 5.
+Plaintiffs cite the case of Thompson Coal Co. v. Pike Coal Co., 488 Pa. 198, 412 A.2d 466 (1979). They correctly point out that where the credibility of a witness is an issue, oral proof requires the jury’s consideration and prevents the entering of summary judgment. In relating this principle to the issue of an employment relationship, the plaintiffs say that Mrs. Wargo has testified orally by deposition and has not indicated any such relationship. They say because Mrs. Wargo’s credibility may be at issue, it deserves a jury’s consideration.
+The Thompson court, in allowing the granting of summary judgment to stand, included in its opinion another holding. The court stated:
+“If credibility is in issue, oral proof requires the jury’s consideration and prevents the entering of a summary judgment. But if plaintiff fails to establish a prima facie case, the mere fact that his proof is oral does not provide a basis for placing the issue before the jury.” Thompson at 214, 412 A.2d at 474.
+This court notes that the case of Melmed v. Motts, 341 Pa. Super. 427, 491 A.2d 892 (1985), is more closely on point than the Thompson case. Melmed involved á collision between a motorcycle operated by plaintiff Melmed and a car owned and operated by Motts, one of the other defendants. Motts was a private duty nurse to her passenger, the other defendant Drake. She had been hired by Northeastern Bank of Pennsylvania, trustee of an inter vivos trust for Drake. The complaint averred that Motts was the employee of Drake and was acting within the scope of her employment at the time of the accident. The Superior Court reversed the granting of a motion for summary judgment in favor of Drake. The court reasoned that the credibility of oral testimony was at issue. The lower court had based its decision on the depositions of the moving party, but the credibility of this testmony was properly an issue for the jury, not the court to decide.
+This court distinguishes that case from the case before us. In Melmed, the oral testimony showed that an employer-employee relationship might have existed. The jury would have to determine whether Motts was acting within the scope of her employment at the time of the accident. In the case before us, we have no evidence which would indicate that an agency relationship existed between Florence Wargo and Alex D. Wargo, merely an allegation that such as agency existed. Furthermore, we are not relying on the credibility of oral testimony on this issue. Plaintiffs have not shown that any party was confronted with the employment question, an issue which could have been denied.
+Plaintiff suggests that evidence of an employment relationship between the two defendants beyond a mere averment may come forth at trial. Plaintiffs concede that this evidence may not come forth. The logical extension of such reasoning would permit the court to dismiss any motion for summary judgment where there is a mere allegation of a fact, the proof of which might be adduced at the time of trial.
+Plaintiffs have not pleaded any facts in support of the allegations of an agency relationship between Alex D. Wargo and Florence Wargo. Nor have they offered any evidence concerning this averment. If there were facts concerning the agency relationship, plaintiff should point to such facts as bearing on the issue of credibility, a matter for consideration by the jury. Instead plaintiffs have merely rested on a general allegation which has not been supported in any way on the record before us. Accordingly, the court is constrained to grant the motion for summary judgment.
+ORDER
+And now, October 5, 1987, the motion for summary judgment is granted and judgment is hereby entered in favor of Alex D. Wargo, one of the defendants, and against plaintiffs, Ronald A. Lawrence and his wife, Margaret E. Lawrence.
+This court is not unmindful of the Nanty-Glo rule, Nanty-Glo v. American Surety Co., 309 Pa. 236, 163 Atl. #523 (1932), even though neither party has raised the issue. The same rationale expoused here leads us to conclude that under the specific facts before the court, that rule would not govern this decision.
