@@ -1,0 +1,37 @@
+---
+court: "Clinton County Court of Common Pleas"
+docket: "no. 103-90 Misc."
+decided: "1991-02-15"
+citations: ["9 Pa. D. & C.4th 350"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jones v. Beach"]
+source_url: "https://static.case.law/pa-d-c4th/9/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821195
+cites_cases: ["196 A.2d 392", "249 Pa. Super. 274", "254 Pa. Super. 227", "366 Pa. Super. 130", "385 A.2d 991", "413 Pa. 253", "490 Pa. 363"]
+---
+
+# Jones v. Beach
+
+## Majority (BROWN, J.,)
+
+BROWN, J.,
+FINDINGS OF FACT
+Plaintiff and defendant are the natural parents of Vesta Marie Jones who was born on July 8, 1985. The present petition has been filed by Marcus R. Hill requesting the court for leave to intervene in the custody action.
+For purposes of the present petition only, the court makes the following findings of fact. Mr. Hill is the natural father of defendant. However, Mr. Hill’s legal status as a parent concluded in 1969 or 1970 when he consented to defendant’s adoption by another person. Notwithstanding the legal termination of his parental rights, Mr. Hill re-established a relationship with the defendant when she was 15 and at the present time alleges that he is the natural grandfather of Vesta.
+It is petitioner’s position that from 1986 to the present time he has enjoyed liberal partial custody and visitations with Vesta including periods of time when she temporarily resided with him. Petitioner presently resides with an adult female companion and her daughter who is the approximate age as Vesta. He further alleges that Vesta presently visits with him on a daily basis and that Vesta resides with him on “most every weekend.” Petitioner contends that he is actively involved in Vesta’s upbringing and that he substantially provides for her education, social, physical, intellectual, spiritual, moral, hygienic and entertainment needs.
+Petitioner also contends that Vesta has established strong ties to himself, to his female adult companion and her daughter, as well as with other friends in the community and her school. He alleges that he is better able to provide for Vesta’s health, welfare and well-being than is plaintiff. He has further alleged that if defendant becomes incarcerated for any significant period of time that he would be better able to provide for the health, welfare and well-being of Vesta than would defendant. By way of further explanation the court would note that defendant was recently sentenced on charges- involving delivery of controlled substances to a prison term having a minimum duration of 12 months.
+In view of his relationship with Vesta, petitioner has requested that he be granted full legal and physical custody of Vesta. In the alternative he alleges that the parents of Vesta have been separated for more than six months and that if he is not awarded primary physical custody of Vesta that it would be in her best interest and would not interfere with the parent/child relationship to grant him liberal partial custody, visitation rights and liberal legal custody rights to Vesta.
+ISSUE
+Should the court grant a petition to intervene in a child custody action where the proposed intervenor is not legally related to the child but is instead the natural grandfather who enjoys a significant relationship with the child?
+DISCUSSION AND CONCLUSIONS OF LAW
+Initially there is a substantial legal question as to whether petitioner could qualify for visitation or partial custody privileges as a grandparent under 23 Pa.C.S. §5312 because of the intervening adoption of defendant by another party. Adoption forever terminates the natural parent-child relationship. In re Adoption of Best, 413 Pa. 253, 196 A.2d 392 (1964). In view of the adoption it appears that petitioner does not have the legal status of parent of defendant or of grandparent of Vesta, despite his biological connection to both of them. Accordingly, petitioner’s legal status with respect to these proceedings is that of a third party rather than a grandparent.
+Nonetheless petitioner argues that he is permitted to intervene under Pa.R.C.P. 1915.6(b). Under Rule 1915.6(b) the court shall give notice of the pendency of a custody action and right to intervene therein to any person “who claims to have custody or visitation rights with respect to the child.” Whereas Rule 1915.6(a) requires joinder of (1) a non-parent who has physical custody of the child and (2) a parent whose parental rights have not been terminated, Rule 1915.6(b) does not mandate joinder. It appears that joinder of other persons seeking custody is in the court’s discretion.
+The court will allow petitioner to intervene in this action. Neither plaintiff nor defendant opposes the intervention. Petitioner’s burden of proof is as follows:
+“[I]n a dispute between a parent and a third party, including a relative such as a grandparent, the parent has a prima facie right to custody, which will be forfeited only if convincing reasons appear that the child’s best interest will be served by an award to the third party. In re Hernandez, 249 Pa. Super. 274, 287, 376 A.2d 648, 654-5 (1977). Since visitation is correlative to custody a similar test should apply when a third party seeks visitation, although the burden on the third party should not be so heavy, for an order granting visitation is a far lesser intrusion, or assertion of control, than is an award of custody. . . .
+“When seeking visitation, a third party must show reasons to overcome the parent’s prima facie right to uninterrupted custody. However, the reasons need not be so convincing as in a custody case. In a custody case, the third party must convince the court that it is in the child’s best interest to take custody from a parent and award it to a third party. In a visitation case, the third party need only convince the court that it is in the child’s best interest to give some time to the third party. As the amount of time requested moves the visit further from a visit and closer to custody, the reasons offered in support of the request must become correspondingly more convincing.” Commonwealth ex rel. Williams v. Miller, 254 Pa. Super. 227, 385 A.2d 991 (1978).
+Although petitioner bears a heavy burden to convince the court to take custody of the child from her natural parents, the court is obligated to hear petitioner’s evidence in order to determine what is in the child’s best interest. Ellerbe v. Hooks, 490 Pa. 363, 365, 416 A.2d 512, 513 (1980) (“What the hearing court must do is hear all the evidence relevant to the child’s best interest, and then, decide whether the evidence on behalf of the third party is weighty enough to tip the scale down on the third party’s side”). See also, Chapman v. Goodman, 366 Pa. Super. 130, 530 A.2d 926 (1987) (“Although the sole issue in any custody proceeding, whether between two parents or between a natural parent and a third party, is the best interest of the child, in a proceeding involving a parent and a third person, ‘the evidentiary scale is tipped, and tipped hard, to the parents’ side’”).
+ORDER
+And now, February 14, 1991, based upon the foregoing opinion, it is hereby ordered that Marcus R. Hill’s petition for leave to intervene is allowed. Hereafter, the caption in this action should include Mr. Hill as intervenor.
