@@ -1,0 +1,45 @@
+---
+court: "Berks County Court of Common Pleas"
+docket: "no. 2335-89 A.D"
+decided: "1996-02-27"
+citations: ["37 Pa. D. & C.4th 97"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laudenslager v. Laudenslager"]
+source_url: "https://static.case.law/pa-d-c4th/37/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395589
+cites_cases: ["321 Pa. Super. 154", "441 Pa. Super. 185", "444 Pa. Super. 362", "657 A.2d 12", "664 A.2d 116"]
+---
+
+# Laudenslager v. Laudenslager
+
+## Majority (GRIM, J.,)
+
+GRIM, J.,
+This case is before the court on plaintiff’s petition for emergency enforcement of postnuptial agreement and defendant’s response thereto. The court heard argument but no hearing was held; the parties agreed that all of the pertinent facts are undisputed and are presented in pleadings.
+The parties are divorced. Prior to their divorce they entered into a postnuptial agreement dated July 27, 1994. The agreement is incorporated into the divorce decree for the limited purpose of enforcement of the contractual obligations. The defaulting party is liable for counsel fees.
+Paragraph 11 reads as follows:
+“The husband further agrees to loan to the wife a maximum amount of $10,000 as a down payment toward the purchase of a residential dwelling for the wife as long as such residential dwelling is purchased within 50 miles of Wernersville, Pennsylvania. This loan shall be recorded as a lien on the real estate purchased by the wife and documented by a note signed by the wife and any other party who may be a title owner of the property. The husband shall have the same right as any mortgagee or secured lien holder and lender and the wife shall be required to maintain the premises, mortgage, taxes, insurance, etc. as is required by all lenders on the purchase and mortgaging of real estate.”
+Paragraph 12 provides:
+“The husband shall make such loan to the wife from the proceeds to which the husband is advanced from the estate of S.E. Laudenslager. Such $10,000 shall be advanced by the estate of S.E. Laudenslager to an escrow account in the names of James A. Fry, Esquire and David S. Sobotka, Esquire and released by the escrow agents to the wife at settlement of the purchase of a residential dwelling.”
+This money has been put in such an escrow account.
+Paragraph 13 states that if the loan is not accepted by September 1, 1995, the offer expires.
+Plaintiff, Marilyn M. Laudenslager, wife, had several aborted attempts to make settlement due to her inability to qualify for a mortgage when the lender learned of the anticipatory $10,000 debt to defendant, Richard E. Laudenslager, husband. She eventually made settlement during the week of June 19,1995. She borrowed $10,000 from a friend for the down payment. After the settlement, wife requested husband to release $10,000 to her and executed a mortgage, bond, and warrant securing the repayment of $10,000 to husband. Husband refuses to give the loan. He claims that wife violated the agreement by obtaining a loan from a friend prior to attending the settlement without disclosure of husband’s anticipated interest to the lender.
+To settle the matter, husband made a proposal to wife that the lender give wife’s attorney a letter addressed to husband’s attorney, as escrow holder, in which the lender acknowledges the existence of the $10,000 loan and the recorded lien. Additionally, to protect husband’s attorneys, the lender would release husband and his law firm from any claims of collusion or lender fraud.
+The lender would not give such a letter or release. Thus, wife filed the instant petition on September 7, 1995. She requests the court to order that husband authorize the release of $10,000 to her in exchange for the signed mortgage, bond, and warrant and to award attorney fees of $350.
+Husband asks the court to deny wife’s petition, to release the money to him, and to award him an unspecified amount of attorney fees.
+The court shall now address the issues raised by the parties.
+Husband suggests that since wife did not receive the money from husband or come to court before September 1, 1995, the offer has expired so the money should be released to him. There is no doubt that wife accepted husband’s offer before September 1, 1995. By July 1995, husband had to have known that wife had accepted his offer because the parties came to court on this very issue. Wife wanted husband to release $10,000 to her, husband wanted assurances from the lender. In an effort to compromise, wife agreed to try to get husband the releases which he sought. Even before that date, however, husband had known that several settlements had fallen through because of wife’s inability to qualify for the loan. Thus, there is no doubt that wife accepted the $10,000 loan and that husband was aware of her acceptance.
+Wife is willing to execute a mortgage in husband’s favor. Husband argues that wife violated the terms of the agreement in that she circumvented the requirement that at settlement she sign a mortgage and note in husband’s favor in exchange for the $10,000 loan by borrowing the money from a friend and failing to disclose husband’s interest in the property.
+A basic tenet of contract law is that when the language of a contract is clear and unambiguous, its meaning must be determined by an examination of the content of the agreement itself. The court must construe the agreement only as written and may not modify the plain meaning under the guise of interpretation. Little v. Little, 441 Pa. Super. 185, 657 A.2d 12 (1995).
+In the case sub judice the essence of the bargain is that husband is to give wife a loan for the sole purpose of buying a home. There is nothing in the agreement which prohibits wife from obtaining another loan at any time. Settlement merely triggers husband’s duty to release the money and wife’s duty to secure husband’s loan.
+Husband cites Commonwealth v. Grife, 444 Pa. Super. 362, 664 A.2d 116 (1995), as controlling in this case and as his grounds for nonperformance. The Grife court held that there was sufficient evidence that the mortgagor intended to deprive his lenders of the true value of their loans to support the mortgagor’s theft by deception conviction, even though the mortgagor did make some attempt to pay off some of the loans. This was due to several reasons. The mortgagor obtained several loans from lenders which were secured by mortgages on his home; the mortgagor persuaded lenders to permit him to act as his own title agent and then failed to disclose a preexisting mortgage lien on his home; the lenders testified that they would not have made loans to the mortgagor if they had been aware of a previous mortgage; and the mortgagor failed to record the satisfaction of another preexisting mortgage on his home and then obtained a loan from a lender by assigning him this mortgage.
+The court finds that the instant case is distinguishable from Grife. Grife was a criminal case in which the defendant was a real estate broker, appraiser, and title insurance agent. His business and his expertise was in real estate. He executed many mortgages with different institutions or persons, actively concealing preexisting liens on his residence which totaled more than the value of the property. Moreover, acting as the title agent in his transactions, he stood in a fiduciary relationship with his creditors.
+In the case sub judice, the parties relied on their attorneys for legal advice. Each party, including wife, gave up certain rights in order to reach an agreement. That this loan was a major issue for the parties is evidenced by the fact that four paragraphs covering more than one page are devoted to it and it is the only issue discussed under personalty. This mortgage was one of wife’s biggest benefits under the agreement.
+Husband raises some concerns after the agreement has been executed and he has received the benefit of the agreement. It is the court’s duty to see that equity prevails. Equity will not permit a beneficiary of an agreement, who has already received the benefits of an agreement, to object to the remaining executory provisions of the agreement. Where a fair and valid agreement is presented it will be upheld whenever possible; in the absence of fraud the agreement is binding even though based on an error of law. In re Estate of Brojack, 321 Pa. Super. 154, 467 A.2d 1175 (1983). The court will order husband to release the money.
+Pursuant to the terms of the agreement the court also finds that wife is entitled to her attorney fees.
+In accordance with the foregoing opinion, the court enters the following order:
+ORDER
+And now, February 27, 1996, it is hereby ordered that the law firm of Rhoda, Stoudt and Bradley shall release immediately to plaintiff, Marilyn M. Laudenslager, the sum of $10,000 in exchange for the mortgage, bondv and warrant. Defendant, Richard E. Laudenslager, shall pay to plaintiff and David S. Sobotka, Esquire, jointly, the sum of $350 within 30 days of the date of this order.
