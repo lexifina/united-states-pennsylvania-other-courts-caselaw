@@ -1,0 +1,40 @@
+---
+court: "Dauphin County Court of Common Pleas"
+docket: "2653 C.D. 1988"
+decided: "1989-02-28"
+citations: ["6 Pa. D. & C.4th 504"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Gray"]
+source_url: "https://static.case.law/pa-d-c4th/6/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1273899
+cites_cases: ["290 Pa. Super. 1", "306 Pa. Super. 222", "360 Pa. Super. 246", "371 Pa. Super. 593", "508 Pa. 297", "519 A.2d 422", "9 Pa. Super. 423"]
+---
+
+# Commonwealth v. Gray
+
+## Majority (DOWLING, J.,)
+
+DOWLING, J.,
+Junkets paid for by corporations doing business with the government have become somewhat routine for a number of elected officials, particularly those in the legislative branch. Our junketeers were two employees of the Pennsylvania Department of Welfare who accepted paid trips; James Gray to the Summer Olympics in Los Angeles, compliments of Bell of Pennsylvania, and Stephen Stoner to Lake Tahoe, Nevada, compliments of Sperry Corporation.
+What is not usual is that these relatively minor bureaucrats were prosecuted for their activities under the State Ethics Act, 65 P.S. 403(a) which provides:
+“No public official or public employee shall use his office dr any confidential information received through his holding public office to obtain financial gain other than compensation provided by law for himself, a member of his immediate family, hr a business with which he is associated.”
+Eventually, counsel for the defendants and the attorney general’s office agreed that the charges against these men could be disposed of via the Accelerated Rehabilitation Disposition (ARD) program. On November 10, 1988, they appeared before this court and upon motion of the attorney for the commonwealth were admitted into the ARD .program. The administrative fee and cost of prosecution being paid at that time, no supervisory term of probation was ordered. The court, however, reserved the question of restitution.
+As a result of the filing of the criminal complaints against defendants, they were suspended without pay from their civil service positions. Upon reinstatement following the disposition of the charges through ARD, though reinstated, they agreed to forego back pay, benefits and seniority for the period involved — September, 15 through November 18, 1988.
+The commonwealth filed petitions for restitution, avering that Mr. Gray benefitted from the trip to the Olympics in the sum of $1,141 and Mr. Stoner from his trip to Lake Tahpe in the amount of $770. The petition requested that the court order defendants to pay into the state treasury a sum of money equal to three times the financial gain resulting from the violations of the State Ethics Act, or in the case of Mr. Gray, $3,423 and in that of Mr. Stoner, $2,310. The requests were based upon section 403(a) of the State Ethics Act, 65 P.S. 409(c), which provides:
+“Any person who obtains financial gain from violating any provisions of this act, in addition to any other penalty provided by law, shall pay into the state treasury a sum of money equal to three times the financial gain resulting from such a violation.”
+Defendants have opposed the petition, alleging that the commonwealth’s motion for restitution is in effect a request for a fine and that under the conditions of the ARD program a court may not impose a fine. Briefs on the issue were submitted; the matter is before us for a decision.
+The nature of the ARD program is set forth by the Superior Court in Commonwealth v. Feagley, 371 Pa. Super. 593, 538 A.2d 895 (1988):
+“First, ARD is a pretrial diversionary program in which the district attorney agrees to suspend prosecution of a defendant contingent upon that subject’s successful participation in a program of rehabilitation. If ARD is not completed successfully, the defendant may be prosecuted upon revocation of his participation in the program. Commonwealth v. Lutz, 508 Pa. 297, 495 A.2d 928 (1985). The purpose of this diversionary program is to attempt to rehabilitate the defendant without resort to a trial and ensuing conviction. During this time, the criminal proceedings are held in abeyance pending successful completion of the program or revocation for violation of the conditions. Commonwealth v. Krall, 290 Pa. Super. 1, 434 A.2d 99 (1981). Moreover, since acceptance of ARD does not constitute a conviction except for the limited purpose set forth in section 3731(e)(2), supra; Commonwealth v. Becker, supra; Commonwealth v. Potts, supra, it provides no basis for impeachment of a witness. Commonwealth v. Scheinert, 3[5]9 Pa. Super. 423, 519 A.2d 422 (1987) (Kelly, concurring and joining). Acceptance of ARD is not the equivalent of a conviction, nor does successful completion of the program result in an acquittal.” Feagley at 598, 538 A.2d at 897.
+Judge Wieand, in an earlier decision, Commonwealth v. Scheinert, 359 Pa. Super. 423, 519 A.2d 422 (1986), called attention to the Supreme Court’s rationale for the ARD rules as set forth in Pa.R.Crim.P, 185:
+“The purpose of this program is to eliminate the need for lengthy motions, trials and other court proceedings, in cases which are relatively minor or which involve social or behavioral problems which can best be solved by programs and treatments rather than by punishment. In many cases, legal defenses may be available which would result in acquittal or delay in disposition of the charges. When immediate treatment is needed, however, defendant and counsel may be willing to have defendant undergo such treatment without an adjudication of guilt. Pa.R.Crim.P. 185 comment.” Scheinert at 426, 519 A.2d at 424.
+Pa.R.Crim.P. 182(a) unequivocally states that:
+“The conditions of the program may be such as may be imposed with respect to probation after conviction of a crime including restitution, except that a fine may not be imposed.” (emphasis in original)
+In Cassidy v. Montgomery County, 306 Pa. Super. 222, 452 A.2d 524 (1982), the court held that the question of whether a payment constitutes a fine is one of law.
+The Random House Dictionary of the English language, Second Edition Unabridged, defines a fine as, “A sum of money imposed as a penalty for an offense or dereliction,” whereas restitution is defined as “reparation made by giving an equivalent or compensation for loss, damage or injury caused.” Clearly, a fine is included within the definition of penalty; the terms are such that any further definitional analysis becomes elliptical. It should also be noted that the statute under which the commonwealth seeks recovery, section 409 of the Ethics Act, is headed “penalties.” Any lingering doubts are resolved in defendant’s favor by Commonwealth v. Cherpes, 360 Pa. Super. 246, 520 A.2d 439 (1987), where the court defines any payment pursuant to section 409(c) of the State Ethics Act as a fine.
+Payment of the penalty sum was never agreed to by the parties as a condition of ARD disposition. There Was lacking any evidence that the commonwealth suffered a loss as a result of these junkets, although it may reasonably be inferred that Mr. Gray remembered Bell Telephone in his prayers as did Mr. Stoner, Sperry Rand. Obviously, the whole system of junkets is bottomed on remembering the donor with advantage. As to defendants, the only fruits of their wrongdoing are memories, and when the whole scenario is viewed, they certainly are not pleasant ones. The only parties out of pocket in these matters are the firms.which paid the expenses and provided the gratuities. Whether any consideration was given to charging the corporations under subsection (b) of section 403 of the Ethics Act which prohibits the giving to a public employee anything of value is not known.
+' Accordingly, since it is clear that imposition of the sanctions under section 409(c) is a fine prohibited by the ARD program, we enter the following
+ORDER
+And now, February 28, 1989, the commonwealth’s petitions for restitution are denied.
