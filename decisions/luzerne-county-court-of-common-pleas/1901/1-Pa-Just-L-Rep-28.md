@@ -1,0 +1,24 @@
+---
+court: "Luzerne County Court of Common Pleas"
+docket: "18"
+decided: "1901-03"
+citations: ["1 Pa. Just. L. Rep. 28"]
+reporter: "pa-just-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wesley v. Sharpe, Appellant"]
+source_url: "https://static.case.law/pa-just-l-rep/1/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6762118
+cites_cases: ["94 Pa. 254"]
+---
+
+# Wesley v. Sharpe
+
+## Majority
+
+The Act of March 20, 1810, provided that the affidavit required on the issuance of a certiorari to a Justice shall be made before a Judge of the Common Pleas. The Act of February 3, 1817, permits the affidavit to be made before the prothonotary. Neither act in terms designates the person by whom recognizance shall be taken in order to give the certiorari the effect of a supersedeas. The Act of May 22, 1895, by its title is intended to provide for an additional manner of taking the recognizance and affidavit, “now by law to be taken in cases of certiorari from aldermen and Justices of the Peace.” It provides in section 1, that it shall be lawful, where parties desire to take a writ oí certiorari from the Court of Common Pleas to a Justice within the jurisdiction of said court, “to enter into the recognizance and make the affidavit, now required by law to be entered into and taken” before the Justice before, whom the case, in which the certiorari is taken, is pending. It further provides, that upon the filing of the recognizance and affidavit with the praecipe required by law, with the prothonotary of the Common Pleas, the writ of certiorari shall issue with the same force and effect as “though the recognizance had been entered into and affidavit made before such prothonotary.” Section 2 provides that nothing' contained in the act shall prevent any person so desiring from entering into said recognizance and making said affidavit before the prothonotary, or other officer now empowered by law to take the same. It will be observed that this act of 1895 provides for the taking of both the affidavit and the recognizance. In this respect it differs from the acts of 1810 and of 1817.
+The trend of the legislation referred to indicates that the court from which the certiorari issues, or its officers and the court to which it goes, are to alone possess the authority to take the affidavit and the recognizance required. Primarily, the court out of which and the court to which process issues alone control matters incidental to it, and the effect which shall be given to it. This right in the former court in respect to the affidavit on certiorari was recognized in the Act of 1810. The power to take the affidavit was extended, by the Act of 1817, to the officer of the court. The power to make the writ effective to him who sued it out, by making it a supersedeas, was an inci-dgnt to the power to issue the process. For the convenience of litigants the right to take the recognizance and affidavit was extended in terms, by the Act of 1895, to the Justice to whom the certiorari issued. Nowhere in the legislation is there evidence of intention to extend the right to take the recognizance and affidavit to any other judical officer.
+The court below took the view that the voluntary giving of a signed bond and its tacit acceptance by the parties to the litigation as a recognizance estopped the defendant from denying the validity of his obligation. It is doubtless true, as was said in Allen v. Kellam, 94 Pa. 254, that a recognizance defective in form may derive validity from the consent, express or implied, of the parties to be affected by it. But this may not be said of a defect in substance. A recognizance is a debt of record entered into before some court, Judge or Magistrate, having authority to take the same. Its entry of record and acceptance is a judicial or a quasi-judicial act, from which the force, the vitality of the obligation is derived. As the affidavit and alleged recognizance in this case was taken neither by the Judge of the court of the Common Pleas, or the prothonotary, nor the Justice to whom the certiorari issued it was not taken by one having authority, and is not enforceable as a recognizance.
+The result of these views is that error was committed in entering the judgment in .this case in the court below. The scire facias recites a recognizance apparently taken by some officer of the court of Common Pleas, not named. The affidavit denies the giving of such recognizance and sets up the facts upon which this discussion is predicated. Our scrutiny is limited to the writ and affidavit. From these it does not appear that any act was done by the prothonotary of the court to give the .alleged recognizance validity within the provisions of the existing legislation.
+The judgment is reversed and a procedendo is awarded.
