@@ -1,0 +1,23 @@
+---
+court: "Lebanon County Court of Common Pleas"
+decided: "1855-01-02"
+citations: ["1 Pears. 462"]
+reporter: "pears"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ramler v. Brotherline."]
+source_url: "https://static.case.law/pears/1/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814559
+cites_cases: ["4 Wh. 358"]
+---
+
+# Ramler v. Brotherline
+
+## Majority (By the Court.)
+
+By the Court.
+The defendant has filed exceptions to the award rendered by the arbitrators in this case, averring that it is insufficient to support an execution for money, and that the fi. fa. is not authorized by law. The award being for $176.26 “in furniture” (see declaration filed) will certainly not justify the writ in its present form; and no execution can issue for furniture. The only question is, can the court mould the finding into form, by directing a judgment to be entered for money, treating so much as relates to the furniture as surplusage, and after so modifying the award, directing an execution to issue. After the most careful examination of the subject, I am of the opinion that such a course would be taking an unwarrantable liberty with the report of the arbitrators. The award becomes a judgment at the expiration of twenty days without any action of the court, and must be in such form as to constitute a valid judgment, which will sustain an execution. Were we to decide that the words “in furniture” are mere surplusage, it might defeat the intention of the arbitrators entirely, Avho perhaps would have found for the other party, had they known that their decision, as given, could not be carried into effect. The narr avers a contract “to take cabinet-ware, furniture, chairs, etc.,” for certain boarding, and that the articles were to be delivered wh en demanded. A special demand is laid, which, if proved, would have called on the arbitrators to have rendered an award for money; and, if not proved, they should have found in favor of the defendant ; so that in any event the finding is wrong. I am unable to imagine any state of facts which could justify this award. To render the award valid, it must be certain and final. The present is not the end, but the commencement of difficulties. Who can say what furniture is to be taken and given, or at what price ? We cannot determine wh ether it is to consist of carpets for the floors, curtains for the windows, beds, bedding, cooking utensils, or cabinetiware; and there is no one designated to fix'the price. In Henness v. Meyer (4 Wh. 358), an award not more uncertain was reversed; and in that case the court refuses to treat the words, “ or the defendant to carry out and strictly fulfil his part of the contract ” as surplusage. The chief justice says: “ The alternative could not be rejected, because it must be taken for a substantial part of the finding. For who can say that a verdict would have been rendered against the defendant without it?” A similar principle is determined in the case of a verdict in Bagley v. Wallace (16 S. & R. 245). In Allen v. Flock (2 Penna. 149), the court declares that the plaintiff; having taken the verdict rendering costs in favor of the defendant, cannot treat that portion as surplusage without reversing it, but must carry it into full effect, and accept the finding in his favor without costs. In Shoemaker v. Meyer (4 S. & R. 452), an award of money by instalments was decided to be bad. The court declares “that it would be taking an unwarrantable liberty with the award to treat that portion as surplusage; the manner of payment may have been substantial, and rejecting it might subvert the whole intention of the arbitrators.” We find the same general principles declared in Sicard v. Peterson (3 S. & R. 468, and 14 S. & R. 238). It is true that the later practice has been to treat any finding by a jury or arbitrators, which is in addition to the regular verdict or award, as surplusage, whenever it can be done consistently. Here we think it cannot be so treated, as the finding is not of so much money, payable in furniture, but of a numerical sum in furniture; there is no finding of money, but the amount is only named, apparently for the purpose of declaring the value of furniture to be delivered. We are of the opinion that the execution improperly issued for money on this award, and must be set aside at the plaintiff’s cost. The award is itself void for uncertainty, and is not final, and must also be set aside.
+TJlrieh, for plaintiff.
+Kline and Boughter, for defendant.
+The costs attending the arbitration, including the rules, service, etc., must abide the event of the suit.
