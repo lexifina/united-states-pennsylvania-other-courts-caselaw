@@ -1,0 +1,42 @@
+---
+court: "Washington County Court of Common Pleas"
+docket: "no. 91-1655"
+decided: "1993-02-11"
+citations: ["19 Pa. D. & C.4th 97"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Molinaro v. Republic Insurance Co."]
+source_url: "https://static.case.law/pa-d-c4th/19/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5309918
+cites_cases: ["123 Mich. App. 39", "130 S.E.2d 311", "259 N.C. 181", "333 N.W.2d 168", "401 Pa. Super. 344"]
+---
+
+# Molinaro v. Republic Insurance
+
+## Majority (GILMORE,)
+
+GILMORE,
+This matter is before the court on a declaratory judgment action to determine whether a policy of insurance between the plaintiffs and defendant, Republic Insurance Company, was in effect on November 25, 1990. After trial the court makes the following
+FINDINGS OF FACT
+(1) The plaintiffs and the defendant Republic Insurance Co., hereinafter referred to as “Republic,” entered into a policy of fire insurance on the plaintiffs’ dwelling effective November 13,1989 through November 13, 1990.
+(2) The plaintiffs entered into a second policy of insurance with Republic for contents of the dwelling which was also effective for the same period. The plaintiffs failed to timely pay the installments due on the policies of insurance during the summer of 1990. After notice of cancellation by Republic, the plaintiffs paid the fire policy but did not pay the contents policy, therefore allowing it to lapse.
+(3) In September 1990 Republic sent the plaintiffs a renewal declaration page for the fire policy and a bill for the same for the ensuing year effective November 13, 1990 through November 13, 1991.
+(4) During October and November 1990 the plaintiffs contacted Republic’s agent to obtain liability coverage to replace the portion of the policy that had lapsed during the summer. The agency executed a change endorsement to the dwelling fire policy for the ensuing renewal period and billed the plaintiffs for the increased premium. On November 1, 1990, the plaintiffs again made contact with Republic’s agent and requested deletion of the endorsement to the fire policy and instead wanted the issuance of a new policy the same as had been canceled in the summer for non-payment of premiums. The agent bound the policy and billed the plaintiffs for the premium.
+(5) On November 12, 1990, the plaintiffs obtained a binder for homeowner’s insurance coverage on the premises from the defendant Allstate Insurance Co., hereinafter “Allstate,” which would replace both the fire policy and the contents policy with Republic. Republic had refused to issue a homeowner’s policy because the building did not meet their criteria. A homeowner’s policy is less expensive.
+(6) The plaintiffs did not pay Republic for the renewal of the fire insurance policy or for the new contents policy as billed.
+(7) The plaintiffs believed they had a 30-day grace period from the expiration of their insurance policy with Republic during which the insurance would remain in effect. The plaintiffs further did not subjectively intend to cancel their policy of insurance with Republic until an actual policy was issued by Allstate. In this conjunction the Allstate agent advised the plaintiffs not to cancel their policy until the Allstate policy was in place.
+(8) The plaintiffs’ premises were destroyed by fire on November 25, 1990. Republic canceled the plaintiffs’ insurance November 30, 1990, back-dating the cancellation to November 13, 1990. Allstate also refused to issue a policy of insurance but honored the plaintiffs’ claims based upon the binder written.
+(9) The damages, which are not in dispute, are $316,988.89. Total claims have been paid by Allstate for both the dwelling and other items in a total amount of $254,610.97. The deficiency amount is $62,137.02. Both insurance policies contain an “other insurance provision” providing for sharing a proportionate amount of the loss. The Allstate coverage was limited to $150,000 on the building, whereas the Republic policy was $175,000.
+DISCUSSION
+The plaintiff’s and defendant Allstate’s position is that Republic’s policy of insurance was still in force because they failed to properly cancel the coverage under both the Pennsylvania Unfair Insurance Practices Act, 40 P.S. §1171.5(a)(9), and under the terms of paragraph 12 of the policy. They further argue that the mere fact that Molinaro failed to pay any premiums is irrelevant and that his clearly manifested subjective intent was not to cancel the Republic policy and that he believed it would be in effect during the grace period of 30 days.
+The defendant Republic agrees they did not comply with the act or the policy, but that their actions are irrelevant to the issue in the case. Their position is that when the plaintiffs entered into a new policy of insurance with Allstate Insurance Company on November 12, 1990, and at the same time failed to renew or pay the premium to renew Republic’s policy, they canceled the Republic policy.
+Republic relies heavily upon Blasy v. Chester County Mutual Insurance Co., 401 Pa. Super. 344, 585 A.2d 493 (1990). In Blasy the insureds received a declaration of renewal for their policy and renewal premium bill to be paid on or before August 1, 1990. The insureds thereafter purchased insurance from another company effective August 6, 1987. The insurance company notified the insureds that their policy would terminate on October 6, 1987 due to non-payment of premiums. Sometime thereafter the insureds made a claim for water damage to the premises which occurred on August 3, 1987.
+The Superior Court stated as follows:
+“[Title 40 P.S. §1171.5(a)(9),] unfair methods of competition or deceptive acts or practices defined, requires that insurers notify an insured prior to termination for non-payment. The purpose behind this legislation is to essentially protect an innocent insured who forgets to pay his premium by continuing the protection of coverage and allowing the insured to pay. The statute does not, however, force an insurer to extend coverage past the policy period to those who knowingly and intentionally choose not to pay their premiums.
+“Therefore, we reject appellants’ contention they were covered under the renewal policy during the period of August 1, through October 6, 1987. As we have thoroughly discussed in the preceding analysis, the Blasys demonstrated by their overt acts their clear intent to cancel the Chester insurance as of August 1, 1987 and replace their homeowners coverage with Fireman’s Fund upon expiration.”
+Applying this reasoning to the instant case, the issue is whether, despite the fact that the plaintiffs believed the Republic policy remained in effect during the grace period, the action of procuring a replacement policy of insurance and knowingly not paying the Republic renewal premium displays a clear intent to cancel from which they cannot retreat despite their own mistaken subjective beliefs. This case, in that respect, is somewhat different from Blasy in that here the court is convinced that the plaintiff believed the policy of insurance remained in effect and indeed did not intend to cancel until the new policy of insurance was issued. Although there is no appellate authority with this particular fact situation, Allstate advances several cases from other jurisdictions which hold that procuring substitute insurance does not in and of itself unilaterally cancel another policy. See Owner’s Insurance Co. v. Southern Michigan Mutual Insurance Co., 123 Mich. App. 39, 44, 333 N.W.2d 168 (1983), and Baysdon v. Nationwide Mutual Fire Insurance Co., 259 N.C. 181, 130 S.E.2d 311 (1963). Those cases do not have the factual situation present here. Also, it is clear in this case that the plaintiffs intended to replace the Republic policy when the Allstate policy was issued.
+It is therefore the court’s conclusion that purchasing a replacement policy of insurance at the expiration of a prior policy manifests an intent to cancel regardless of the subjective intent or belief of the insured.
+ORDER
+And now, this February 11, 1993, the court finds in favor of the defendant Republic Insurance Co. and against the plaintiffs, Carmine Molinaro and Donna L. Molinaro, his wife. The court further finds in favor of Republic Insurance Co. and against Allstate Insurance Co. on their claim for contribution.
