@@ -1,0 +1,48 @@
+---
+court: "Blair County Court of Common Pleas"
+docket: "no. 89 C.P. 864"
+decided: "1990-09-13"
+citations: ["7 Pa. D. & C.4th 629"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dick v. Detwiler"]
+source_url: "https://static.case.law/pa-d-c4th/7/cases/0629-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8822936
+cites_cases: ["302 Pa. Super. 235", "334 Pa. Super. 544", "362 Pa. Super. 543", "382 Pa. Super. 108", "550 A.2d 793", "937 Pa. Super. 561"]
+---
+
+# Dick v. Detwiler
+
+## Majority (KOPRIVA, J.,)
+
+KOPRIVA, J.,
+Now before this court for disposition is a motion for summary judgment filed by defendant Marilyn Jane Detwiler.
+The within action arises from an incident in which a dog, owned by defendant Shaw, allegedly chased the minor plaintiff causing him to fall and allegedly sustain injury therefrom. Plaintiffs and defendant Shaw were neighbors. Their properties were adjacent to each other and were not separated by any sort of barrier. At the time of the incident, defendant’s dog was not restrained by means of a leash or any such device.
+Plaintiffs filed their complaint on October 11, 1989. Count I of the complaint sets forth a negligence action against Christine Shaw, as owner of the dog, for violation of the “Dog Law,” 3 P.S. 459-305, and for failing to take appropriate steps to confine the dog. Count II of the complaint sets forth a negligence action against Marilyn Jane Detwiler as owner of the property where defendant Shaw was living with the dog. Negligence on the part of Mrs. Detwiler is based on the premise that she permitted her tenant to keep a dangerous dog on the property without restraining it.
+Defendant Detwiler filed the motion for summary judgment on March 7, 1990. Said motion asserts that plaintiffs have failed to plead material facts to set forth a cause of action against Mrs. Detwiler. Defendant Detwiler argues she cannot be liable for the violation of the “Dog Law” since she is not the owner of the dog. Further, defendant claims she had no duty to protect plaintiffs from her tenant’s dog in that she had no prior knowledge of the dog’s propensity for violence.
+Pennsylvania Rule of Civil Procedure 1035 (b) sets forth the standard for the granting of a summary judgment motion.
+“The judgment sought shall be rendered if the pleadings, depositions, answers to interrogatories, and admissions on file, together with affidavits, if any, show that there is no genuine issue to any material fact and that the moving party is entitled to a judgment as a matter of law.” Pa.R.C.P. 1035(b).
+In ruling on the motion we must accept as true all properly pleaded facts, as well as all reasonable inferences which might be drawn therefrom. Overly v. Kass, 382 Pa. Super. 108, 554 A.2d 970 (1989). The moving party has the burden of proving that no genuine issue exists as to the material facts. Overly v. Kass, supra. We must examine the record in the light most favorable to plaintiffs as the party opposing the motion. Ferguson v. King, 362 Pa. Super. 543, 524 A.2d 1372 (1987). In addition to the pleadings, we have also considered and had the benefit of depositions taken of the plaintiffs, as well as an affidavit from defendant Detwiler and Michael Giarth, to consider in ruling on this motion.
+The question to be decided is whether a landlord may be held liable for injuries to third persons caused by a tenant’s pet. Generally, it is the animal’s owner that is responsible for injuries to others caused by his or her pet. Miller v. Hurst, 302 Pa. Super. 235, 448 A.2d 614 (1982); Villaume v. Kaufman, 937 Pa. Super. 561, 550 A.2d 793 (1988). However, the Pennsylvania Superior Court has held that a landlord may be held liable for injuries caused by animals owned by a tenant when the landlord has knowledge of the presence of the dangerous animal and where he/she has the right to control or remove the animal by retaking possession of the premises. Palermo v. Nails, 334 Pa. Super. 544, 483 A.2d 871 (1984). Therefore, Mrs. Detwiler may be held liable for the minor plaintiff’s injury if Mrs. Detwiler had control of the property and she was aware that her tenant’s dog had vicious propensities. We will now review the factual bases presented in support of these legal theories.
+First, we address the issue of control. It is unquestioned that defendant Detwiler was the owner of the property on which her daughter, Christine Shaw, was living. Mrs. Detwiler testified, by way of affidavit, that she had an oral month-to-month lease agreement with Ms. Shaw, and that Ms. Shaw paid the sum of $130 per month rent. Plaintiffs argue that the rental sum of $130 is considerably less than a fair rental value for a home such as the one in question would be. This rental agreement could be viewed as a mother discounting the rent to her daughter and providing a dwelling at minimal cost.
+The fact that there was no written lease agreement supports the inference that Mrs. Detwiler was doing her daughter a favor by allowing Christine to live on the property, and therefore had control of her presence on said property.
+From the above-stated facts, it is possible for a fact finder to infer that defendant Detwiler had sufficient control of the property such that she could have removed the dog from the premises by retaking possession of the properly. We will now move on to the question of whether Mrs. Detwiler had knowledge of the dog’s alleged dangerous propensities such that she should have taken steps to remove the animal.
+We note that defendant Detwiler denies having any knowledge prior to the incident of May 31,1987, of the dog being dangerous in any respect. Plaintiffs admit that they never spoke with Mrs. Detwiler, prior to the incident, regarding the dog. Although we have no direct evidence establishing Mrs. Detwiler’s prior knowledge of the dog’s propensity for viciousness, we do find facts which would support an inference that defendant had knowledge of the dog’s tendency to chase people.
+Plaintiffs stated that Mrs. Detwiler frequently visited her daughter. Therefore, defendant was often in close proximity to the dog, and was able to observe the dog’s demeanor. Mrs. Detwiler was obviously aware the dog ran free at times, since plaintiffs stated they saw defendant at the property while the dog was loose. Husband-plaintiff testified to an incident when he chased the dog off his property while defendant Detwiler was visiting with her daughter and witnessed the incident. (Deposition of Denver Dick at 19.)
+There was also an incident alleged where the dog chased the paper boy, Michael Giarth. It is alleged Michael was afraid of the dog and would not take the paper to the front door of the defendant’s property. Mr. Dick stated that because of the problem with the paper delivery, defendants had to erect an Altoona Mirror box so that Michael would not have to come into contact with the dog. (Deposition of Denver Dick at 21.) Michael Giarth testified by way of affidavit that the dog had chased him and that he had witnessed the dog chasing others. Husband/plaintiff stated that Dorothy Dick was another person who had been chased by the dog. (Deposition of Denver Dick at 20.)
+In light of the above, we find sufficient evidence from which a fact finder could infer defendant Detwiler had knowledge of the dog’s dangerous propensities prior to the incident of May 31, 1987. This inference is further supported by the close personal relationship between defendants and the numerous instances testified to of the dog chasing people.
+Therefore, we find that a factual dispute exists as to whether defendant Detwiler did indeed have knowledge of the dangerous propensities of her daughter’s dog. Although we have found evidence exists to support an inference of prior knowledge on the part of Mrs. Detwiler, the actual factual determination of prior knowledge is for a jury or court to determine. Likewise, a determinations of whether or not Mrs. Detwiler was able to exercise control over the property is also a factual matter for a fact finder to decide.
+We therefore hold that plaintiffs may maintain a cause of action against Marilyn Jane Detwiler for injuries caused by her tenant’s dog. We find that plaintiff’s cause of action against defendant Detwiler has been sufficiently set forth in the complaint and that a factual dispute exists such that will prevent the grant of defendant Detwiler’s motion for summary judgment.
+We will therefore enter the following
+ORDER
+And now, September 13, 1990, after review of the pleadings, depositions and affidavits of record, we find that a factual dispute exists in this matter.
+It is therefore, ordered, directed and decreed that defendant Detwiler’s motion for summary judgment is hereby denied.
+. Further, Christine Shaw was renting the property at Box 318, Mount Pleasant Street, East Freedom, from defendant Marilyn Jane Detwiler, her mother.
+. 3 P.S. 459-305, Confinement of Dogs, states:
+“It shall be unlawful for the owner or keeper of any dog to fail to keep at all times such dog either:
+“(1) confined within the premises of the owner;
+“(2) firmly secured by means of a collar and chain or other devise [sic] so that it cannot stray beyond the premises on which it is secured; or
+“(3) under reasonable control of some person, or when engaged in lawful hunting, exhibition or field training.” December 7, 1982, P.L. 784, no. 225, Art. Ill, §305, effective January 1, 1983.
+. Michael Giarth is a paper boy for Christine Shaw. In his affidavit, Michael claims that the Shaw dog has chased him and that he has witnessed the dog chasing others.
