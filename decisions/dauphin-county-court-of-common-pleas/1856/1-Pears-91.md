@@ -1,0 +1,22 @@
+---
+court: "Dauphin County Court of Common Pleas"
+decided: "1856-07-07"
+citations: ["1 Pears. 91"]
+reporter: "pears"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Urich v. Forney et al."]
+source_url: "https://static.case.law/pears/1/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814597
+---
+
+# Urich v. Forney
+
+## Majority (By the Court.)
+
+By the Court.
+In this case a separate defence was taken by the first four defendants for 177 acres, 98 perches of land, part of that described in plaintiff’s writ, and by Beaver, the last defendant, for 16 acres, another portion thereof. The defendants having thus severed in their defence and pleaded separately, the cause came on to be tried; a verdict was found in favor of the first four defendants for the parts claimed by them, and against Beaver for the portion for which he took defence. The first four defendants not only defeated the plaintiff’s recovery, but by the decision of this court, had an order made in their favor, that they recover from the plaintiff the costs due to their witnesses. Beaver now asks that the plaintiff be not permitted to recover costs from him, as the whole contract was between the other parties. We are well aware that the costs incurred in this controversy arose entirely out of the dispute between the plaintiff and Emanuel Cassel, and that no witness was required, nor was one examined in relation to the claim of Beaver. The latter could not safely confess judgment in favor of the plaintiff, as he had purchased the land with warranty, and vouched his vendor to defend the possession; consequently, there must be a trial proforma merely as to his 16 acres, although it was well known and understood on both sides that there was no valid defence. The recovery of a judgment by the plaintiff carries costs of course, and although we may believe it operates with hardship in the particular case, yet as the law gives costs, it is beyond the control of the court. The plaintiff’s bill for her witnesses depends upon a different principle. We cannot permit a bill to be taxed against the defendant Beaver, for witnesses not examined or required in his case. The issues here were separate, and as the cause was tried before this court, we are well aware that not a single witness was examined in relation to any matter connected with that part of the tract in possession of Beaver • consequently were not required in the contest with him.
+The title of the plaintiff, irrespective of a release executed to Emanuel Cassel, and which she averred was fraudulent, had been previously investigated and found to be valid; there was no supposition that Beaver could contest it; but all of the witnesses were examined in relation to the release, and that being found against the plaintiff, she consequently lost the suit, and in equity and good conscience should pay the costs of the controversy. We have no doubt of the power of the court over a party’s bill for the attendance of witnesses, and in very many cases it has to be disallowed in whole or in part. This case in our opinion calls for the interposition of the court, in order to prevent one defendant being obliged to pay the costs to the plaintiff for witnesses produced in court to testify in regard to a contract with other defendants who have no other relation to Beaver than what arises from their names being inserted in the same original process, all the subsequent proceedings being separate. In some cases the Supreme Court has decided that a plaintiff might obtain a judgment, and yet could not throw the defendant into costs, who had been in no default, • or where the plaintiff’s right to recover at law was not perfect, when the action was commenced; thus giving to the court before whom the cause was tried, au equitable power to grant or withhold costs, according to the whole character of the case "We are of the opinion that the plaintiff should not be permitted to recover her bill for her witnesses, amounting to $41.24; and direct that it be stricken out and disallowed; and for the costs coming to the officers, and incident to the action, except for the bill aforesaid, the plaintiff is entitled to a judgment and is permitted to have execution for the same.
+Berryhill and H. Airicios, for plaintiff.
+AlricJos, McCormicJo, and Fisher, for defendant.
