@@ -1,0 +1,36 @@
+---
+court: "Wyoming County Court of Common Pleas"
+docket: "no. 90-211"
+decided: "1991-02-26"
+citations: ["9 Pa. D. & C.4th 444"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Freeman"]
+source_url: "https://static.case.law/pa-d-c4th/9/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821594
+cites_cases: ["286 Pa. Super. 146", "489 Pa. 209", "507 Pa. 236"]
+---
+
+# Commonwealth v. Freeman
+
+## Majority (VANSTON, P.J.,)
+
+VANSTON, P.J.,
+This opinion is written following the receipt by the court of the Commonwealth’s notice of appeal. The sole issue presented to the court is whether the applicable statute of limitations was tolled by virtue of the relationship which may have existed between defendant and the victim.
+It is important, first, to note the procedural history of this case: defendant was arrested in June 1990 and charged with five counts of involuntary deviate sexual intercourse and corruption of minors. The victim, Ellen August, now by marriage Ellen Nielson, was aged 13 or 14 years when these incidents occurred, in the autumn of 1981.
+Defendant filed an omnibus pretrial motion and a supplemental motion raising a number of issues. This court filed an opinion on February 1, 1991, disposing of all issues then pending and denying the said motions. That opinion is incorporated herein by reference.
+Subsequently, but prior to the date set for trial, defendant filed yet another pretrial motion, seeking dismissal of all charges on the assertion that the statute of limitations had expired. While all pretrial matters should be raised at the same time, this court elected to rule on this latest motion, deeming it to be required in the interest of justice and as contemplated by Pa.R.Crim.P. 306.
+The applicable statute of limitations is five years on the charges of involuntary deviate sexual intercourse (see 42 Pa.C.S. section 552(b)). This period expired in November 1986. The Commonwealth claims that the statute is tolled by virtue of 42 Pa.C.S. §5554, which states in relevant portion:
+“[T]he period of limitation does not run during any time when:
+“(3) a child is under 18 years of age, where the crime involves injuries to the person of the child caused by the wrongful act, or neglect, or unlawful violence, or negligence of the child’s parents or by a person responsible for the child’s welfare, or any individual residing in the same home as the child, or a paramour of the child’s parent.”
+Statutes of limitations “must be liberally construed in favor of the defendant and against the Commonwealth.” Commonwealth v. Goldhammer, 507 Pa. 236, 489 A.2d 1307 (1985).
+Ms. Nielson was under the age of 18 and was injured. She was not, however, the child of defendant, a resident of his home, nor was her parent a paramour of defendant. The sole issue, therefore, is whether defendant was “a person responsible for the child’s welfare.”
+By agreement of counsel, the court received the transcript of the preliminary hearing in lieu of further testimony (see the court’s opinion of February 1, 1991). As of this, writing, this court cannot find (nor have counsel apparently found) appellate authority defining the phrase “person responsible for the child’s welfare.” It seems clear that the legislature, in adopting section 5554, took cognizance of the fact that a child victim could not be reasonably expected to divulge or report the occurrence of a crime when the child continued to live with or be controlled by (in some fashion) the perpetrator of that crime.
+In the case at bar, the victim came to know defendant by enrolling as a student in a karate class, taught by the latter. (N.T. 6.) Parental consent to participate in such classes was given by the victim’s parents. (N.T. 7.) The classes involved 18 to 20 students. (N.T. 6.) One incident of indecent assault may have occurred when the victim and defendant were returning from a karate tournament in New Jersey. (N.T. 8, 9.) Karate classes were usually held two nights per week. (N.T. 71.) One incident may have occurred following a karate class. (N.T. 54.) Other than the foregoing there was no evidence presented from which the court could conclude (or even infer) that defendant was a person responsible for the victim’s welfare. There was no testimony as to any intimidation or threats by defendant. There was no evidence that he used his position as the victim’s karate instructor to facilitate the commission of his crimes.
+Did the legislature intend to include karate instructors within the class of “responsible” persons in section 5554(3)? All other classes of people described in section 5554(3) have some connection with the victim’s family life or home life. A teacher is certainly someone who is responsible for a child’s welfare, but yet may not be someone whose acts could toll this statute of limitations. “Responsible” may be defined as answerable or accountable for something within one’s power, control or management. Therefore, a teacher, generally, cannot be expected to be responsible for a child’s welfare at such times when the child is not in school.
+To sustain the Commonwealth’s view, we would have to conclude that the legislature intended to make everyone who has some regular contact with children “responsible” for their welfare. The legislature could have stated, had it chosen to do so, that whenever anyone commits a crime upon someone who is less than 18 years of age, the statute of limitation does not begin to run until the child’s 18th birthday. It obviously did not do so.
+This court is compelled to conclude that something more than a relationship of karate class instructor/student (or little league coach/player or scoutmaster/scout, for example) must be established before we can conclude that such a relationship brings the perpetrator within the class of people contemplated by the relevant phrase of 42 Pa.C.S. §5554(3). In other words, there must be some showing of a connection between the relationship in which the perpetrator stands vis-a-vis the victim, and a reason why the victim would not be reasonably expected to report or divulge the criminal conduct of the perpetrator at or about the time it occurred. Here, there was no such showing. Section 5554(3) does not apply.
+Assuming, however, that this court is incorrect in the above analysis, there is a second, fatal flaw in the Commonwealth’s case. Where the Commonwealth seeks to toll a statute of limitations by statutory exception in order to extend the period of time in which to bring criminal charges, the Commonwealth must specifically allege such exception in the criminal information or otherwise put defendant on notice in writing of such an effort. See Commonwealth v. Eackles, 286 Pa. Super. 146, 428 A.2d 614 (1981); Commonwealth v. Goldhammer, supra; Commonwealth v. Stockard, 489 Pa. 209, 413 A.2d 1088 (1980).
+Here, the criminal informations are utterly devoid of any reference to a statutory exception requiring tolling of the statute of limitations. Further, there is nothing in the record giving defendant the required written notice of such exceptions. Consequently, the court lacked any alternative to a dismissal of all criminal charges.
