@@ -1,0 +1,42 @@
+---
+court: "Erie County Court of Common Pleas"
+docket: "no. 4611-A-1984"
+decided: "1988-03-18"
+citations: ["2 Pa. D. & C.4th 441"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas v. Edinboro University"]
+source_url: "https://static.case.law/pa-d-c4th/2/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1244716
+cites_cases: ["258 A.2d 865", "286 Pa. Super. 574", "306 Pa. Super. 146", "328 Pa. Super. 135", "342 Pa. Super. 101", "436 Pa. 32"]
+---
+
+# Thomas v. Edinboro University
+
+## Majority (LEVIN, J.,)
+
+LEVIN, J.,
+This matter is before the court on defendant’s motion for summary judgment.
+Plaintiff brought the within action, to recover for certain injuries he allegedly sustained as a result of a slip and fall accident. Plaintiff, while in the course of his employment as a Greyhound bus driver, was at a scheduled bus stop on the Edinboro University campus. At the bus stop, he alighted from the bus in order to remove the passengers’ baggage from the baggage compartment located near the rear of the bus. Plaintiff claims as he moved toward the baggage compartment, he slipped and fell on the ice- and/or snow-covered sidewalk of Edinboro University.
+Defendant, in its motion for summary judgment, asserts that plaintiff has not set forth a valid cause of action as required by the relevant statutes.
+Edinboro University, as a state-owned university, is subject to the provisions of the Sovereign Immunity Act, 1 Pa.C.S. §2310, 42 Pa.C.S. §8521 et seq. Pursuant to the act, sovereign immunity is waived only by the limited number of exceptions found at 42 Pa.C.S. §8522. The following exceptions to sovereign immunity are pertinent:
+“(4) Commonwealth real estate, highways and sidewalks — A dangerous condition of commonwealth agency real estate and sidewalks, including commonwealth-owned real property, leaseholds in the possession of a commonwealth agency and commonwealth-owned real property leased by a commonwealth agency to private persons, and highways under the jurisdiction of a commonwealth agency, except conditions described in paragraph (5).
+“(5) Potholes and other dangerous conditions — A dangerous condition of highways under the jurisdiction of a commonwealth agency created by potholes or sinkholes or other similar conditions created by natural elements, except that the claimant to recover must establish that the dangerous condition created a reasonably foreseeable risk of the kind of injury which was incurred and thát the commonwealth agency had actual written notice of the dangerous condition of the highway a sufficient time prior to the event to have taken measures to protect against the dangerous condition. Property damages shall not be recoverable under this paragraph.” 42 Pa.C.S. §8522(b)(4) and (b)(5).
+Given the above, it is defendant’s position that plaintiff must assert, and prove, written notice of the snowy and/or icy conditions was provided to the commonwealth prior to the accident. According to defendant, such notice is required by 42 Pa.C.S. § 8522(b)(5) in order to maintain a claim. Defendant argues that plaintiff cannot show this notice and thus believes it is entitled to summary judgment as a matter of law.
+Plaintiff argues section (b)(4) is controlling because the accident did not involve one of the conditions found, in section (b)(5). Lack of those conditions would eliminate the written notice requirement.
+A motion for summary judgment will only be granted in the clearest cases. Katwasinski v. Rasner, 436 Pa. 32, 258 A.2d 865 (1969). When all of the evidence, taken in the light most favorable to the non-moving party, presents no genuine issue of fact, the moving party is entitled to a judgment as a matter of law. Pa.R.C.P. 1035; Thorsen v. Iron & Glass Bank, 328 Pa. Super. 135, 476 A.2d 928 (1984).
+The issue before the court is whether written notice, as prescribed by 42 Pa.C.S. §8522(b)(5) is necessary.
+The exceptions set forth at 42 Pa. C. S. § 8522(b)(4) and (b)(5) must be read together. The reason for this is that section (b)(4) refers to section (b)(5). “The sections of a statute must be read together and construed with reference to the entire statute.” Wilson v. Central Penn Industries Inc., 306 Pa. Super. 146, 150, 452 A.2d 257, 259 (1982), citing to In Interest of Jones, 286 Pa. Super. 574, 586, 429 A.2d 671, 677 (1981); and see 1 Pa.C.S. §1922. Reading those entire sections together reveals that written notice of dangerous conditions must be given to the commonwealth sometime prior to some event. This notice allows the commonwealth to take protective measures. Second, section (b)(5) pertains only to highways.
+At first blush, it appears from the particular language of (b)(5) that snowy and/or icy conditions are “other similar conditions created by natural elements”; thus, prior written notice of the ice or snow must be given to the commonwealth. A closer reading of the statute, however, illustrates that the above phrase must not be read out of context. Rather, it must be read in conjunction with the preceding words: potholes and sinkholes. All words of a statute must be given effect because the General Assembly is not presumed to have intended them as mere surplusage. Patton v. Republic Steel Corp., 342 Pa. Super. 101, 109-10, 492 A.2d 411, 415 (1985). By reading it together, the court concludes that “other similar occurrences” means some natural occurrence akin to, or the same as, a pothole or sinkhole. This language necessarily excludes snowy and/or icy conditions because they are not the same as or even similar to, a pothole or a sinkhole.
+Moreover, “[w]here the legislature includes specific language in one section of a statute and excludes it from another, it should not be implied where excluded.” Patton at 109, 492 A.2d at 415. In section (b)(5) the legislature uses the term “highway.” It excludes the specific words “real estate” or “sidewalks.” Inasmuch as there is an obvious deletion of those words from section (b)(5), this court will not insert or imply them in that section. Section (b)(5) must be read as applying to highways only. When construing section (b)(4) with section (b)(5) written notice is only mandated under section (b)(4) for those highways affected by a dangerous condition as described in section (b)(5). There is no dispute that plaintiff herein slipped and fell on an ice- and/or snow-covered sidewalk. In light of that fact, and based on the above statutory interpretation, section (b)(5) is not applicable to this case.
+In the alternative, if sections (b)(4) and (b)(5) can be read as including sidewalks and other real estate, written notice is still not required. The reason for this, as stated above, is that section (b)(5) is limited to sinkholes and potholes.
+Defendant relies on two cases in support of its position that written notice is required in cases involving snowy and/or icy conditions. In both Richards v. Commonwealth, Dept. of Transportation, no. 1984-C-1732 (Northampton 1984), and Schmoyer v. Allen, no. 1984-A-575 (Northampton 1987), the courts found snowy and icy conditions to be “other similar conditions” under section (b)(5) and as such written notice was required. The court in Schmoyer, relying on and citing to the reasoning in Richards, stated that such notice affords the commonwealth protection from unlimited accidents due to foul weather.
+With all due respect to both the Schmoyer and Richards courts, this court disagrees. Such a reading expands the clear language of the statute. If the commonwealth sought to include weather conditions in the statute, it would have expressly stated it — as it expressly states potholes and sinkholes. This court will not read into the statute that which is excluded from it.
+Based on all of the foregoing, this court concludes that prior written notice is not required in this situation and as such, defendant’s motion for summary judgment cannot be granted as a matter of law.
+ORDER
+And now, March 18, 1988, it is hereby ordered, adjudged and decreed that defendant’s motion for summary judgment is hereby denied.
+Webster’s Third New International Dictionary, Copyright 1986, by Mirriam-Webster Inc. defines pothole and sinkhole as follows in part:
+Pothole — “A pot-shaped hole in the surface of the pavement.”
+Sinkhole — “A hollow place or depression where drainage or waste collects or is deposited.”
