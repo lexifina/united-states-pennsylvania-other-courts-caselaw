@@ -1,0 +1,44 @@
+---
+court: "Bradford County Court of Common Pleas"
+docket: "no. 98CV000613"
+decided: "1999-06-09"
+citations: ["43 Pa. D. & C.4th 58"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hayford v. Athens Area School Dist."]
+source_url: "https://static.case.law/pa-d-c4th/43/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8744369
+cites_cases: ["437 Pa. Super. 559", "548 Pa. 13", "553 Pa. 22", "650 A.2d 895", "693 A.2d 195", "717 A.2d 514", "722 A.2d 239"]
+---
+
+# Hayford v. Athens Area School Dist.
+
+## Majority (MOTT, J.,)
+
+MOTT, J.,
+The three matters captioned above arise out of the same occurrence. In the essentially identical amended complaints filed by the plaintiffs in these cases, it is alleged that on June 26, 1998, the minor plaintiffs, Shannone Lee Furman, Kohlette D. Davy, and Megan E.A. Lane, were swimming in a pool owned and operated by the defendant, the Athens Area School District. According to the amended complaints, the minors are alleged to have sustained injuries that are permanent in nature due to the negligent chemical treatment and upkeep of the pool by the school district or its agents and employees. As a result, a lawsuit has been brought on the behalf of each of the minors as well as on behalf of the parents and/or legal guardians of each minor.
+The school district has filed preliminary objections in each case in the nature of a demurrer and a motion to strike certain averments that are identical in each amended complaint. The contested averments read as follows:
+(16) [The school district] knew or should have known that the pool attendant was not professionally qualified to be adding chemical[s] or operating said filtration system.
+(18) [The school district] knew or should have known of the proper procedure in the event of a chemical disaster which they failed to follow.
+(20)(a) [The school district was negligent in failing] to exercise due care in handling of chemicals, applications of chemicals, and the certification of its employees to handle, control and apply said chemicalsf.]
+(21) [The school district] owed a duty to the plaintiff to properly supervise its employees, servants and/or agents in properly operating the filtration system of the swimming pool and in adding chemicals to the system.
+(22) [The school district] did not properly supervise the control and operation of the filtration system by its agents, servants and/or employees, nor did [the school district] properly supervise the adding of the chemical into the swimming pool by its agents, servants and/or employees.” Amended complaint filed in 98CV000613.
+The school district bases its demurrers on the ground that it is afforded governmental immunity from this suit. In determining to grant a demurer, we must: “resolve the issues solely on the basis of the pleadings; no testimony or other evidence outside of the complaint may be considered to dispose of the legal issues presented by a demurrer. ... In order to sustain a demurrer, it is essential that the face of the complaint indicate that its claims may not be sustained and that the law will not permit a recovery. ... If there is any doubt, it should be resolved by the overruling of the demurrer.” Mellon Bank N. A. v. Fabinyi, 437 Pa. Super. 559, 567-68, 650 A.2d 895, 899 (1994). (citations omitted)
+The school district claims that it is immune from liability for the claims asserted in these amended complaints pursuant to the Act of October 5,1980, P.L. 693, no. 142, 42 Pa.C.S. §851 et seq. dealing with sovereign immunity. Section 8541 of that Act reads that “no local agency shall be liable for any damages on account of any injury to a person or property caused by any act of the local agency or an employee thereof or any other person,” 42 Pa.C.S. §8541. However, an action may be maintained against a governmental unit if two threshold conditions are met and if the injury occurs as the result of one of the eight specific actions enumerated in the Act. 42 Pa.C.S. §8542. The two threshold conditions are: (1) the damages would be recoverable under the common law or a statute, absent the defense of sovereign immunity; and (2) the injury is caused by the negligent act(s) of the governmental unit or an employee thereof acting within the scope of his office or duties. 42 Pa.C.S. §8542(a)(l) and (2). See also, Kilgore v. City of Philadelphia, 553 Pa. 22, 26, 717 A.2d 514, 516 (1998). The school district has not advanced any argument that the two threshold conditions are not met by the facts averred in the plaintiffs’ amended complaints. We find that even a cursory review of those complaints reveals that, taking the plaintiffs’ allegations as true, the threshold conditions are met.
+The school district essentially argues that its demurrer should be sustained because none of the alleged negligent acts averred in the amended complaints fall within any of the eight specific exceptions to sovereign immunity enumerated in §8542(b) of the Act. The only exception which, if applicable, may subject the school district to liability is enumerated in 42 Pa.C.S. §8542(b)(3). It is there stated that a governmental unit may be liable for its employees ’, or its own, negligence related to the “care, custody or control of real property” in its possession. 42 Pa.C.S. §8542(b)(3).
+Here, it is clear that a swimming pool is a part of the school district’s real property. Moreover, it is clear that the basis of the negligence alleged by the plaintiffs relates to the “care, custody, [and] control” exercised by the school district’s employee over that real property.
+Accordingly, we find that the acts of negligence alleged by the plaintiffs fall within the real property exceptions enumerated in 42 Pa.C.S. §8542(b)(3). As such the school district’s demurrer and motion to strike will be overruled.
+The school district has also filed a preliminary objection wherein it is asserted that a broad averment of negligence identical to each of the amended complaints lacks the necessary specificity. The contested averment reads as follows:
+“(20)(f) [The school district is liable for such] other negligent acts and/or omissions as will become evident in the course of discovery and trial.” Amended complaint filed to 98CV000613.
+We agree with the school district that such an allegation is only a boilerplate allegation of negligence and provides no notice to the school district as to what it must defend against. Accordingly, we will sustain the preliminary objection and order the paragraph stricken.
+Accordingly, we enter the following:
+ORDER
+And now, June 9, 1999, the preliminary objections of the defendant, Athens Area School District, are sustained in part and overruled in part. The objections to paragraph 20(f) of the amended complaint filed to 98CV000613; paragraph 21(f) of the amended complaint filed to 98CV000614; and paragraph 15(f) of the amended complaint filed to 98CV000615 are sustained. As a result, those paragraphs are stricken from the amended complaints. In all other respects, the preliminary objections are overruled. As a result, the defendant, Athens Area School District, shall have 20 days from the date of this order to file an answer to each amended complaint.
+. We note here that the five paragraphs are identically averred in the amended complaints for the other two cases and are numbered: 17, 19, 21(a), 22 and 23, in the amended complaint filed to 98CV000614; and 11, 13, 15(a), 16 and 17 in the amended complaint filed to 98CV000615.
+. A demurrer is raised pursuant to Pa.R.C.P. 1028(a)(4).
+. In Kilgore, the author of the majority opinion cited the statutory source of the so called two threshold conditions as 42 Pa.C.S. §8542(b)(l) and (2). In fact, §8542(b)(l) and (2) detail two of the eight acts that may impose governmental liability. Because the Kilgore opinion described the two threshold conditions enumerated in §8542(a)(l) and (2), we will assume that it was intended to cite to that paragraph of the statute.
+. The scope of the real estate exception of §8542(b)(3) is considered by some to have undergone an expansion in its scope since our Supreme Court’s decision in Grieff v. Reisinger, 548 Pa. 13, 693 A.2d 195 (1997). For an overview of the exception’s applicability post-Griejf, see Kilgore v. City of Philadelphia, supra, and Snyder v. North Allegheny School District, 722 A.2d 239 (Pa. Commw. 1998).
+. Such an objection is raised pursuant to Pa.R.C.P. 1028(a)(3).
+. The paragraph and objection thereto have identical counterparts in the other two actions. The complained of paragraph is numbered as 21(f) in the amended complaint filed to 98CV000614 and as 15(f) in the amended complaint filed to 98CV000615.
