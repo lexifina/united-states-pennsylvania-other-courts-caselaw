@@ -1,0 +1,33 @@
+---
+court: "Cumberland County Court of Common Pleas"
+docket: "no. 905 of 1977"
+decided: "1977-06-20"
+citations: ["3 Pa. D. & C.3d 7"]
+reporter: "pa-d-c3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wissler v. Amsley"]
+source_url: "https://static.case.law/pa-d-c3d/3/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8711054
+cites_cases: ["198 A.2d 532", "241 Pa. Superior Ct. 129", "289 A.2d 463", "372 Pa. 212", "413 Pa. 555", "447 Pa. 131", "462 Pa. 83", "93 A.2d 451"]
+---
+
+# Wissler v. Amsley
+
+## Majority (SHUGHART, P. J.,)
+
+SHUGHART, P. J.,
+Plaintiffs, Joseph and Jean Wissler, filed a complaint on March 8, 1977, in assumpsit and trespass, against defendants John J. Amsley, Sr., t/d/b/a Happy Hollow Trailer Sales; Walter Frye, t/d/b/a Rolo Court; and Champion Home Builders, for the loss of their mobile home. Defendant John J. Amsley filed an answer on April 6, 1977, denying any liability in connection with the sale, delivery, or installation of the mobile home. Defendant Champion Home Builders filed preliminary objections on April 13, 1977, asking for a more specific complaint and a demurrer which are now before us for disposition. The facts are as follows:
+Plaintiffs entered into an agreement with the defendant John J. Amsley to purchase a 14 by 70 foot Atlantic mobile home for $11,561. The agreement included delivery and set-up of the mobile home at Rolo Court trailer park owned by defendant Walter Frye. Sometime after delivery of the mobile home on October 7, 1977, defendants Amsley and/or Frye personally or through their agents proceeded to make the necessary electric and gas connections to make the unit habitable. In the late evening of October 7, 1977, or early morning of October 8, 1977, a fire occurred which did substantial damage to the interior and exterior of the mobile home. Although the trailer had been paid for in full by plaintiffs, they did not have the keys and therefor could not occupy the mobile home at the time of the fire. The complaint alleges that: (1) delivery to the plaintiffs was not complete so that plaintiffs deserve the return of the full purchase price of the mobile home; (2) defendants Amsley and Frye were negligent in the manner in which they installed the mobile home; and (3) defendant Champion Home Builders Company, as manufacturer of the mobile home, is liable for breach of warranty and strict liability in tort for defects existing at the time of purchase and continuing until the time of the fire.
+MOTION FOR A MORE SPECIFIC COMPLAINT
+Defendant (hereafter Champion) bases its motion for a more specific complaint on the failure of plaintiffs to s.tate the.cause of the fire or the nature of the defect in the complaint. Paragraphs 25 and 26A of plaintiffs’ complaint are the focus of the defendant’s objections. Paragraph 25 reads:
+“That the defendant manufactured and/or assembled the said mobile home in a defective condition so as to make it unreasonably dangerous to users or consumers and at the time of the fire the mobile home was in substantially the same condition as when manufactured and/or assembled by the defendant.”
+Paragraph 26A reads:
+“That the defendant was negligent in that it manufactured and/or assembled the mobile home knowing, or having reason to know, that it was in a defective condition, unreasonably dangerous, and that a fire could take place causing the damage as hereinbefore set forth.”
+Although a complaint should be sufficiently specific so as to enable defendant to prepare his defense, Pennsylvania courts have consistently held that the malfunctioning of a product is circumstantial evidence of a defective condition, even if the exact defect cannot be alleged in the complaint: Cornell Drilling Company v. Ford Motor Company, 241 Pa. Superior Ct. 129, 359 A.2d 822 (1976). Where the product is in the exclusive control of defendant, the courts have allowed plaintiff to show an inference of negligence in the pleadings and then require defendant to come forward with his defense to the action: Loch v. Confair, 372 Pa. 212, 93 A.2d 451 (1953); Messner, et al. v. H. B. McClure Co., 76 Dauph. 174 (1960). A plaintiff can establish an inference of negligence if the accident occurs shortly after sale or if it is the type of accident that does not occur without a defect: Cornell Drilling Company, supra. In the case at bar, the fire occurred the very same day or the very next morning after the mobile home was delivered. Plaintiffs had not as yet assumed any control over the trailer. For these reasons, plaintiffs are not able to say what caused the fire; therefore, to require a more specific complaint would defeat the plaintiffs’ claim. In Cattarius, Exrx., et al. v. Horn, et al., 77 Dauph. 8 (1961), the complaint alleged negligence on the part of defendants for faulty electric wiring that purportedly caused a fire doing substantial damage to a building owned by plaintiff. Defendant filed a motion for a more specific qomplaint based on the failure of plaintiff to state what was defective about the wiring. The court overruled the objections stating: “From the nature of the case it was not within the power of the plaintiffs to show expressly in what manner the defendants’ work was performed or the cause by means of which the building and its contents were damaged.” Id. at 12.
+Defendant relies on Berkebile v. Brantly Helicopter Corp., 462 Pa. 83, 337 A.2d 893 (1975), to show that under strict liability, the courts still require plaintiffs to prove that the product was in fact defective at the time the injury occurred. With this we agree; however, we are here concerned with pleading and not proof at trial.
+DEMURRER
+When considering defendant’s motion for demurrer, we must accept as true every material fact well pleaded by plaintiff: Blumer v. Dorfman, 447 Pa. 131, 289 A.2d 463 (1972). If there is any theory of law under which the complaint is sufficient, the motion must be overruled: Lerman v. Rudolph, 413 Pa. 555, 198 A.2d 532 (1964). In the case at bar, the complaint alleges that a defect, unreasonably dangerous to users and consumers, existed in the mobile home at the time of sale and at the time the fire occurred. This clearly places the complaint squarely under the theory of strict liability as set out in Restatement 2d Torts § 402(a).
+ORDER OF COURT
+And now, June 20, 1977, for the reasons set forth in the opinion filed this date, the motion for a more specific complaint and demurrer are overruled and defendant, Champion Home Builders Company, is given 20 days of the date this order is filed within which to file an answer to the complaint.
