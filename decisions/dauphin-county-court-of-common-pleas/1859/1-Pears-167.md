@@ -1,0 +1,22 @@
+---
+court: "Dauphin County Court of Common Pleas"
+decided: "1859-09-10"
+citations: ["1 Pears. 167"]
+reporter: "pears"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ritzman’s Administrator v. Ritzman’s Executor"]
+source_url: "https://static.case.law/pears/1/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814646
+cites_cases: ["1 W. & S. 206", "5 W. & S. 519"]
+---
+
+# Ritzman's Administrator v. Ritzman's Executor
+
+## Majority (By the Court.)
+
+By the Court.
+By the terms of Jacob Bitzman’s will he directs his real estate to be sold by his executors, giving them authority to sell on credit, if they see proper; and after giving his personal property to his children, and directing it to be divided equally among those who shall survive him, further orders “the proceeds of the real estate, if sold on credit, shall be divided in like manner as soon as it shall come into the hands of my executor, the heirs or representatives of any of my children, who shall have died between the time of my decease and the time of such division or distribution, to be entitled to such share or shares as. their respective ancestors would have been entitled to receive, if then living.” The plaintiff’s intestate died after the sale of the real estate and before the money fell due. Will the plaintiff take as his legal representative, or will the money go directly to Michael’s children? It is very clear that the money in this case was vested by the first part of the gift; there was no contingency annexed to it. Was it divested by the subsequent direction, or was any contingency created? It would rather appear to us that the testator feared that unless some provision was made for the contingency of the money not coming to the hands of the executors during the lifetime of some of his children, their share or interest in it would lapse, and, therefore, he provides for it going to the heirs or representatives of the deceased child, who is to take the same share his ancestor would have taken. The present plaintiff is the legal representative of Michael Ritzman, but he is not an heir, does not claim as such. According to the case of Plenderson’s Executor, v. Henderson (12 S. & R. 114), even where the gift is to his children or their heirs, without mentioning legal representatives, the legacy, if vested, would go to such person as would represent the legatee by the laws of the country, to wit, his administrator, and not the heirs at law. That case is sustained and sanctioned in King v. King (1 W. & S. 206); Reed v. Buckley (5 W. & S. 519). The rule in the present case in England would be different, as there the leaning is in favor of the heirs in preference to the administrator, who originally could claim all surplus as his own. In Pennsylvania the administrator takes the legacy for the use of the heirs or next of kin. In the case under consideration the only difference in the effect is on the interest of Michael Ritzman’s widow, who will be entitled to one-third part of the sum, should it go into the hands of the administrator, and would receive no portion if the heirs at law could take directly as devisees under their grandfather’s will. The only difficulty in the present case arises from these words, “ to be entitled to such share or shares as their respective ancestors would have been entitled to receive if then living.” Now, it is very clear that there can be no ancestor to an administrator as such. And here we were at first inclined to say that the testator intended the heirs alone to take, and that the legal representatives should not in any event, although named. But on reflection, when we come to consider that in our State the inclination of the courts is to treat personal property as vested, when the words will bear that construction, and to throw off all the clogs and fetters thrown around gifts of chattels, and permit the donee to receive them absolutely, we have been forced to a different conclusion. It is very clear that the words of gift caused this to be a vested legacy, and there is nothing'in the subsequent expression to show clearly that the donor, intended otherwise; and if vested, according to the settled rule in Pennsylvania, it must go to the legal representative for distribution. Therefore, we give judgment in favor of the plaintiff on the case stated.
+Alricks, for plaintiff.
+Mwmma, for defendant.
