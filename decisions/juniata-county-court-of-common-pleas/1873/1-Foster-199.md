@@ -1,0 +1,24 @@
+---
+court: "Juniata County Court of Common Pleas"
+decided: "1873"
+citations: ["1 Foster 199"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBINSON v. AUKER et al."]
+source_url: "https://static.case.law/foster/1/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760825
+cites_cases: ["7 Watts 355", "8 Johnson Rep. 436", "9 W. & S. 43"]
+---
+
+# Robinson v. Auker
+
+## Majority (Junkin, P. J.)
+
+Opinion of the court delivered by
+Junkin, P. J.
+The facts are : Deitrick was sheriff; fi. fa. No. 8 December Term, 1869, Robison v. Auker and Buchanan, for $270, was placed in his hands, and on writ in pencil writing, is endorsed a levy, dated 21 September, 1869, on personalty. On 5 September, 1870, under pressure of a rule, the sheriff returned, “ This writ returned with money,” and when he made this return three return days had passed. He never received any money from the defendants, and he paid $26.07 of the amount himself, and his sureties on his official bond paid the balance to prevent suit thereon. The property levied, or that could have been levied belonged to Auker, the principal (Buchanan was Aulcer’s surety), who, more than one year after the issuing of the fi. fa., sold it for more than the amount of the writ. The sheriff never saw Auker — never looked after the property, nor gave it any attention. Under these facts, the sheriff asks leave to amend his return from “ Money made,” to “ No goods,” and his sureties ask to be substituted as plaintiffs in the judgment, because they paid the money. We can permit, neither. If the sheriff amends from “Money made,” to “ No goods,” it will he merely displacing one falsehood with another, and as between the two we have no choice. If he now returns no goods, it will be a false return — there were goods, and they were in contemplation of law, in his manual possession. The defendant,. Auker, made the money out of them, and kept it. In law, then, the money was made, and the return as it now stands is much nearer the truth than would be the proposed amendment. It would be unjust to Buchanan, the surety of Auker, who would now be made pay the debt of his. principal, four years after the sheriff had levied, or should and could have levied, on sufficient personal effects of the principal, to pay the claim; for where the value of the property of the principal which should have been applied to the secured debt, is uncertain, the surety is discharged. Neff’s Appeal, 9 W. & S. 43, per Kennedy, J.
+Parker for petitioners; Hon. H. Graham for respondents.
+It is against the policy of the law to substitute an officer to the rights, of the parties, whose business he has neglected, so as to fix himself for the amount, and thus avoid loss, by becoming the creditor himself. If this-were permitted an execution instead of process to collect, would become a transfer of the judgement. In Arbingast v. Houk, Watts 228, a constable, who through neglect of duty, became liable, paid the amount of the execution, was not permitted to recover the same from the original defendant. This is approved in Menhowter v. Jamison, 7 Watts 355, and in Menderback v. Hopkins, 8 Johnson Rep. 436, where a constable who has-an execution, pays the amount to the plaintiff, without any demand of, or request by the defendant, he cannot maintain an action against the defendant, for the money so paid by him, without request. “And in Reed v. Bruyer and Staatz, 7 Johnson’s Rep. 426, it was held, that the sheriff,, cannot with his own money pay the plaintiff in an execution, and after-wards levy the execution out of the property of the defendant; nor can he take another security, and detain the execution in his hands, and use-it afterwards, to enforce the payment of the money advanced by him.. There are doubtless other cases — but these suffice, and they proceed upon good reason, to wit, that the officer may know that nothing can relieve-him and his sureties, save a prompt discharge of his official duty. To permit him to temporize, under expectations of saving himself, by becoming the owner of the process he is called to execute, would be dangerous to-his sureties and the public.
+It results from these principles and authorities, that neither he nor his sureties can be substituted, to the rights of the plaintiff in the judgment. The sureties have no rights superior to their principal — the policy which, forbids the substitution of the sheriff, is equally imperative, when the same right is claimed by his sureties. If one -is denied, and the others admitted, the sheriff may accomplish through his suureties, that, which is refused to himself, and the law and its policy overthrown by indirection. Besides, as the amendment of the sheriff’s return has been refused, there is nothing to be gained by their substitution. The judgment is satisfied in law.
