@@ -1,0 +1,36 @@
+---
+court: "Erie County Court of Common Pleas"
+docket: "no. 1949A-1988"
+decided: "1990-05-25"
+citations: ["7 Pa. D. & C.4th 48"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barrett v. PennDOT"]
+source_url: "https://static.case.law/pa-d-c4th/7/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820203
+cites_cases: ["114 Pa. Commw. 348", "228 Pa. Super. 135", "437 A.2d 1059", "464 Pa. 387", "468 A.2d 894", "475 A.2d 928", "492 A.2d 490", "493 Pa. 150", "574 A.2d 735", "63 Pa. Commw. 204", "79 Pa. Commw. 121", "89 Pa. Commw. 155"]
+---
+
+# Barrett v. PennDOT
+
+## Majority (LEVIN, J.,)
+
+LEVIN, J.,
+Before this court is a motion for summary judgment brought by defendant, Pennsylvania Department of Transportation.
+This action arises from an .accident which occurred on March 7,1987. On that date, plaintiff was riding his bicycle on Pittsburgh Avenue (or the berm) and hit a pothole. Plaintiff has alleged injuries as a result of this incident and attempts to impose liability on PennDOT.
+PennDOT denies liability and asserts that liability of Commonwealth parties is controlled by the limited statutory exceptions to sovereign immunity. 42 Pa.C.S. §5110 et seq. (repealed), now found at 42 Pa.C.S. §8522 et seq.
+The Sovereign Immunity Act provides for liability of Commonwealth agencies for alleged dangerous conditions of highways as follows:
+“(4) Commonwealth real estate, highways and sidewalks — A dangerous condition of Commonwealth agency real estate and sidewalks, including Commonwealth-owned real property, leaseholds in the possession of a Commonwealth agency and Commonwealth-owned real property leased by a Commonwealth agency to private persons; and highways under the jurisdiction of a Commonwealth agency, except conditions described in paragraph (5).
+“(5) Potholes and other dangerous conditions — A dangerous condition of highways under the jurisdiction of the Commonwealth agency created by potholes or sinkholes or other similar conditions created by natural elements, except that the claimant to recover must establish that the dangerous conditions created a reasonably foreseeable risk of the kind of injury which was incurred and that the Commonwealth agency had actual written notice of the dangerous condition of the highway a sufficient time prior to the event to have taken measures to protect against the dangerous condition.” 42 Pa.C.S. §5510(a)(4), (5) {repealed). Re-enacted in 42 Pa.C.S. §8522(b)(4) and (5). (emphasis supplied)
+Since this case involves a motion for summary judgment against plaintiff, the court must resolve all factual disputes in favor of plaintiff. Pennsylvania Rule of Civil Procedure 1035(b) provides that summary judgment “shall be rendered if the pleadings, depositions, answers to interrogatories, and admissions on file, together with affidavits, if any, show that there is no genuine issue as to any material fact, and that the moving party is entitled to judgment as a matter of law.” It is not the court’s function to decide issues of fact, but solely to determine whether there is an issue of fact to be tried. Thorsen v. Iron and Glass Bank, 228 Pa. Super. 135, 475 A.2d 928 (1984).
+The berm or shoulder of a state highway, as part of the highway right-of-way for which PennDOT is responsible, is included in this statutory provision requiring actual written notice of the dangerous condition. Further, it is clear to this court that a pothole is a condition created by natural elements, not artificial ones.
+The requirement that actual advance written notice be given to PennDOT of dangerous conditions created by natural elements, as opposed to those created by artificial means, has been consistently upheld. Cressman v. Pennsylvania Department of Transportation, 114 Pa. Commw. 348, 538 A.2d 992 (1988); Stevens v. Commonwealth of Pennsylvania, Department of Transportation, 89 Pa. Commw. 155, 492 A.2d 490 (1985); Merling v. Commonwealth of Pennsylvania, Department of Transportation, 79 Pa. Commw. 121, 468 A.2d 894 (1983); Shestock v. General Braddock School District, 63 Pa. Commw. 204, 437 A.2d 1059 (1981).
+The above authority makes it apparent that it is incumbent upon plaintiff to present evidence that PennDOT had prior written notice of the pothole in question. PennDOT asserts that it received no written notice of the pothole with which plaintiff had his accident. Further, plaintiffs have admitted that they have no such evidence. Thus, plaintiffs lack an essential element of their case.
+Although this requirement may appear to be unduly cumbersome to a plaintiff, the Commonwealth’s burden in maintaining thousands of miles of Commonwealth highways is equally cumbersome. The task force on sovereign immunity of the Joint State Government Commission of the General Assembly of the Commonwealth of Pennsylvania has noted that while the actual written notice requirement of this category of waived immunity may appear unduly restrictive, the task force was cognizant of the potential liability exposure which arises from the difficulty of maintaining over 45,000 miles of designated Commonwealth highways. This is true particularly in light of the weather conditions existing in Pennsylvania. Sovereign Immunity, General Assembly of the Commonwealth of Pennsylvania, Joint State Government Commission, 14 (May 1978).
+Plaintiff challenges the constitutionality of 42 Pa.C.S. §8522(b)(5), alleging that it creates an arbitrary and fortuitous restriction on the ability of a party to recover for damage from potholes, and thus violates both equal protection and due process. However, a statute is cloaked with a strong presumption of constitutionality and one who attacks it bears the burden of demonstrating that the legislation “clearly, palpably and plainly violates the constitution.” Haves v. Erie Insurance Exchange, 493 Pa. 150, 155, 425 A.2d 419, 421 (1981), citing Singer v. Sheppard, 464 Pa. 387, 393, 346 A.2d 897, 900 (1975). Plaintiff has not met this burden.
+The constitutionality of 42 Pa.C.S. §8511(b)(5) has recently been addressed by the Commonwealth Court in Ketterer v. Pennsylvania Department of Transportation, _ Pa. Commw. _, 574 A.2d 735 (1990). The court herein found that no fundamental constitutional right is affected by the written-notice requirement of section 8522(b)(5). Under an equal-protection analysis, the court applied a “heightened standard” of review and found that there is a legitimate basis for the notice requirement under the statute. Accordingly, plaintiff has not demonstrated a constitutional violation.
+In conclusion, viewing the facts in a light most favorable to plaintiff, there exists no genuine issue of material fact. Plaintiff admittedly cannot prove that PennDOT had written notice óf the pothole in question, and the constitutionality of the requirement has been consistently upheld by the Pennsylvania courts.
+ORDER
+And now, May 25, 1990, it is hereby ordered, adjudged and decreed that summary judgment is granted in favor of defendant Pennsylvania Department of Transportation, against plaintiffs Urban S. Barrett and Sara Barrett, and defendant Pennsylvania Department of Transportation is hereby dismissed as a party in this matter.
