@@ -1,0 +1,42 @@
+---
+court: "York County Court of Common Pleas"
+docket: "no. 91-SU-05958-07"
+decided: "1992-09-23"
+citations: ["16 Pa. D. & C.4th 55"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Palmer v. York County Solid Waste & Refuse Authority"]
+source_url: "https://static.case.law/pa-d-c4th/16/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1376150
+cites_cases: ["102 A.2d 170", "29 Pa. Commw. 127", "370 A.2d 758", "376 Pa. 305"]
+---
+
+# Palmer v. York County Solid Waste & Refuse Authority
+
+## Majority (CASSIMATIS, J.,)
+
+CASSIMATIS, J.,
+This matter is before the court pursuant to the preliminary objections of the defendant, York County Solid Waste and Refuse Authority to the complaint of the plaintiff, David C. Palmer. The preliminary objections are brought in the nature of lack of subject matter jurisdiction, lack of personal jurisdiction, demurrer, motion for more specific pleading and motion to strike pursuant to Pa.R.C.P. 1017,42 Pa.C.S and Pa.R.C.P. 1028, 42 Pa.C.S
+The complaint in this action was filed on December 13,1991, seeking revocation of Pennsylvania Department of Environmental Resource permits and permanent closure of the York County’s Blackbridge Road Resource Recovery Facility. The essence of the plaintiff’s quarrel with the defendant is that the defendant acquired the real estate upon which its $130 million Resource Recovery Facility was subsequently built in violation of section 314 of the Municipality Authorities Act of 1945, as amended, Act of May 2, 1945, P.L. 382 of the General Assembly of the Commonwealth of Pennsylvania (53 P.S. §314), which reads as follows:
+“§314. Acquisition of lands, water and water rights—
+“The authority shall have the power to acquire, by purchase or eminent domain proceedings, either the fee or such right, title, interest or easement in such lands, water and water rights as the authority may deem necessary for any of the purposes mentioned in this act. Provided, however, that water and water rights may not be acquired unless and until approval is obtained from the Water & Power Resources Board in accordance with the law in such cases made and provided. And provided further, that no property owned or used by the United States, the Commonwealth of Pennsylvania, any political subdivision thereof, or any body politic and corporate organized as an ‘authority’ under any law of the Commonwealth or by any agency or any of them, nor any property of a public service company, property used for burial purposes, places of public worship, shall be taken under the right of eminent domain. The right of eminent domain shall be exercised by the authority in the manner provided by law for the exercise of such right by municipalities of the same class, as the municipality by which such authority was organized.
+“In the case of a joint authority eminent domain shall be exercised by the authority in the same manner as is provided by law for the exercise of such right by municipalities of the same class as the municipality in which the right of eminent domain is to be exercised.
+“The right of eminent domain herein conferred by this section may be exercised either within or without the municipality or municipalities.”
+The real property acquired by the defendant upon which York County’s Resource Recovery Facility has now been constructed and operational since October 23, 1989, was purchased outright from the Raymond A. Melato Trust, a private landowner by deed in lieu of condemnation. The defendant asserts that this action was in accordance with the specific authority granted to the defendant by §314 and not in violation thereof.
+PRELIMINARY OBJECTIONS
+LACK OF SUBJECT MATTER JURISDICTION
+In reviewing the preliminary objections of the defendant, this court has certain standards which it must follow. A preliminary objection in the form of a petition raising a question of jurisdiction is available to any party in a civil action. Such an objection may challenge a court’s jurisdiction over the subject matter of an action or over the person of a defendant. Pa.R.C.P. 1017, Pa.C.S
+Apreliminary objection raising a question of jurisdiction may involve a determination whether a court has jurisdiction over the subject matter of an action. The test in such a situation is the competency of a particular court to determine controversies of the general class to which a case then presented for its consideration belongs. Strank v. Mercy Hospital of Johnstown, 376 Pa. 305, 102 A.2d 170 (1954).
+The defendant is a municipal authority organized under Title 53 of the Pennsylvania Municipalities Code and conducts its activities at its incinerator under permits issued by the Commonwealth of Pennsylvania, Department of Environmental Resources. The Pennsylvania Environmental Hearing Board is an administrative agency organized under Pennsylvania Administrative Agency Law, 2 Pa.C.S. §5(a), the purpose being to exercise jurisdiction over appeals and final actions of the Department of Environmental Resources. The defendant argues that the plaintiff must exhaust its administrative remedy prior to the undertaking of this action.
+The plaintiff, in response, argues that he has exhausted his administrative remedies prior to undertaking this equity action. The plaintiff claims that he has exhausted his administrative remedies by contacting the defendant, the Department of Environmental Resources, the Springettsbury Township Road, governor-appointed Citizens Advisory Council which oversees the DER, Office of the Attorney General of Pennsylvania, Auditor General of Pennsylvania and the plaintiff’s district representative. In support of this position, the plaintiff indicates that some of the entities contacted advised him that he has a legal right to pursue this matter.
+Although the plaintiff may have contacted the aforementioned governmental agencies, the defendant argues that mere contacts alone do not substitute for an adjudication with the administrative process. The Pennsylvania Legislature has established via the Environmental Hearing Board and has vested within it “the power and duty to hold hearings and issue adjudications under 2 Pa.C.S. §5(a) (relating to practices and procedure of Commonwealth agencies) on orders, permits, licenses, or decisions of the department.” 35 P.S. §7514(a). Under the Environmental Hearing Board Act, 35 P.S. §7511, et seq. the Pennsylvania State Legislature established the Environmental Hearing Board to hold hearings and issue adjudications regarding actions undertaken by the Department of Environmental Resources. An adjudication is defined by statute as “[a]ny final order, decree, decision, determination or ruling by an agency affecting personal or property rights, privileges, immunities, duties, liabilities or obligations of any or all parties to the proceeding in which the adjudication is made....” 2 Pa.C.S. §101.
+“Where an adequate administrative remedy is provided by statute this court lacks jurisdiction to entertain a suit either in law or equity. ” Charleston Township Municipal Authority v. Department of Environmental Resources, 29 Pa. Commw. 127, 129, 370 A.2d 758, 760 (1977). (citations omitted)
+Therefore a judicial review of a decision of the Environmental Hearing Board is to be had not by the Court of Common Pleas but by the Commonwealth Court of Pennsylvania.
+As plaintiff is seeking the revocation of any and all permits from the defendant and the permanent closure of the Blackbridge site, the plaintiff has an administrative remedy to pursue. If, in fact, the plaintiff has pursued his administrative remedies, the Commonwealth Court has jurisdiction over this matter, not this court.
+Having determined that our court does not have equity jurisdiction due to the failure of the petitioners to exhaust their administrative remedies, we need not address any other issue raised by the petitioners.
+Accordingly, we enter the following order.
+ORDER
+And now, September 23, 1992, upon consideration of the preliminary objections of the defendant, York County Solid Waste & Refuse Authority, to the complaint of the plaintiff, David C. Palmer, it is hereby ordered that the preliminary objection — lack of subject matter jurisdiction — is granted and the complaint of the plaintiff is hereby dismissed.
+The prothonotary is directed to provide notice of the entry of this opinion and order as required by law.
