@@ -1,0 +1,31 @@
+---
+court: "Berks County Court of Common Pleas"
+docket: "456"
+decided: "1925-10-17"
+citations: ["8 Pa. D. & C. 23"]
+reporter: "pa-d-c"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["International Advertising Syndicate v. Quaker Silk Mills."]
+source_url: "https://static.case.law/pa-d-c/8/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1485588
+cites_cases: ["250 Pa. 399", "268 Ill. 603", "60 Pa. Superior Ct. 225"]
+---
+
+# International Advertising Syndicate v. Quaker Silk Mills
+
+## Majority (Schaeffer, P. J.,)
+
+Schaeffer, P. J.,
+The judgment here was entered by the prothonotary for the sum of $1809.25 upon an agreement in writing dated Aug. 9, 1923, between the parties, by which the defendant, inter alia, directed the plaintiff to mail one Bride’s Nu Home Book free to each prospective bride procuring a marriage license in certain designated counties, and for which the defendant agreed to pay the plaintiff the sum of 20 cents for each book so mailed.
+"That as a security for the terms and conditions of this agreement, the party of the second part hereby confesses judgment in favor of the party of the first part for the sum- of $1809.25, representing unpaid monthly balances; waives appeal, stay of execution, inquisition and exemption.”
+On the back of the agreement, under various dates, beginning Aug. 31, 1923, and extending to July 31, 1924, appear the entries of "Bride’s NuHome Books” charged at the rate of 20 cents per copy, and three items of credit for payments on account and discount, showing a balance due of $1809.25, which is the amount for which the judgment was entered.
+The petition filed by the defendant for a rule to strike the judgment from the record avers: “The record discloses that the sum of $1809.25 inserted in the alleged confession of judgment was computed subsequent to the execution of the said writing,” and “the record discloses that the sum of $1809.25 was inserted subsequent to the execution of the said writing.” The plaintiff’s answer to the rule admits that the amount, to wit, “$1809.25,” was inserted in the confession of judgment after the execution of the- said writing.
+The Act of Peb. 24, 1806, § 28, 4 Sm. Laws, 270, directs the prothonotary, “on the application of any person being the original holder (or assignee of such holder) of a note, bond or other instrument of writing in which judgment is confessed, or containing a warrant for an attorney-at-law or other person to- confess judgment, to enter judgment against the person or persons who executed the same for the amount which from- the face of the instrument may appear to be due, without the agency of an attorney or declaration filed.”
+Can the present judgment be sustained under this act? The instrument in writing in the present case contains a confession of judgment for a definite specified sum, to wit, $1809.25, the exact amount of the judgment entered. “The amount which from the face of the instrument may appear to be due” is clearly $1809.25. It is true that on the back of the instrument appears a statement of account, under dates subsequent to the date of the agreement, showing the precise amount of $1809.25 to be due. But neither this fact nor the fact that the amount of the debt was entered upon the face of the instrument after execution, if such fact was known to the prothonotary, in any way derogated from his duty under the Act of 1806; that is, to enter judgment for the amount appearing to be due from the face of the instrument. He was not justified in inquiring or being influenced by whether or not the figures of the amount shown by the instrument to be due were entered on the instrument at the time of the execution of the instrument or later.
+The defendant does not allege an alteration or erasure of any figures or words setting forth the amount; and from the allegation and admission that the amount was entered upon the instrument after execution, we must assume that the space wherein the amount is set forth was left blank at the time of the execution and delivery of the instrument. The delivery of the agreement in this form must be taken to be a grant of authority to the plaintiff to enter in the blank the amount due and unpaid at the conclusion of the contract or at the time when the plaintiff desired to avail himself of the defendant’s confession of judgment. The parties must be taken to have contemplated the filling in of the blank with the amount actually due: Schnitzer v. Kramer et al., 268 Ill. 603. The confession of judgment is express and unconditional, and the instrument in which it is contained should be so construed as to give effect to it. The possession of an instrument in writing for the payment of money affords proof prima facie of a right in the holder to recover upon it according to its terms. The holder is not required to prove that it has not been paid. The case is made by the production of the instrument in the first instance: Dalton v. Willingmyre, 60 Pa. Superior Ct. 225.
+The cases relied upon by the defendant are not in point, in that they are-either eases where the amount due could not be ascertained by the prothonotary by an inspection of the instrument containing the confession of judgment, or eases where the confession of judgment was conditional and the conditions precedent to entry had not occurred.
+In the case at bar there is no allegation in the petition that the defendant is not indebted to the plaintiff.
+Upon argument, the defendant urged an additional reason, not alleged in the petition, for the striking off of the judgment, in that the plaintiff had not complied with Rule of Court No. 211, in that he failed to file a specific statement of the cause of action. But that rule is not intended to cover a case such as the one before us. Where the confession of judgment is express and unconditional, as here, a statement of cause of action or affidavit of default is not necessary, under the Act of 1806, to support a judgment entered in pursuance thereof: Spiese v. Shee, 250 Pa. 399; General Finance Co. v. Wasilowski, 5 D. & C. 274. The rule to strike off the judgment is discharged.
+Prom Charles K. Derr, Reading, Pa.
