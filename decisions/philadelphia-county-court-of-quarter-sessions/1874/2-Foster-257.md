@@ -1,0 +1,38 @@
+---
+court: "Philadelphia County Court of Quarter Sessions"
+decided: "1874-10-10"
+citations: ["2 Foster 257"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COMMONWEALTH v. JONES."]
+source_url: "https://static.case.law/foster/2/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761578
+---
+
+# Commonwealth v. Jones
+
+## Majority (Paxsgn, J.)
+
+Opinion delivered Oct. 10, 1874, by
+Paxsgn, J.
+The defendant was convicted at the special sessions, in June last, of the offence of attempting to vote illegally. A motion was made by his counsel for a new trial, which motion was argued on the last «lay of the session prior to. the summer vacation.
+The indictment contained three counts. The first charges that the defendant not being a qualified voter, fraudulently attempted to vote at the February election in the first division of the fourteenth ward.
+The second count charges that the said defendant, being otherwise qualified, attempted to vote at said election out of his proper division.
+The third count charges, that the said defendant, not by law qualified to vote in said division, attempted to vote therein. Upon the trial it appeared that the defendant was a duly qualified voter; that he at* tempted to vote in the first division of the fourteenth ward, and that he was not a resident of that division.
+It is therefore clear that this verdict, if sustained at all, can only be so upon the second and third counts.
+Upon the argument, the point was raised and pressed with much zeal and ability, that the conviction could not be supported upon either count, for the reason that no offence is charged, either statutory or at the common law.
+It will be observed that the indictment charges merely an attempt to vote illegally.
+The sixth section of the act of 6th April, 1870, provides that, “If any person not a citizen of this commonwealth shall vote, or attempt to vote, at any special, general, or presidential election held in this commonwealth, he shall be guilty of felony,” &c. This is the only instance I am aware of, in which the statute defines and punishes an attempt to vote illegally ; and this implies only to persons who are not citizens of this commonwealth. It has no implication to the case under consideration.
+In our criminal proceedure act we have a section which provides that, “If, on the trial of any person charged with any felony or misdemeanor, it shall appear to the jury, upon the evidence, that the defendant did not complete the offence charged, but was guilty only of an attempt to commit the same, such persons shall not, by reason thereof, be entitled to be acquitted, but the jury shall be at liberty to return as their verdict, that the defendant is not guilty of the felony or misdemeanor charged, but is guilty of an attempt to commit the same; and thereupon such person shall be liable to be punished in the same manner as if he had been convicted upon an indictment for attempting to commit .the particular felony or misdemeanor charged in the indictment.” Section 5°'
+It was urged that this section was intended to imply to such misdemeanors only as were an offence at common law. In other words, that it is not an indictable offence to attempt a mere statutory misdemeanor. I am not aware that the statute last above quoted has ever received a judicial construction. I have endeavored to give the subject the care and attention to which its importance entitles it. ,
+The report of the commissioners on the penal code does not throw any light upon this question. The section itself is new, and they give as a reason for its passage the fact, that prior thereto, "if on an indictment for felony, it appears that some circumstance is wanted to establish the complete technical offence, the prisoner must be acquitted, although the proofs are perfect of an attempt to commit the crime.”
+An examination of the authorities leaves me in doubt upon the law. The general rule is well established; that any attempt to commit a misdemeanor, is a misdemeanor, whether the offence is created by statute, or was an offence at common law. This broad principle was asserted by Baron Parke, in the case of Rex v. Roderich, 7 C. & P. 795, and has been adopted by the editors of our leading text books on criminal law. See 1 Arch. Crim. Plead, and Ev. 85; 2 Id. 29; Wharton, 79, 812; and Russ. 46. It was also fully recognized by our own Supreme Court in Smith v. The Commonwealth, 4 P. F. S. 209, where, in a very able and interesting opinion, Chief Justice Woodward reviews the whole subject of attempts, and collects the English cases with great care. Where an offence is made a misdemeanor by statute, it is made so for all purposes. Rex v. Butler, 6 C. & P. 368.
+There may be, perhaps, a distinction between misdemeanors which are mala in se and such as are mala prohibita, as in the case of acts which are not per se penal, but made the subject of a statutory fine, as a matter of municipal regulation.
+But when the misdemeanor is stamped as a crime by the law, is the subject of indictment, and is punishable by fine and imprisonment, an attempt to commit it is clearly a misdemeanor.
+Especially in this case where the offence is one which affects the public injuriously. All attempts tending to the prejudice of the community are indictable ; as an attempt to provoke an other to send a challenge, Rex v. Phillips, 6 East, 464: an attempt to bribe a cabinet minister to give the defendant an office, Vaughan’s Case, 4 Burr. 2494; and the same with respect to the promise to a member of a corporation to induce him to vote for the election of a mayor, Plympton’s Case, 2 Ld. Raym. 1378; or an attempt to bribe a juryman to give a particular verdict, Young’s Case, 2 East, 16; or a judge, with intent to corrupt him in a case depending before him, 3 Inst, 147.
+No one of these cases, drawn from the English law, defines an offence which more directly affects the comunity than the one under consideration. A blow aimed at the purity of elections is a crime against the nation. When the ballot-box ceases to reflect the popular will, we shall be in a condition, little better, politically, than a South American .'republic; if, indeed, it is necessary, even now, to, go beyond some of our own Southern States for an illustration.
+The view of the law I have indicated harmonizes, perfectly'with the fiftieth section of the criminal procedure act above referred to, which provides, as already seen, that when a person indicted for a felony or misdemeanor is convicted of the attempt, he may be punished “ ‘in the same manner as if he had been convicted upon an indictment for attempting to commit the particular felony or misdemeanor charged in the indictment” This seems a recognition of the broad principle that all attempts to commit misdemeanors are indictable at common law. It is upon this principle that this conviction must rest, as the case does not come within the section above referred to.
+The motion for a new trial is overruled, and judgment will be entered on the second and third counts only.
+The maximum imprisonment affixed by law to the offence of illegal voting, under appropriate section of the code, is three months. For the attempt to vote, of which this defendant.-is convicted, the statute affixes no punishment, and we are obliged to . look . to the common law. The punishment at common law for an attempt to commit amisdemeanor, is by fine or imprisonment, or both. There would be no propriety, however, in imposing for the attempt the full measure of imprisonment designated by the .statute for the completed offence.
