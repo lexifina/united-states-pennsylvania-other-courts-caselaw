@@ -1,0 +1,29 @@
+---
+court: "Adams County Court of Common Pleas"
+docket: "no. 53"
+decided: "1977-02-18"
+citations: ["1 Pa. D. & C.3d 24"]
+reporter: "pa-d-c3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Investors Consumer Discount Co. of Pa. v. Caskey"]
+source_url: "https://static.case.law/pa-d-c3d/1/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4582863
+cites_cases: ["204 Pa. Superior Ct. 547", "206 A.2d 69", "223 Pa. Superior Ct. 290", "297 A.2d 481", "403 Pa., 169", "405 U.S. 191"]
+---
+
+# Investors Consumer Discount Co. v. Caskey
+
+## Majority (MacPHAIL, P.J.,)
+
+MacPHAIL, P.J.,
+Defendants in the above-captioned matter have filed a petition to open and/or strike a judgment confessed in York County and transferred to Adams County pursuant to the provisions of Pa. R.C.P. 3002. We issued a rule upon plaintiffs which was answered. A hearing has been held. Briefs have been filed and the matter is ripe for disposition.
+Initially, plaintiff contends that since the judgment was transferred from York County, this court is without power or authority to act on the petition now before us. It is true that the rule enunciated in Selden v. Jackson, 403 Pa., 169 A.2d 301 (1961), and followed in Tabas v. Robert Development Company, 223 Pa. Superior Ct. 290, 297 A.2d 481 (1972) did provide that the court of a county to which a judgment has been transferred has no power over it except for purposes of execution and cannot inquire into its merits. However, the Act of March 27, 1945, P.L. 83, as amended July 13, 1961, P.L. 592, 12 P.S. §913, provides that when a defendant has a defense to a judgment, he may file his petition to open the judgment either in the court where the judgment is originally entered or in any other court to which the judgment is transferred. See Commonwealth Bank and Trust Co. v. Coudriet, 34 D. & C. 2d 408 (1964), affirmed per curiam, 204 Pa. Superior Ct. 547, 206 A.2d 69 (1964).
+It would appear then that there is a statutory exception to the general rule that the court in the county to which a judgment has been transferred has no power over it. However, we would assume that the general rule would apply to a motion to strike because the statutory exception is limited to a petition to open. In any event, we will so hold and deny the motion to strike but proceed to consider the merits of the petition to open.
+In the petition to open defendants alleged the following facts: part payment by them for which they have not been given credit, plaintiff’s failure to apply for disability insurance coverage benefits to which defendants were entitled, failure of plaintiff to protect itself by obtaining a security interest in the mobile home purchased with the proceeds of the note upon which defendants were co-makers, non-waiver of rights set forth in Swarb v. Lennox, 405 U.S. 191 (1972), and failure of plaintiff to comply with the provisions of the Consumer Discount Company Act of April 8, 1937, P.L. 262, 7 P.S. §6201 et seq.
+By virtue of the provisions of subsection (e) of Pa. R.C.P. 2959, our inquiry is limited to a determination of whether the evidence produced at the hearing before us would require that the issues be submitted to a jury if a jury trial was awarded. The petition alleges (Paragraphs 19 and 20) that defendants have made substantial payments on the contract and that they have not received proper credit for their payments. The answer admits that payments were made by defendants and that defendants were not given credit on the face of the note for those payments. Plaintiff also alleges that late charges exceed the rebate to which defendants would be entitled as a credit for their payments. Moreover, plaintiffs contend that since the Prothonotary in York County had the duty to enter judgment for the amount which appeared to be due from the face of the instrument, the judgment is regular and the fact that defendants made payments simply cannot be raised at this time. A petition to open is equitable in nature. It is clear to us that it would be grossly inequitable for judgment creditors to be able to, take advantage of their own failure to give proper credit to judgment debtors for amounts paid on an obligation and then insist that the Prothonotary’s duty to enter judgment as instructed by the judgment creditor bars the judgment debtor from raising any defense. This cannot be the law. Even though the judgment on its face may be regular and not subject to a petition to strike, since it appears that payments have been made for which defendants did not receive proper credit and we have no basis upon which to determine whether or not late charges would be equivalent to or exceed the payments made, we will open the judgment and permit defendants the opportunity to prove that they do not owe the amount for which judgment has been taken.
+Defendants have also presented testimony that they did not understand their pre-judgment rights and that their joint income did not exceed $10,000 per year. Both of these matters were refuted by testimony from plaintiff. Again, this is a factual dispute raising issues which would have to be submitted to a jury in a jury trial to determine whether or not the decision in Swarb v. Lennox, supra, affects the validity of the judgment taken against defendants.
+For the guidance of the parties with respect to further proceedings in this matter, we hold specifically that the allegations set forth in Paragraphs 21-27, inclusive, and 31-36, inclusive, of the petition, even if true, would not raise issues that could be submitted to a jury.
+ORDER
+And now, February 18th, 1977, the petition to strike the judgment is denied. The petition to open the judgment is granted. The parties are directed to proceed under the provisions of Pa. R.C.P. 2960.
