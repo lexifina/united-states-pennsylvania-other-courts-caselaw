@@ -1,0 +1,24 @@
+---
+court: "McKean County Court of Common Pleas"
+docket: "213"
+decided: "1883-05-08"
+citations: ["3 Pennyp. 261"]
+reporter: "pennyp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Mercur, C. J., Gordon, Paxson, Trunkey, Sterrett, and Green, JJ.", "Trtjnkey, J., files dissenting opinion, in which Sterrett, J., concurs."]
+parties: ["Chamberlain v. The Summit Gas Company."]
+source_url: "https://static.case.law/pennyp/3/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 220785
+---
+
+# Chamberlain v. Summit Gas Co.
+
+## Majority (Mr. Justice G-okdoíi :)
+
+The opinion of the Court was delivered by
+Mr. Justice G-okdoíi :
+If the testimony of Chamberlain is to be taken as true, and there is no reason why it should not be so taken, his contract with Risher, as agent of the Empire Oil Company, was that, if Chamberlain could not get gas enough from wells Nos. 1 and 2 to furnish fuel for drilling the well which he had undertaken to put down, he, Risher, would get it from the gas company ; but he does not undertake to say that to this arrangement the gas company assented, or that it even had knowledge of it. On the other hand, the uncontradicted proof is that Risher, instead of ordering this fuel on account of the Empire Oil Company, ordered it for and on account of Chamberlain, saying, at the same time, that Chamberlain had directed him so to do. Now, whilst this order did not bind Chamberlain for want of power in Risher to make it, it certainly did not bind the Empire Company, and it cannot be pretended that the plaintiffs could have recovered against it for the gas used by Chamberlain. In the absence, then, of a special contract, they could only recover the value of the gas from the person who had taken and used it. Moreover, Chamberlain very well knew that the gas he was using was not that of his employer, from wells Nos. 1 and 2, for there seems to have been no attempt to get it from that source ; on the other hand, he knew that it was being supplied from the plaintiffs’ works. We cannot, therefore, perceive wherein the Court below erred in saying to the jury that there was a legal implication of a contract on part of the defendant to pay for that which he got and used. How else shall we designate this transaction if it be not an implied contract? The gas was there ready in a pipe at the boiler; it was put there by the plaintiff company, and was designed to be nsed as fuel for that boiler. The implication thus necessarily arose, that whoever used the boiler might use the gas for raising steam. On the other hand, Chamberlain knew that this gas was an article of commerce, that it was there for sale, and that, whilst he had the implied assent of the company to use it, if he did so use it, it must be paid for. When, therefore, he appropriated this article to his own purposes, he, to all legal intents, became a party to an implied contract, which could be inforced only by an action of assumpsit. But what had the plaintiff to do with the contract between him and the Empire Company ? As Ave have before said, it does not appear that they even knew of such a contract, and if they had known of it, they could not have inforced it. It was Chamberlain’s business to see to the execution of his own contract, and if he had to pay for what the Empire Company ought to have paid, he has his remedy against that company ; but it wmuld be rather a left-handed kind of justice that would alloAv him to impose the damages resulting from the breach of that contract upon those who had nothing whateA-er to do with it. This case is very much as if a city landlord should agree with his tenant to pay for the gas used in lighting the leased premises, and the tenant should endeavor to set up this contract in a suit against him by the gas company. Admitted that the company was no party to-the contract; admitted that the tenant used the gas ; but then the pipes and gas fixtures were already in the premises, and he had but to turn a cock and apply a match. Such a defense Avould certainly not go very far in a court of justice, and yet it is very much the defense set up here. The Empire Oil Company had agreed Avith the defendant to pay for the gas which the Summit Company might furnish; the latter company, however, wrns no party to this agreement. Chamberlain, without taking the trouble to inquire Avhether or not his principal had provided for the payment of the gas, took and used it, and now, on the sole plea of its convenience in that he had but to turn a cock and apply a match, he sets up his contract Avith the oil company to defeat the plaintiffs’ claim. Such a defense is simply good for nothing, and the Court below did right in so telling the jury.
+The judgment is affirmed.
+Trtjnkey, J., files dissenting opinion, in which Sterrett, J., concurs.
