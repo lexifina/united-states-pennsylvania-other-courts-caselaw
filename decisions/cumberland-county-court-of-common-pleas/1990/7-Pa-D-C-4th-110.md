@@ -1,0 +1,35 @@
+---
+court: "Cumberland County Court of Common Pleas"
+docket: "no. 110-R Criminal"
+decided: "1990-08-16"
+citations: ["7 Pa. D. & C.4th 110"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Mitchell"]
+source_url: "https://static.case.law/pa-d-c4th/7/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820527
+cites_cases: ["456 U.S. 667", "466 A.2d 853", "490 Pa. 336", "514 Pa. 10"]
+---
+
+# Commonwealth v. Mitchell
+
+## Majority (SHEELY, P.J.,)
+
+SHEELY, P.J.,
+In this case we are asked to determine whether the conduct of the prosecutor which led to defendant’s successful motion for a mistrial was intended to provoke defendant into moving for a mistrial, therefore invoking double jeopardy and barring a new trial. We answer in the negative.
+FACTS
+On or about October 26, 1989, a riot occurred at the State Correctional Institution at Camp Hill. At that time defendant, Raymond Mitchell, was an inmate at SCIC. On that same date two individuals broke into MOD no. 1 at SCIC, and one of those two individuals was identified as Mitchell. Subsequently, charges were brought against him.
+A preliminary hearing was held on January 30, 1990. The trial was to be held during trial term on June 18, 1990. On Thursday, June 21, 1990, the prosecutor informed defense counsel that the witness Lamont Anderson might be called to testify. The prosecutor explained that if Anderson was called, he would be called to identify the co-defendant Frederick Singleton, not Mitchell. On June 25, 1990, in the judge’s chambers and on the record, the prosecutor once again reiterated the same statement. When Anderson was called to testify, however, he identified Mitchell along with Singleton.
+Believing that his identification was a spur of the moment identification, defense counsel cross-examined him as to when he first identified Mitchell. Anderson replied that he had identified him at a photographic line-up. At sidebar and in the judge’s chambers, the prosecutor admitted that there was evidence in the file of the photographic line-up, but this was the first time he (the prosecutor) had ever seen it. Defense counsel motioned for a mistrial which was granted.
+Defense counsel then filed a motion to dismiss for double jeopardy. An evidentiary hearing was scheduled for August 16, 1990.
+At the hearing, the prosecutor in the original trial testified that he did not intentionally withhold the fact of Anderson’s pretrial identification of the defendant from defense counsel. The prosecutor also admitted that he had interviewed Anderson on at least one occasion prior to trial but did not recall whether he asked Anderson specifically about Mitchell. He did ask Anderson to tell him everything he had heard and seen, but Mitchell’s name never came up.
+Defense counsel then called Anthony Arthur’s defense counsel. Arthur was an inmate at SCIC who, like Mitchell, was charged with participation in the SCIC riots. Arthur’s counsel testified to similar actions taken by the prosecution. Defendant alleges that based on the similarity of both cases, there is a pattern of intentional misconduct.
+DISCUSSION
+Due to the United States Supreme Court’s decision in Oregon v. Kennedy, 456 U.S. 667 (1982), we feel that it is necessary to begin our analysis of double jeopardy with a distinction between mere prosecutorial error and overreaching which “signals the breakdown of the integrity of the judicial proceeding, and represents the type of prosecutorial tactic which the double jeopardy clause was designed to protect us against.” Commonwealth v. Starks, 490 Pa. 336, 416 A.2d 498 (1980).
+In Commonwealth v. Simons, 514 Pa. 10, 522 A.2d 537 (1987) the court held that administrative error by a prosecutor is one thing; prosecutorial overreaching which triggers double jeopardy is another. In Commonwealth v. Starks, supra, prosecu-torial misconduct was divided into two types. The first type was designed to provoke a mistrial and the second was undertaken in bad faith to prejudice the defendant. A retrial was barred only if the plaintiff could prove bad faith or an intent to provoke a mistrial. This dual mistrial process was streamlined by Oregon, supra. The rule set out by the Supreme Court in Oregon, and the rule followed in Pennsylvania today as set forth in Commonwealth v. Simons, supra, will prevent a new trial only where planned misconduct is calculated to force a mistrial.
+The facts of this case clearly indicate that there was a prosecutorial error. Our decision, however, rests upon whether the error was intentional. Mitchell asserts that the prosecutor had interviewed Anderson previously and should have anticipated his testimony and that if he had not anticipated the answer, he should not have asked the question. Mitchell also asserts that the prosecutor should have known what was in the file. Based on these observations, Mitchell believes that his case is an appropriate one for dismissal.
+In our view, however, Mitchell has fallen short of bringing his case within the scope of the exception in Oregon v. Kennedy, supra. While persuasive but not controlling, the court in Merriweather v. United States, 466 A.2d 853, 856 (D.C. App. 1983) held, “It is one thing to show that the prosecutor was negligent in his pretrial investigation of his witnesses, but to say that such carelessness was part of a deliberate scheme to induce the defense to move for a mistrial is non sequitur.” Our findings of fact are as follows: In the present case we had a prosecutor trying only his second case, who admits that he negligently overlooked the police report in his file which showed Anderson’s previous identification of Mitchell. We believe such an oversight to be based on negligence or inexperience but hardly the intention to deceive. When questioned about his motives for asking the question which led to the mistrial, he responded that his only goal was to disclose the weaknesses in his own case. To further substantiate the lack of motive on the part of the prosecution, the facts indicate that Anderson’s identification of Mitchell was superfluous when the prosecution had several other witnesses to call, whom Mitchell knew about, who could have made positive identifications of Mitchell. Therefore, while we are satisfied that the record in this case does, in fact, show that the prosecutor was at least palpably negligent in the pretrial investigation of his witnesses, and that the prosecution could have operated more efficiently in preparing for trial, we do not believe that the record supports a finding of prosecutorial misconduct which would prevent a new trial, thus subjecting Mitchell to double jeopardy. As to the matter concerning Arthur’s trial, we feel that it is irrelevant to the matter before us. We feel that the Arthur matter is best left to another tribunal.
+ORDER OF COURT
+And now, August, 16, 1990, it is hereby ordered that the motion to dismiss for double jeopardy is denied.
