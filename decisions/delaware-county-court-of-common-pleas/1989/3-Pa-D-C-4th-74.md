@@ -1,0 +1,35 @@
+---
+court: "Delaware County Court of Common Pleas"
+docket: "no. 89-6010"
+decided: "1989-08-01"
+citations: ["3 Pa. D. & C.4th 74"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Getek v. City of Chester"]
+source_url: "https://static.case.law/pa-d-c4th/3/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1246144
+cites_cases: ["105 Pa. Commw. 250", "121 Pa. Commw. 470", "21 Pa. Commw. 203", "30 Pa. Commw. 307", "344 A.2d 734", "373 A.2d 788", "5 U.S.C. §552"]
+---
+
+# Getek v. City of Chester
+
+## Majority (DIGGINS, S.J.,)
+
+DIGGINS, S.J.,
+— Petitioners Andi Getek and Central States Publishing Inc., t/a Delaware County Daily Times, sought and were refused the right to examine, inspect and copy real estate appraisals of properties that respondents, the City of Chester and Mayor Willie Mae Leake, Councilman Michael Koterba, Councilman Stephen McKellar, Councilman William Waldron, Councilman Edward J. Zetusky Jr., and City Council of the City of Chester, acquired or were to acquire in connection with the City of Chester’s Resource Recovery Project. On May 1, 1989, petitioners filed an appeal from denial of right to examine, inspect and copy public records with this court. A hearing was held on May 15, 1989 at which time the court granted in part and denied in part petitioner’s request. We reasoned that the petitioner’s request fell into two different categories. The first category involves those properties where acquisition has not been complete. The information sought in this category might well be prejudicial to defendants in that the property owners might demand a higher price if they were privy to the appraisal information. We rightfully held that petitioner was not entitled to this information at this time.
+The second category involves properties that the city has already either settled on or entered into agreements of sale. These properties are for all intents and purposes completed. The effect of allowing access to these files can in no way prejudice the city’s position. The public is entitled to know what importance was placed on the appraisals and the methodology used.
+Respondents hired the Associated Real Estate Appraisal Group to appraise all properties between west of Montgomery, east of Flower, north of Delaware Avenue and south of Second Street with regard to the City of Chester’s Resource Recovery Project. Petitioners are interested in the methods employed by the appraiser, the details of the appraisals, and the opinions as to value set forth by the appraiser, for use in connection with petitioner Getek’s duties as a newspaper reporter for petitioner, Central States Publishing Inc., t/a Delaware County Daily Times. Respondents have denied petitioners the right to examine these appraisals, taking the position that these records fall within an exception to the “right to know” statute, 65 P.S. §66. Petitioners maintain that the records requested do not fall within any enumerated exception and that they are therefore entitled to examine, inspect and copy such records.
+The issue is whether or not the appraisals of these properties are public records as defined in 65 P.S. §66.1(2).
+“Public record” is defined as “[a]ny account, voucher or contract dealing with the receipt or disbursement of funds by any agency or its acquisition, use or disposal of services or of supplies, materials, equipment or other property and any minute, order or decision by an agency fixing the personal or property rights, privileges, immunities, duties or obligations of any person or group of persons ...” 65 P.S. §66.1(2).
+The statute also contains exceptions to this definition. “Under the Right to Know Act, the term public records does not include any report or paper which will disclose the institution, progress, or result of any investigations undertaken by any agency in the performance of its official duties, or which will operate to the prejudice or impairment of a person’s reputation or personal security . . . Furthermore, public records does not mean any paper or report to which access is prohibited, restricted or forbidden by statute.” Breinig v. Meyers, 105 Pa. Commw. 250, 252, 523 A.2d 1211, 1212 (1987), citing 65 P.S. §66.1(2).
+These appraisals fall under the statute’s definition of “public records.” The Associated Real Estate Appraisal Group had a contract with respondent City of Chester to appraise these properties so that the city could negotiate with the owners to acquire the properties. The information contained in these appraisals provides the basis for the determination of the appraisal price itself and should be available to the public. “A review of the relevant case law indicates that we have often found documents to be public records if they form the basis for an agency decision. ” Vartan v. Dept. of General Services, 121 Pa. Commw. 470, 476, 550 A.2d 1375, 1378 (1988). “We believe it in keeping with the spirit and intent of the Right to Know Law to construe ‘public record’ to include decisions which establish, alter, abolish or deny rights, privileges, immunities, duties or obligations; in short decisions which affect them.” Lamolinara v. Barger, 30 Pa. Commw. 307, 311, 373 A.2d 788, 790 (1977).
+The city raises three arguments:
+(1) Allowing petitioners to examine and copy these appraisals would be an invasion of the private rights of the owners of the individual homes.
+(2) Section 278(a)(3) of the Sunshine Act excludes real estate transactions from the public. 65 P.S. §278(a)(3); and
+(3) Disclosure of the appraisals would jeopardize future negotiations.
+As for the first argument, the Right to Know Act does not protect an individual’s private rights. “The Right to Know Act, however, contains no clause or provision to protect against the invasion of an individual’s privacy as does the federal Freedom of Information Act, 5 U.S.C. §552, and for us to equate a concept of privacy with the concept of ‘personal security’ would usurp the legislative prerogative of the General Assembly. . . . The concept of personal security, we believe, involves protection from personal harm rather than protection from an invasion of privacy.” Young v. Armstrong School District, 21 Pa. Commw. 203, 207, 344 A.2d 734, 740 (1975). Furthermore, these appraisals are for the properties and not upon the personal articles belonging to the individual owners.
+The Right to Know Act is not superseded by the Sunshine Act. The Sunshine Act provides that counsel can go into executive session to discuss purchase of real estate up to the time of purchase but it does not provide that they can keep secret which réal estate has been purchased and the purchase price of said real estate. 65 P.S. §66; 65 P.S. §278(a)(3).
+Finally, we believe that disclosure of the appraisals of properties that have already been acquired by the city and upon which negotiations are complete will not jeopardize any future negotiations between the city and the property owners.
+For all of the above reasons, we entered our order of May 17, 1989.
