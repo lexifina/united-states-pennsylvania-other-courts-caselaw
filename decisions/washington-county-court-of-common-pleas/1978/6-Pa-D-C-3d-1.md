@@ -1,0 +1,31 @@
+---
+court: "Washington County Court of Common Pleas"
+docket: "no. 507"
+decided: "1978-04-04"
+citations: ["6 Pa. D. & C.3d 1"]
+reporter: "pa-d-c3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Sweet, P.J., Gladden and Bell, JJ."]
+parties: ["Bartkowiak v. J.C. Penney Co."]
+source_url: "https://static.case.law/pa-d-c3d/6/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4606355
+---
+
+# Bartkowiak v. J.C. Penney Co.
+
+## Majority (SWEET, P.J.,)
+
+SWEET, P.J.,
+This is a case of first impression and authority is slim.
+We have proceedings before us in which Bartkowiak has sued Penney and Penney joined Wilson as additional defendant. The trespass action arises out of an alleged accident on April 21, 1974; the action against original defendant was executed by filing a praecipe for a writ of summons on April 21, 1976, the last day of the two-year statute of limitations. The period had run when the summons was served on original defendant. Long afterward original defendant joined Daniel H. Wilson as additional defendant and the complaint which was filed alleged that he was solely and/or jointly liable to plaintiffs, even though said joinder was accomplished after the expiration of the two-year statute of hmitations. It has been alleged that Wilson is uninsured and judgment-proof. He did not file any objections and in this action is uninsured.
+Concurrently with these developments and on April 21, 1976, plaintiffs sued this Daniel H. Wilson directly by a praecipe for a writ of summons. The prothonotary’s docket indicates that the writ was issued to the sheriff with instructions to serve Wilson. However, the sheriff made a return of “not found.” The writ has not been reissued, or service attempted on the Secretary of the Commonwealth.
+Now defendant comes in and by an unusual petition seeks to have plaintiffs forced to pursue their action against Daniel H. Wilson in the case at no. 508, March term 1976, wherein they sued Wilson directly. One judge of this court issued a rule and a timely response was filed. The matter comes before argument court of Washington County to determine whether we should compel the Bartkowiaks to perfect their action against Wilson so he can properly be held solely liable if the facts warrant the same.
+In the case at no. 507, March term, 1976, where Wilson is an additional defendant, if he ever recovers so as to be judgment-worthy or stirs from his lethargy he can have the averments by original defendant of his sole liability stricken upon motion. Only in the case at no. 508, March term 1976, can direct liability of Wilson to plaintiffs be determined.
+Petitioner’s argument is that a verdict against both defendants is in effect a verdict against Penney since Wilson in addition to being unrepresented is uninsured and impecunious, and that plaintiffs should not be allowed to profit by a situation which they themselves created by suing Penney on the last day of the two years, making it too late for Penney to join Wilson within the proper time frame.
+In plaintiffs’ brief the issue is phrased as follows: “May plaintiff be compelled to proceed with a seperate (sic) action in trespass against a person who may be jointly or severally liable to plaintiff when that person is not a necessary party?” Plaintiffs appraise the situation accurately when they say: “The plaintiffs suggest that petitioners are not interested in contribution, but instead they are interested in gaining a tactical advantage by placing a jury in a situation in which it can return a money judgment against Wilson alone. This would, of course, relieve petitioners of any liability whatsoever, and there would be no contribution.” Then plaintiffs turn subjective in their analysis and say: “Petitioner’s alleged concern for its right to contribution is spurious. Plaintiffs respectfully assert the court should refuse to assist petitioners in their attempt to gain tactical advantage under the guise of ‘equity’.” The subjective thrust of plaintiffs’ argument continues as follows from the brief: “If Wilson is solely responsible for the injuries to plaintiffs the verdict will be in favor of petitioner. Thus only by assuming the jury will find against petitioners when they are not liable to plaintiffs because the jury wants to give plaintiffs a recovery by making the rich corporate defendant pay can any reason be found to make the rule to show cause absolute. There is, however, no rational basis for making such unassumption [sic].”
+Penney’s brief ends: “These defendants urge this court to either compel the plaintiffs to reissue and serve the writ on the Secretary of the Commonwealth in the action against Wilson at No. 508, March term, 1976, as well as a complaint, or permit these defendants to do so, and to then consolidate these actions for trial, [sic]”
+I am very reluctant to grant the relief petitioner seeks here. It is the teaching of Lumley v. Gye, 2 E. & B. 216, 118 Eng. Rep. 749 (1853), that we should beware of the unsatisfactory nature of a coerced performance. What kind of complaint can we make Mr. Kusturiss draw that will satisfy all the complex requirements of pleading? How do we make him expend his client’s funds for the expense necessarily involved?
+On the other hand petitioners have a point. Plaintiffs have sued Wilson directly themselves within the period of limitations and it somehow seems unfair to allow the Bartkowiaks’ sloth in waiting to the last day of the two years to gain them an important procedural advantage. However, I think justice can be done in a better way here than to make the rule absolute. I would discharge the rule; consolidate the cases; and tell plaintiffs we will not allow the case on the trial list until the pleadings in the two cases are in shape to go ahead. Then the jury will have an absolutely fair pass at the thing. They will be able in the action at 507 to decide whether they wish to hold Penney or not; and in the action at 508 whether they wish to hold Wilson or not. They will be told (assuming the facts alleged are proved) that they can hold either, neither or both of defendants.
+It is so ordered.
