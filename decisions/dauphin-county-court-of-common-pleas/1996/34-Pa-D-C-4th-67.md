@@ -1,0 +1,33 @@
+---
+court: "Dauphin County Court of Common Pleas"
+docket: "no. 4152 S 1995"
+decided: "1996-09-11"
+citations: ["34 Pa. D. & C.4th 67"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fetterhoff v. Zalezak"]
+source_url: "https://static.case.law/pa-d-c4th/34/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635751
+cites_cases: ["112 S.Ct. 2952", "148 F.R.D. 140", "367 Pa. Super. 484", "504 U.S. 977", "518 Pa. 617", "529 Pa. 268", "541 A.2d 744", "659 A.2d 626"]
+---
+
+# Fetterhoff v. Zalezak
+
+## Majority (TURGEON, J.,)
+
+TURGEON, J.,
+On September 15, 1995, the plaintiffs filed a complaint against the defendant seeking various damages as a result of an automobile accident which occurred on November 15, 1993. It is alleged that defendant’s negligence caused plaintiff Christine Fetterhoff to suffer “severe and permanent injuries to her neck and back causing” chronic cervical sprain and strain, left shoulder rotator cuff tendinitis and cervical radiculopathy. (Complaint ¶11.) Plaintiff seeks, among other things, damages for future pain and suffering and diminution of her ability to enjoy life’s pleasures. (Complaint ¶¶ 14 and 16.) Plaintiff also seeks payment of her medical expenses. (Complaint ¶15.)
+During discovery, defendant received medical records from plaintiff’s providers indicating that plaintiff has a history of depression and that outside stresses may be a factor in the plaintiff’s persistent pak ln addition, defendant learned plaintiff had been referred to and treated by Thomas Fink Ph.D., of the Hershey Pain Management Center. Defendant requested copies of Dr. Fink’s records but was refused. Accordingly, on March 19, 1996, defendant filed a motion to compel the discovery of plaintiff’s psychological treatment records in the possession of Dr. Fink. Plaintiffs argue the records are privileged pursuant to section 5944 of the Judicial Code which recognizes a privilege of confidential communications between patients and their psychiatrists and licensed psychologists:
+“No psychiatrist or person who has been licensed under the Act of March 23, 1972 (P.L. 136, no. 52), to practice psychology shall be, without the written consent of his client, examined in any civil or criminal matter as to any information acquired in the course of his professional services in behalf of such client. The confidential communications between a psychologist or psychiatrist and his client shall be on the same basis as those provided or prescribed by law between an attorney and client.” 42 Pa.C.S. §5944.
+The defendant counters that the plaintiff has waived raising this privilege by putting her psychological condition at issue. Plaintiffs rely principally on a 1992 case in which I held that the psychiatrist/psychologist-patient privilege was absolute and not subject to waiver. McInnis v. John Wanamaker’s Inc., 112 Dauph. Rep. 130 (1992) (citing Commonwealth v. Kyle, 367 Pa. Super. 484, 533 A.2d 120 (1987), alloc. denied, 518 Pa. 617, 541 A.2d 744 (1988)). See also, Commonwealth v. Wilson, 529 Pa. 268, 602 A.2d 1290 (1992), cert. denied, 504 U.S. 977, 112 S.Ct. 2952 (1992). McInnis involved a civil lawsuit in which plaintiff alleged that in addition to the physical injuries she sustained from an escalator accident, she also suffered mental anguish, suffering and humiliation.
+However, as noted in an opinion issued last week, under recent appellate case law, the privilege is not absolute in civil actions, Nardella v. Datillo, nos. 1678 S 1994 and 2570 S 1994 (Dauph. C.P. Sept. 3, 1996), citing as follows:
+“[Sjince Mclnnis was decided, the Commonwealth Court has held that the privilege may be waived, in civil actions, ‘where the client places the confidential information at issue in the case.’ Rost v. State Board of Psychology, 659 A.2d 626, 629 (Pa. Commw. 1995) (citing Premack v. J.C.J. Ogar Inc., 148 F.R.D. 140 (E.D. Pa. 1993)). See also, Loftus v. Consolidated Rail Corp., 12 D.&C.4th 357, 359 (Cumb. C.P. 1991). Thus, it is controlling appellate law under Rost that where a plaintiff in a civil suit places his or her mental condition directly at issue, the privilege is waived as to that condition and the plaintiff must either consent to the disclosure of the information at issue or be precluded from pursuing claims related to his or her emotional and mental condition. Rost and Premack, supra. . . .
+“However, the scope of the waiver is not without limits. As stated in Premack, waiver extends only ‘as to those communications directly related to the incident [or condition] that is the subject matter of the litigation.’ Id. at 145.” Id. at 4, 5. In a footnote appended to this last sentence, I stated as follows:
+“Accordingly, insofar as McInnis held that waiver cannot occur in a civil action, it was overruled by Rost. However, the result in that case may have still been correct in that the mental condition alleged by the plaintiff was not an independent psychological injury but an allegation of general mental suffering of the type that often accompany such personal injury actions. See Nicholaides v. Weber at 261, 262 n.10 (Judge Wettick noted that his holding that a waiver under section 7111 of the Mental Health Procedures Act occurred where a plaintiff alleged severe emotional trauma requiring psychiatric treatment, did ‘not necessarily extend to a personal injury action in which there is no claim for mental health treatment and recovery is sought only for the emotional distress which is ordinarily associated with the injury.’)” Id. at 5 n.l.
+In this case, the allegations in the complaint indicate that plaintiff has not placed her psychological condition at issue. She has made no allegation of mental suffering beyond her pain and suffering claim and seeks no damages for mental health treatment. Plaintiff does not seek recovery for medical expenses associated with her treatment by Dr. Fink at the Hershey Pain Management Center. In her complaint, the plaintiff merely seeks recovery for normal pain and suffering damages commonly associated with her alleged injuries.
+Accordingly, we enter the following:
+ORDER
+And now, September 11, 1996, defendant’s motion to compel discovery of psychological treatment records is hereby denied.
+. The records indicate a history of depression and the prescription of Prozac, that plaintiff has “psychological issues which may be adding extra stress to this patient which could result in the worsening of spasms,” and that her treatment providers “feel that stress has played a roll (sic) in this patient’s syndrome.” (Defendant’s brief, exhibit A.)
