@@ -1,0 +1,48 @@
+---
+court: "York County Court of Common Pleas"
+docket: "no 97-SU-04076-01"
+decided: "1998-01-23"
+citations: ["41 Pa. D. & C.4th 50"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gorham v. Springettsbury Township"]
+source_url: "https://static.case.law/pa-d-c4th/41/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379031
+cites_cases: ["223 Pa. 148", "29 Pa. Commw. 171", "370 A.2d 438", "372 Pa. Super. 405", "418 Pa. Super. 178", "451 Pa. Super. 92", "483 A.2d 996", "678 A.2d 414", "72 A 516", "92 Pa. Commw. 242"]
+---
+
+# Gorham v. Springettsbury Township
+
+## Majority (KENNEDY,)
+
+KENNEDY,
+This matter is before the court on the preliminary objections in the nature of a motion to strike and in the alternative, a motion for a more specific pleading, filed by the defendants in response to the plaintiffs’ complaint. For the following reasons, we will overrule in part and sustain in part the defendants’ preliminary objections.
+FACTUAL AND PROCEDURAL BACKGROUND
+Plaintiff Cheryl Writer is the owner of improved property located at 920 Erlen Drive, Springettsbury Township, York, Pennsylvania and resides at such location with her husband, plaintiff Paul Gorham. Defendant Springettsbury Township operates a sanitary sewer system in the township that receives sewage affluent from within the township and other municipalities in York County. Defendant Springettsbury Township Sewer Authority constructed the said sanitary sewer system. Persons owning property in Springettsbury Township that have access to the sewer are compelled to hook up and pay service charges for the service provided by the system. Writer’s property is connected to the above system.
+In January of 1978, Writer’s property was inundated by 12 to 18 inches of raw sewage. On July 4, 1995, a sewage back-up occurred on Writer’s property, causing little or no damage. On January 23, 1996, four feet of raw sewage again flowed into Writer’s dwelling through the commode and sewer drains, causing damage to her basement and property owned by her and her husband Paul Gorham.
+The plaintiffs filed a complaint against the defendants on September 9, 1997 for personal property damage. The defendants filed preliminary objections on September 16, 1997 and submitted its brief in support thereof on September 26, 1997. The brief in opposition to the defendants’ preliminary objections was filed by the plaintiffs on October 3, 1997. This case is presently before this court for one-judge disposition pursuant to local Rule 6030.
+ANALYSIS
+The defendants have filed two preliminary objections to the plaintiffs’ complaint. First, the defendants filed a motion to strike paragraph 15 of the plaintiffs’ complaint on the basis that the damages sought by the plaintiffs are not recoverable under Pennsylvania law. In the alternative, the defendants filed a motion for a more specific pleading as to paragraph 15 of the plaintiffs’ complaint that sets forth the damages claimed. Each objection will be addressed in turn below.
+First, the defendants’ preliminary objections in the nature of a motion to strike paragraph 15 of the plaintiffs’ complaint is improper. In reviewing preliminary objections, only facts that are well-pleaded, material, and relevant will be considered as true, together with such reasonable inferences that may be drawn from those facts, and preliminary objections will be sustained only if they are clear and free from doubt. Santiago v. Pennsylvania National Mutual Casualty Insurance Co., 418 Pa. Super. 178, 613 A.2d 1235 (1992).
+The defendants contend that paragraph 15 of the plaintiffs ’ complaint should be stricken “for failure to conform to law as authorized by Pa.R.C.P. 1028(a)(2) in that plaintiffs seek to recover damages of a sentimental or personal attachment value and such damages are not recoverable under Pennsylvania law.” Defendants’ motion to strike, paragraph l.(a).
+The plaintiffs are able to seek damages for the loss of their personal belongings and personal effects. In Pennsylvania, damages for the injury to or destruction of property by the tortious conduct of another are awarded to compensate the injured party for the actual loss suffered. Daughen v. Fox, 372 Pa. Super. 405, 418, 539 A.2d 858, 864 (1988) (citing PennDOT v. Crea Estate, 92 Pa. Commw. 242,483 A.2d 996 (1977)).
+Additionally, the replacement cost as the measure of damages has been the long-established exception to the general rule of using the market value of property when determining the value of damaged property which is of a personal nature. Lynch v. Bridges & Co. Inc., 451 Pa. Super. 92, 95, 678 A.2d 414, 415 (1996). In support of its contention the court found that:
+“Many of the goods for which compensation is here asked were of such a character that their market value could not compensate for their loss, as, for instance clothing and other personal belongings. It cannot be said that they had no value in the open market, since at public auction they would most likely have brought something, but manifestly the price they would have there commanded would not represent their value to the owner . . . Where this is the case the just rule of damages is the actual value of the thing destroyed to him who owns it, taking into account its cost, the practicality and expense of replacing it, and such other consideration as in the particular case affect its value to the owner.” Id. (citing Lloyd v. Haugh & Kleenan Storage and Transfer Co., 223 Pa. 148, 156-57, 72 A 516, 518 (1909).
+Further, allowing for the recovery of the actual value of damaged property is embodied in the Pennsylvania standard jury charge as it relates to property damage. The standard charge in Pennsylvania relating to the entitlement of damages is as follows:
+“6.01J (Civ) Property Damage
+“The plaintiff is entitled to be compensated for the harm done to his (her) property. If you find that the property was a total loss, damages are to be measured by either its market value or its special value to the plaintiff, whichever is greater. . . .” Pa. SSJI (Civ) 6.01J.
+Presently, the plaintiffs seek recovery for the damage to their personal effects, such belongings being: photographs of their family, scrapbooks, autographs, baby clothes, various memorabilia representing times in their lives. The value of these items is not the market value; the value is the actual value to the plaintiffs, “taking into account its cost, the practicality and expense of replacing it, and such other consideration as in the particular case affect its value to the owner.” Lloyd, supra at 157, 72 A. at 518. Because the plaintiffs are legally entitled to recover for the special value placed upon their damaged property, the defendants’ motion to strike is overruled.
+Second, the plaintiffs should plead with greater specificity the value placed on the damaged articles of property in paragraph 15 of their complaint. The form in which damages are pled is governed by Pa.R.C.P 1019. Particularly, Rule 1019 reads:
+“(a) The material facts on which a cause of action or defense is based shall be stated in a concise and summary form. . . .
+“(f) Averments of time, place and items of special damage shall be specifically stated.” Pa.R.C.P 1019(a) and (f).
+Although greater specificity is required when pleading special damages, Pa.R.C.P. 1019(f), “[ajverments of damages may also be scrutinized under the. specificity requirements of Rule 1019(a).” PennDOT v. Shipley Humble Oil Company, 29 Pa. Commw. 171, 175, 370 A.2d 438, 441 (1977) (citing Rosenblum v. United Natural Gas Co., 14 D.&C.2d 239 (1958). (A complaint alleging just a total amount for losses to various items damaged in a fire was insufficiently itemized and should be amended to show the amount of damage to each of the articles listed.)
+In sustaining the defendants’ preliminary objections in the form of a more specific pleading, the Shipley court found that the defendants were entitled to an itemization of the alleged damages claimed by the plaintiffs consisting of the cost of repair of each type of property damaged. Further, the court reasoned that the “itemization requested by Mason in this case would impose no undue difficulty upon the plaintiff and would not render the complaint prolix.” Id. at 176, 370 A.2d at 441.
+Presently, the plaintiffs have placed a “value to them in excess of $10,000” on the items damaged. Although the plaintiffs have provided an exhaustive list of damaged personal effects, we are of the belief that there would be no undue difficulty imposed upon the plaintiffs, Shipley, supra, by having them itemize the amount claimed for each damaged article of personal property. Therefore, the defendants are entitled to greater specificity in the amount of damages claimed, and their motion for a more specific pleading is hereby sustained.
+CONCLUSION
+The defendants’ motion to strike paragraph 15 of the plaintiffs’ complaint on the basis that the damages claimed are not recoverable by law is incorrect and will be overruled. Next, the plaintiffs must state with more specificity the amount attributable to each item allegedly damaged by the defendants. Therefore, the defendants’ motion for a more specific pleading will be sustained.
+ORDER
+The defendants’ preliminary objections are hereby overruled in part and sustained in part.
+Plaintiffs shall have 20 days from the date of entry of this order in which to file an amended complaint.
+The prothonotary of York County shall provide notice of the entry of this opinion as is required by law.
