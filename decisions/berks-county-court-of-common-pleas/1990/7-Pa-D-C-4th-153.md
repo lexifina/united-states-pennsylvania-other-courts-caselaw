@@ -1,0 +1,46 @@
+---
+court: "Berks County Court of Common Pleas"
+docket: "no. 421"
+decided: "1990-07-16"
+citations: ["7 Pa. D. & C.4th 153"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dawson v. Atochem North America"]
+source_url: "https://static.case.law/pa-d-c4th/7/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8820774
+cites_cases: ["249 A.2d 563", "361 Pa. Super. 282", "387 Pa. Super. 95", "433 Pa. 317"]
+---
+
+# Dawson v. Atochem North America
+
+## Majority (SCHAEFFER, P.J.,)
+
+SCHAEFFER, P.J.,
+On February 23, 1988, plaintiffs Cyndi K. Dawson and Scott Dawson, her husband, filed a complaint against defendant Atochem North America. Count I of plaintiffs’ complaint contains a claim for damages based on negligence; count II contains a claim for damages based on strict products liability; count III contains a claim based on breach of warranties; and count IV contains a claim for loss of consortium.
+On April 27, 1988, defendant Atochem filed a complaint against additional defendant General Ecology Company, and Howard Billman, containing claims for indemnity and/or contribution. Plaintiffs also filed a complaint identical to that filed against Atochem against the additional defendant on May 20, 1988.
+Additional defendant General Ecology filed a motion for summary judgment against Atochem on November 1, 1989. Subsequently, on November 20, 1989, plaintiffs filed a praecipe to have this case marked discontinued or settled, removing plaintiffs from the case.
+General Ecology’s motion for summary judgment is now before this court for disposition.
+The facts of this case as adduced from the pleadings, depositions, and affidavits submitted may be briefly summarized as follows: On October 9, 1984, Cyndi Dawson, an employfee of Poole Plastics and Tooling Company, was operating a plastic injection molding machine manufactured by Atochem and containing a mold with its own ejection mechanism. Dawson was manually removing a molded plastic piece from the machine when suddenly the movable ejection mechanism retracted, catching three fingers of Dawson’s left hand in the ejection system, which caused serious injury.
+General Ecology was the owner or supplier of the mold and accompanying ejection mechanism involved in the accident. General Ecology, a manufacturer of water filters, contracted with Poole Plastics to produce the plastic canister component of General Ecology’s water filters. Poole Plastics, a plastics molding company, in turn contracted with Howard Billman to design and assemble a mold and ejection mechanism to produce General Ecology’s canisters. Billman designed the mold and accompanying ejection mechanism, and General Ecology became the owner of it. Poole had possession of it and used it to produce the plastic canisters for General Ecology.
+General Ecology contends that summary judgment in its favor should be granted since General Ecology cannot, as a matter of law, be held liable under the theories of strict products liability, breach of warranties and negligence. We agree.
+It is obvious that General Ecology cannot be found liable under a theory of strict products liability as embodied in section 402(a) of the Restatement (Second) of Torts. The threshold requirement of section 402(a) of the Restatement (Second) of Torts is that the defendant be engaged in the business of manufacturing or selling the culprit product. General Ecology is not a manufacturer or seller of mold/ejection mechanisms. Rather General Ecology is a manufacturer of water filters. Therefore, General Ecology could be found liable under section 402(a) for a dangerously defective water filter, but not for something it neither manufactured nor sold.
+Atochem argues that General Ecology should be held strictly liable as a manufacturer of a component part of its water filter and cites Burbage v. Boiler Engineering and Supply Co. Inc., 433 Pa. 317, 249 A.2d 563 (1968) in support thereof. We agree that component-part manufacturers can be found strictly liable where the facts provide for such liability; however, as discussed above, the instant case does not concern the manufacture or sale of its water filters, or a component part thereof. It concerns a piece of equipment used to make a component part of the water filter.
+Accordingly, General Ecology cannot as a matter of law be held liable under a theory of strict products liability.
+We also agree that General Ecology cannot be found liable on a breach of warranty theory.
+In Pennsylvania, breach of warranty actions are governed by the Uniform Commercial Code, 13 Pa.C.S. §§2313 and 2314, concerning express and implied warranties. In general, an action for breach of an express or implied warranty requires a sale or exchange of goods between the seller and buyer. Whitmer v. Bell Telephone Co. of Pa., 361 Pa. Super. 282, 291, 522 A.2d 584, 587-8 (1987). Here there is no evidence of a sale or exchange of the mold/ejection mechanism from General Ecology to plaintiff’s employer, Poole. Hence, General Ecology cannot, as a matter of law, be found liable under either theory of breach of warranty.
+Finally, General Ecology argues that it can not be found liable under a theory of negligence. We also agree with this contention.
+According to the Restatement (Second) of Torts §388:
+“One who supplies directly or through a third person a chattel for another to use is subject to liability to those whom the supplier should expect to use the chattel with the consent of the other or to be endangered by its probable use, for physical harm caused by the use of the chattel in a manner for which and by a person for whose use it is supplied, if the supplier:
+“(a) knows or has reason to know that the chattel is or is likely to be dangerous for the use for which it is supplied, and
+“(b) has no reason to believe that those for whose use the chattel is supplied will realize its dangerous condition, and
+“(c) fails to exercise reasonable care to inform them of its dangerous condition or of the facts which make it likely to be dangerous.”
+Comment (c) to section 388 of the Restatement (Second) of Torts defines a “supplier” as:
+“[A]ny person who for any purpose or in any mariner gives possession of a chattel for another’s use . . . sellers, lessors, donors, or lenders, irrespective of whether the chattel is made by them or by a third person.”
+There is sparse case law defining who may be a supplier. Recently, in Gray v. H.C. Duke & Sons Inc., 387 Pa. Super. 95, 111-2, 563 A.2d 1201, 1209 (1989), the Superior Court had occasion to rule on this issue. Gray involved an action for indemnity and/or contribution brought by defendant H.C. Duke & Sons Inc. against defendant Dairy Queen Inc. for injuries sustained by Dairy Queen employee Gray, while operating an ice cream machine manufactured by H.C. Duke & Sons Inc. according to Dairy Queen’s specifications and direction. On appeal to the Superior Court, Dairy Queen Inc. sought to have the award against it reversed for the reason that there was not sufficient evidence from which the jury could find that Dairy Queen Inc. was a supplier of the machine and'therefore liable under section 388 of the Restatement (Second) of Torts. The Superior Court disagreed with Dairy Queen and held that an employer may be found to be a supplier of a machine which injured an employee where the employer had significant ties with the manufacture, design, and modification of the machine and promoted its sale and distribution.
+Unlike Dairy Queen Inc.,, the pleadings, depositions, testimony, and affidavits submitted disclose no evidence that General Ecology Inc. had any significant ties to the design, manufacture, modification, sale or distribution of the mold and accompanying ejection mechanism. General Ecology Inc.’s sole input into the process was to provide the design of the product which the mold v^as to produce. General Ecology Inc. never saw the mold and accompanying ejection mechanism or had actual possession of the mold and accompanying ejection mechanism, even though General Ecology Inc. was in effect the “owner” of the mold in that General Ecology Inc. had paid Poole for the design and production of the mold. Therefore, we find that General Ecology Inc. is not a “supplier” subject to the liability of section 388 of the Restatement (Second) of Torts.
+CONCLUSION
+For all of the foregoing reasons, we find that additional defendant General Ecology Inc. is entitled to summary judgment against defendant Ato-chem North America. Accordingly, we enter the following
+ORDER
+And now,' July 16, 1990, upon consideration of additional defendant General Ecology Inc.’s motion for summary judgment against defendant Atochem North America Inc., briefs, affidavits, ..and depositions of testimony submitted, and after oral argument thereon, it appearing that there are no disputes as to any material facts, and that additional defendant General Ecology Inc. is entitled to judgment as a matter of law, it is hereby ordered that additional defendant General Ecology Inc.’s motion for summary-judgment is granted. Judgment is entered in favor of additional defendant General Ecology Inc. and against defendant Atochem North America Inc.
