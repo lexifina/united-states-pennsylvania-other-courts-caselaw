@@ -1,0 +1,28 @@
+---
+court: "Delaware County Court of Common Pleas"
+docket: "no. 2045"
+decided: "1954-11-03"
+citations: ["4 Pa. D. & C.2d 21"]
+reporter: "pa-d-c2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Woodruff et ux. v. Heavey"]
+source_url: "https://static.case.law/pa-d-c2d/4/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1613801
+cites_cases: ["28 Del. Co. 425", "328 Pa. 497"]
+---
+
+# Woodruff v. Heavey
+
+## Majority (Diggins, J.,)
+
+Diggins, J.,
+This is an action in assumpsit wherein the plaintiffs seek to recover from the defendant the sum of $1,000 on an alleged oral contract between the plaintiffs and defendant, a real estate broker.
+Plaintiffs allege that the broker made an unconditional parol promise that he would sell the plaintiffs’ home within 90 days of October 8, 1953, at not less than $11,500, thus providing to the plaintiffs funds with which to purchase a new home which the defendant was seeking to sell to them. Plaintiffs allege that they relied upon this alleged oral contract and entered into a formal agreement of sale for the purchase of a new home, depositing $1,000 hand money, and the plaintiffs assert that the defendant failed to provide a purchaser for their original home as a result of which they we«-e compelled to default in the agreement to buy the second property and suffered the loss of their $1,000 deposit which was declared forfeit under the formal agreement of sale.
+Defendant filed preliminary objections to. the complaint in the nature of a demurrer, averring that the agreement of sale which the plaintiffs signed was the entire agreement between the parties and that there were no other collateral or oral agreements or understandings, and points for such authority to a clause in the agreement between the plaintiffs and the owners of the house which the plaintiffs sought to purchase, and also points to the fact that in that agreement, Heavey’s partner, Kenyon, was acting as agent only and as provided in that agreement is not to be held liable to either party for the performance or nonperformance of any of the terms of that contract or for damages for the nonperformance thereof, and makes the further defense that if the defendant, Heavey, did assure the plaintiffs that he could sell their home, there was no consideration and hence no binding agreement.
+We think the preliminary objections should be dismissed. The first two defenses which are raised by the preliminary objections in the nature of a demurrer have to do with matters between the plaintiffs herein and the . owners of the second property and we think have no pertinency whatever in the present case. Here the plaintiffs are alleging that because of a separate parol < contract between them and the defendant, Heavey, they suffered damages to the extent of $1,000 by reason of default on the written contract. If therefore the plaintiffs had a binding contract between themselves and Heavey, and if Heavey defaulted, and if as a result of that default, they were damaged, then the plaintiffs are entitled to recover regardless of Heavey’s liability to anyone on the written contract. The plaintiffs do not sue on the formal contract of October 8, 1953, for the purchase of the new home. They merely attach it to their pleadings as an exhibit to show the manner in which their damages were brought about.
+The third reason asserted by the defendant in his preliminary objections, to wit, that there was no consideration for the promise to sell plaintiffs’ property and therefore no contract, while unlike the first two, it would if true apply in the present action and might provide a defense, however, the facts do not support the conclusion under the law. It would appear that there was consideration. The A. L. I. Restatement of the Law of Contracts, §90, reads as follows: “A promise which the promisor should reasonably expect to induce action or forebearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise,” which restatement was approved by the Supreme Court of Pennsylvania in an opinion by Mr. Justice Stern (now chief justice) in Fried v. Fisher, 328 Pa. 497, and the same proposition of law was the subject of discussion in the case of Miller v. Chester-Cambridge Bank and Trust Company, 28 Del. Co. 425, in an opinion by Judge Fronefield wherein it was pointed out that in order to prevent the too loose application of the foregoing doctrine, three elements should be present: (a) That the promise be one likely to induce action, (b) that such action be of a definite and substantial character, and (c) that the circumstances be such that injustice can be avoided only by the enforcement of the promise.
+Wé think all three of those elements are present in this case. Such a promise would certainly be likely to induce the plaintiffs to enter into the agreement to purchase the new home and to make the necessary deposit, and since the deposit was the sum of $1,000, it is both definite and substantial in character, and the circumstances thereof are such that injustice can be avoided only by the enforcement of the promise here alleged to have been made, the injustice to be avoided being of course the loss of plaintiffs’ $1,000, and therefore we make the following
+Order
+And now, to wit, this 3rd day of November, 1954, the preliminary objections in the nature of a demurrer filed in the above entitled matter be and the same are hereby dismissed and the defendant is given leave to file an answer on the merits within 20 days.
