@@ -1,0 +1,23 @@
+---
+court: "Dauphin County Court of Common Pleas"
+decided: "1867-12-17"
+citations: ["1 Pears. 375"]
+reporter: "pears"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Commonwealth of Pennsylvania v. The Baltimore Coal Company."]
+source_url: "https://static.case.law/pears/1/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814555
+---
+
+# Commonwealth v. Baltimore Coal Co.
+
+## Majority (By the Court.)
+
+By the Court.
+The defendant was in the first instance incorporated by the legislature of Maryland. It afterwards, by the act of 23d of April, 1841, obtained permission to carry on business and hold real property within the State of Pennsylvania; and it may well be questioned whether by that statute our legislature did not also create it a corporation of Pennsylvania, as the common and apt words for that purpose are used in the act of Assembly. But that point need not be decided in this case. In accepting the provisions of the law this company agree to pay a'tax of eight per cent, on all dividends made of six per cent, per annum or upwards, and the power was reserved for the legislature “to alter, revoke, or annul the privileges granted by the act.” There is not even an intimation given that the franchises of this company shall not be subject to future taxation, should such be imposed by law. At that time nearly all of the corporations of Pennsylvania paid a tax on their dividends; and on 20th April, 1844, a tax on their capital stock was also imposed.
+By the act of 12th April, 1859, the tax on dividends was taken off all institutions or companies except banks, as therein described, and a tax on their capital stock, regulated in part by the amount of dividends, was alone imposed. Whether this company did or did not avail itself of the provisions of that act, or whether it ever paid a tax on its capital stock under the act of 1844, is not in proof. On the 30th of April, 1864, an act was passed imposing an additional tax of three per centum per annum on the net earning of every company or corporation doing business within this commonwealth, except those paying a tax on dividends; and as this law is very general in its terms, embracing all companies or corporations, it includes the present defendant, unless it continued to pay a tax on its dividends, or was liable to make such payment. There is no doubt of the power of the legislature to tax this company, authorized by our laws to carry on business within the State, in the same manner that it could one incorporated by Pennsylvania alone; and we are of the opinion that it was relieved of the tax on its dividends by the act of 1859 already cited. That law absolves all institutions- or companies within the State from a tax on dividends, whether incorporated by Pennsylvania or some other State, except the banks, as therein excepted; and consequently, they come within the very letter and intention of the act of 1864, imposing a tax on .their net profits. It has been urged that no alteration was designed in the charter of this company by a general law, which did not in terms embrace or mention it; that no private charter should be construed to be changed by a general law applying to corporations at large. Such must be conceded to be the principle heretofore applied in the construction of statutes; but in Pennsylvania tax laws appear from several recent decisions to form an exception to the general rule. In The Iron City Bank v. The City of Pittsburg (37 Penna. 340), it was held that a bank was subject to taxation under a general law, although by the terms of its charter it was entitled to a special exemption until a certain event. In The Commonwealth v. The Nailroad Company, a provision that the corporation should pay no tax to the commonwealth until certain dividends were made to the stockholders, was overridden by a general law taxing railroad companies within the State. This was claimed to be valid on the ground that the charter could be changed by the legislature; and it must have been presumed to be the intention of the general law, although there was no special reference to the charter of this company. The present case is infinitely stronger than either against this coal company, which has by the accounting department been very properly subjected to a tax on its net earnings under a general law, and has been exonerated from a tax on its dividends under a like statute.
+Meredith, for plaintiff.
+AlrioJcs, for defendant.
+Your verdict must be rendered in favor of the commonwealth for $2226.72, without interest.
