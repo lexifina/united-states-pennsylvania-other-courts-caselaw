@@ -1,0 +1,26 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "no. 4847"
+decided: "2006-01-26"
+citations: ["1 Pa. D. & C.5th 315"]
+reporter: "pa-d-c5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benson v. Caldwell"]
+source_url: "https://static.case.law/pa-d-c5th/1/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3827560
+cites_cases: ["365 Pa. Super. 271", "507 Pa. 592", "704 A.2d 180", "718 A.2d 1274", "732 A.2d 619", "813 A.2d 6", "882 A.2d 488"]
+---
+
+# Benson v. Caldwell
+
+## Majority (BONAVITACOLA, J.,)
+
+BONAVITACOLA, J.,
+In the early afternoon of November 17,2002, plaintiff Deborah Benson was struck on her head when pieces of her bathroom ceiling fell on her. There was no bleeding or cuts. Her chief complaints were headaches and back pain. The incident occurred in the apartment she rented from defendant Richard Caldwell. A jury trial held on June 22, 2005, resulted in an award of $14,000 in economic damages and $50,000 in noneconomic damages for Benson. Subsequently, the parties filed post-trial motions and on October 19, 2005, the court issued an order granting Caldwell’s motion for a new trial and denying Benson’s motion for delay damages. This opinion clarifies that order.
+The decision to grant a new trial lies within the sound discretion of the trial court. Duncan v. Mercy Catholic Medical Center of Southeastern Pennsylvania, 813 A.2d 6, 9 (Pa. Super. 2002). “A new trial should be ordered whenever the exercise of careful discretion sounds the presence of an injustice . . . .” Thompson v. City of Philadelphia, 507 Pa. 592, 598, 493 A.2d 669, 672 (1985). In this matter, a prejudicial exhibit created the injustice as evidenced by the jury award of $50,000 in noneconomic damages, which appears disproportionate to the alleged injuries, as well as the course of treatment over four months, which appears likewise incommensurate with the alleged injuries.
+The offending exhibit, marked as P-7, was a two-foot by four-foot panel of sheetrock. This sheetrock was displayed in the courtroom throughout the one-day trial, based on plaintiff’s pretrial representations to the court, N.T., 66-68, but was never received into evidence, N.T., 74. During Benson’s counsel’s opening statement, the sheetrock was presented to the jury, N.T., 7, and Benson’s counsel indicated a piece of sheetrock as large as the exhibit fell on her, N.T., 8, 9. The sheetrock was highlighted and displayed prominently during Benson’s testimony, both when she initially testified that she was hit by a two-foot by four-foot piece of sheetrock, N.T., 22, and also when she indicated that she was not hit by apiece that size, N.T., 36. On cross-examination, Benson conceded that the sheetrock that actually fell on her was not the same size as the sheetrock on display in the courtroom, N.T., 39-40.
+To analyze the effect of the sheetrock, the court is guided by cases on evidence. Cf. Commonwealth v. Parker, 882 A.2d 488 (Pa. Super. 2005) (lacking clear law on use of demonstrative evidence during opening statement, the court examined cases on admissibility of evidence). Under the Rules of Civil Procedure, evidence is excluded if its probative value is outweighed by the danger of unfair prejudice. Pa.R.C.P. 403. Since the two-foot by four-foot panel of sheetrock presented an inaccurate representation of the cause of Benson’s injuries, its use and display was prejudicial. See Leahy v. McClain, 732 A.2d 619, 624-25 (Pa. Super. 1999) (admitting exhibits that contradict testimony would be highly prejudicial); Alt v. Franceski, 68 D.&C.4th 241, 256-57 (Lacka . Cty. 2004) (admitting exhibits that do not show actual damage would be prejudicial).
+Although the court gave curative instructions at the conclusion of Benson’s testimony, N.T., 63, the prejudicial effect of the sheetrock exhibit was not adequately remedied. Clearly the sheetrock was “pertinent to a substantial portion of the case,” Boscia v. Massaro, 365 Pa. Super. 271, 278, 529 A.2d 504, 507 (1987), as Benson’s counsel referred to the exhibit during his opening remarks, utilized it as an aid during Benson’s testimony and placed it in full view of the jury throughout the duration of the trial. Benson’s counsel understood the influence of the sheetrock on the jury, as he sought to introduce the exhibit into evidence subsequent to both the court’s curative instructions and a discussion, between both attorneys and the court outside of the jury’s presence, that resulted in the exclusion of a witness solely because admission of the exhibit was a prerequisite to his testimony, N.T., 64-69. An assessment of the curative instructions against the impact of the sheetrock exhibit leads to a determination that indelible prejudice had occurred and that a new trial is warranted. Siegel v. Stefanyszyn, 718 A.2d 1274, 1277 (Pa. Super. 1998); see also, Lee v. SEPTA, 704 A.2d 180, 183 (Pa. Commw. 1997) (“the cumulative effect of the prejudicial [exhibit] outweighed the cumulative effect of the cautionary instructions ....”).
+. Sheetrock is a trade word used to describe a gypsum substance sandwiched between heavy paper and, depending upon where used, range in thickness from 1/8 inch to 1 1/2 inches.
