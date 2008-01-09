@@ -1,0 +1,39 @@
+---
+court: "Montgomery County Court of Common Pleas"
+docket: "no. 0999-2007"
+decided: "2008-01-09"
+citations: ["2 Pa. D. & C.5th 170"]
+reporter: "pa-d-c5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Terzano"]
+source_url: "https://static.case.law/pa-d-c5th/2/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3828787
+cites_cases: ["799 A.2d 860"]
+---
+
+# Commonwealth v. Terzano
+
+## Majority (HODGSON, P.J.,)
+
+HODGSON, P.J.,
+Patrick Terzano (appellant) appeals to the Superior Court of Pennsylvania from the judgment of sentence imposed on him by this court on November 26, 2007.
+FACTS AND PROCEDURAL HISTORY
+On March 4,2006, Officer Richard J. Stegman of the Pennsylvania State Police, Bureau of Liquor Control Enforcement, having received a complaint regarding an establishment unlawfully selling liquor without a license, arrived at the Creekside Cabaret in Hatfield Township, Montgomery County at approximately 11:45 p.m. After paying a $20 cover charge, Stegman entered the premises and walked into a separate gentleman’s club known as Up the Creek, which is located within Creekside Cabaret. When Stegman reached the bar, he was informed by an unidentified female bartender that in order to purchase beer, he would have to pay a five dollar lifetime membership fee and sign his name along with a four-digit number in a book. Immediately following their conversation, Stegman entered an alias in a book and bought one beer for $4. Thereafter, Stegman met with appellant, who informed him that he owned the liquor, beer and wine on the premises but that it was intended for wine tasting purposes only.
+Appellant was subsequently arrested and charged with unlawfully selling liquor, in violation of 47 P.S. §4-491(1). Appellant waived his right to a trial by jury and a bench trial was held on November 26,2007, after which this court found him guilty of said charge. Appellant subsequently appealed the order of this court on November 29, 2007. In accordance with Rule 1925(b) of the Pennsylvania Rules of Appellate Procedure, we directed appellant to file a concise statement of matters complained of on appeal. Said statement was filed on December 17, 2007.
+LEGAL DISCUSSION
+Appellant raises the following issues on appeal:
+I. This court erred in permitting the Commonwealth to introduce hearsay evidence; specifically, testimony concerning out-of-court statements made at the scene of the investigation by an unidentified female bartender.
+II. The evidence introduced at trial, even if viewed in a light most favorable to the Commonwealth as the verdict-winner, was insufficient to establish defendant’s guilt beyond a reasonable doubt on the charge of the unlawful sale of liquor.
+I. Hearsay Evidence
+Appellant argues that this court erred in admitting testimony regarding the statements made by an unidentified female bartender who served Stegman at Up the Creek on March 4, 2006. Appellant maintains that such testimony constitutes impermissible hearsay.
+Hearsay is defined as “a statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.” Pa.R.E. 801. Such statements are inadmissible unless they fall within an exception provided under the Pennsylvania Rules of Evidence. One such exception includes admissions made by a party-opponent. A statement of this nature is admissible against a party if it is made by the party’s agent or servant concerning a matter within the scope of the agency or employment and is made during the existence of the relationship. Pa.R.E. 803(25)(D).
+In the instant case, an unidentified female bartender encountered Stegman on March 4,2006 and informed him that in order to purchase beer, he would have to pay a $5 lifetime membership fee and sign his name in a book. At trial, appellant testified that he employed a female bartender to perform taste-testing exhibitions of the wine, beer and spirits that he produced. He further stated that on days she was unable to work, Brandy Albertini, who was another bartender he hired, would fill-in. Moreover, appellant admitted that he instructed a fee to be charged to all patrons who participated in the taste-testing experiments. This is supported by John McCusker’s testimony, who is an owner and general manager of Creekside Cabaret. At trial, McCusker stated that appellant employed two women who worked behind the counter at Up the Creek where there was wine and liquor kept. We find that this testimony establishes beyond a reasonable doubt that the unidentified female bartender who served Stegman on March 4,2006 was employed by appellant. Furthermore, her statements made on that evening directly relate to the scope of her employment since pursuant to appellant’s directions, she informed Stegman that before purchasing a beer, he would have to pay a fee. Although such statements are hearsay, we are able to determine that the unidentified woman was appellant’s agent since he testified on direct examination that he employed two women to work for him by serving alcoholic beverages he produced and such testimony was corroborated by additional evidence. On this basis, the statements made by the unidentified female bartender were properly admitted as an admission pursuant to Pa.R.E. 803(25)(D).
+II. Sufficiency of the Evidence
+Appellant also maintains that there was insufficient evidence presented at trial to establish his guilt beyond a reasonable doubt. In the instant case, appellant was found guilty of unlawfully selling liquor without a license, in violation of 47 P.S. §4-491(1), which provides:
+“It shall be unlawful [f]or any person, by himself or by an employe or agent, to expose or keep for sale, or directly or indirectly, or upon any pretense or upon any device, to sell or offer to sell any liquor within this Commonwealth, except in accordance with the provisions of this act and the regulations of the board.” 47 P.S. §4-491(1).
+In considering whether there is sufficient evidence to sustain appellant’s verdict, all evidence admitted at trial must be viewed in a light most favorable to the verdict winner and it must thereafter be determined if such evidence is sufficient “to enable the fact-finder to find every element of the crime charged beyond a reasonable doubt.” Commonwealth v. Davis, 799 A.2d 860, 865 (Pa. Super. 2002).
+In the instant case, appellant admitted at trial that he offered alcohol to patrons of Up the Creek. However, he maintained that in doing so, he was conducting taste-testing experiments of the alcohol he was serving. In support of his assertion, appellant claimed that food was offered to patrons and that surveys and information sheets were submitted to them for their opinions. Although a fee was charged in connection with serving the beverages, appellant asserted that such fees were intended to cover incidental costs in conducting his experiments and were not for profit-gaining purposes. However, Stegman testified that when he purchased a beer from Up the Creek on March 4,2006, he was not asked any questions concerning his beverage nor was he offered any food. Moreover, Stegman’s investigation did not uncover any question sheets or surveys pertaining to taste-testing experiments. Such testimony, which we find credible, establishes that the transaction that occurred on March 4, 2006 was a money-for-beer exchange which constitutes a sale of alcohol. Notwithstanding appellant’s testimony, there is no evidence presented which supports his contentions that he provided a taste-testing exhibition. On this basis, we find that appellant’s guilty verdict was properly supported by the evidence produced at trial.
+CONCLUSION
+Based on the foregoing, the undersigned respectfully requests that the instant appeal be dismissed.
