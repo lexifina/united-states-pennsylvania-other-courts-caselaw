@@ -1,0 +1,53 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "no. 02512"
+decided: "2008-02-20"
+citations: ["3 Pa. D. & C.5th 53"]
+reporter: "pa-d-c5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Osborne-Davis Transportation Co. Inc. v. Mothers Work Inc."]
+source_url: "https://static.case.law/pa-d-c5th/3/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3829381
+cites_cases: ["196 A. 39", "29 F.3d 821", "328 Pa. 497", "560 Pa. 394", "560 Pa. 600", "745 A.2d 606", "747 A.2d 358", "797 A.2d 322"]
+---
+
+# Osborne-Davis Transportation Co. v. Mothers Work Inc.
+
+## Majority (BERNSTEIN, J,)
+
+BERNSTEIN, J,
+When plaintiff Osborne-Davis Transportation Co. Inc. filed this action against defendant Mothers Work Inc. in February, 2007, Osborne-Davis demanded a jury trial. In its complaint, Osborne-Davis asserted one claim for “promissory estoppel” against Mothers Work. Mothers Work filed a motion to strike plaintiff’s jury demand on the basis that promissory estoppel is an equitable claim to which no right to jury trial attaches. In response, Osborne-Davis argues that its “promissory estoppel” claim is a contract claim, and is entitled to have a jury hear it.
+In support of its claim Osborne-Davis alleges it previously had a written contract with Mothers Work to provide delivery and transportation, i.e., trucking, services (the prior contract).
+“On April 30, 2005, [the prior contract] expired according to the term period of the agreement, and Osborne-Davis Inc. and Mothers Work did not renew in writing the [prior contract].
+“From on or about May 1,2005 to February 14,2006, Mothers Work through verbal discussions and conduct, by [its] agents, servants and employees acting in the course of business encouraged Osborne-Davis Inc. to continue to perform the same exclusive delivery and transportation services to Mothers Work as generally set forth in [the prior contract].”
+Osborne-Davis further claims that to continue providing delivery and transportation services to Mothers Work after the prior contract expired, Osborne-Davis needed to buy new trucks and upgrade its existing equipment. It thereby incurred expenses and suffered financial losses in reasonable reliance “upon the verbal assurances, conduct and forbearance on the verbal promises and conduct of Mothers Work to continue and perform the deliveries for Mothers Work” after the prior contract terminated. Osborne-Davis claims only monetary damages for the additional costs it incurred as a result of its reliance on Mothers Work’s promises that the parties’ relationship would continue.
+Osborne-Davis has pled a claim for promissory estoppel. Under promissory estoppel: “[a] promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.”
+Osborne-Davis claims that its damages were incurred after the prior contract terminated and in reliance upon Mothers Work’s representations that the parties’ relationship would continue for some indefinite time.
+The Supreme Court has explained that promissory estoppel is a cause of action based on equitable principles.
+“Historically speaking, equity validated and enforced promises predicated on what we now label ‘promissory estoppel’ centuries before bargained-for consideration was conceived. What is presently referred to as ‘equity’ originated in 1349, when Edward III by a general writ referred all matters as were within the king’s divine ‘prerogative of grace’ to the chancellor for adjudication. This general authority (prerogative of grace) required the chancellor to base all decisions on the principles of ‘conscience, good faith, honesty and equity.’ If someone had committed any unconscientious act or breach of faith and the ‘rigour of the law’ favored that party, then the other party who suffered thereby would be granted corrective relief ‘under the head of conscience.’ With its source in that writ, the ‘good faith’ basis of promissory estoppel was subsequently recognized and applied by American courts.
+“Based on good faith and conscience, chancery, during the fourteenth and fifteenth centuries, applied the four principles (which are commingled and now referred to as ‘equity’) and gave ‘promissory estoppel’ relief to plaintiffs who had incurred detriment on the faith of a defendant’s promise....
+“[The Pennsylvania Supreme Court], in 1938, recognized the equitable basis of promissory estoppel and its origins in the more ancient concept of equitable estoppel:
+“Just as the law has consistently upheld the doctrine that, under given circumstances, a person may be es-topped by his conduct, his statements, or even his silence, if another has thereby been induced to act to his detriment, so from the earliest times there was recognized the principle that an estoppel might similarly arise from the making of a promise, even though without consideration, if it was intended that the promise be relied upon and in fact it was relied upon.... The basis of promissory estoppel is not so much one of contract, with a substitute for consideration, as an application of the general principle of estoppel to certain situations. It is important to bear in mind that, as already pointed out, the doctrine is much older in its origin and applications than the terminology now employed to describe it.”
+Although Osborne-Davis’ promissory estoppel is rooted in equity, that historical fact does not prevent factual determinations from being a jury question. The Pennsylvania Supreme Court has decided that a plaintiff is entitled to a jury trial on a promissory estoppel claim. When the Supreme Court first held that the doctrine of promissory estoppel was cognizable in Pennsylvania, the court affirmed a judgment entered on the verdict of a jury. The court in Crouse v. Cyclops Industries, 560 Pa. 394, 403, 745 A.2d 606, 610 (2000), remanded a promissory estoppel claim for a jury trial holding that for statute of limitations purposes, a promissory estoppel claim is a breach of contract claim.
+“As promissory estoppel is invoked in order to avoid injustice, it permits an equitable remedy to a contract dispute. Thus, as promissory estoppel makes otherwise unenforceable agreements binding, the doctrine sounds in contract law and we hold that, like other contract actions, . . . the limitations period where an agreement is enforceable under the doctrine of promissory estoppel is four years.”
+When asked to decide whether promissory estoppel is an equitable or a legal claim for jury trial purposes, the Federal Court of Appeals for the Second Circuit made a reasonable distinction between different types of promissory estoppel based upon the remedy sought:
+“The protean doctrine of promissory estoppel eludes classification as either entirely legal or entirely equitable, and the historical evidence is equivocal. It is clear, however, that both law and equity exert gravitational pulls on the doctrine, and its application in any particular case depends on the context in which it appears. For example, where a plaintiff sues for contract damages and uses detrimental reliance as a substitute for consideration, the analogy to actions in assumpsit (law) is compelling. By contrast, when the plaintiff uses promissory estoppel to avoid a draconian application of the Statute of Frauds, the pull of equity becomes irresistible.”
+The Circuit Court’s reasoning, comports with Pennsylvania law, “[t]he equity jurisdiction of Pennsylvania courts is triggered only when an adequate remedy is not available at law,” “[i]t is axiomatic that the right to a jury trial applies to breach of contract claims requesting only monetary damages.” Osborne-Davis is entitled to have a jury decide the factual questions presented by its promissory estoppel claim.
+Osborne-Davis is entitled to a jury determination of facts because it has asserted a quasi-contract claim for monetary damages only. Mothers Work’s motion to strike plaintiff’s demand for jury trial is denied.
+ORDER
+And now, February 20, 2008, in accordance with the court’s opinion issued simultaneously, it is ordered that defendant’s motion to strike plaintiff’s demand for a jury trial is denied.
+. Complaint, ¶10.
+. Id., ¶20.
+. Complaint, ¶22.
+. Id., ¶¶24-26.
+. Id, ¶28.
+. Kreutzer v. Monterey County Herald Company, 560 Pa. 600, 606, 747 A.2d 358, 361 (2000), citing Restatement (Second) Contracts §90 (1981).
+. Kreutzer, 560 Pa. at 604-606, 747 A.2d at 361 (2000). (citation omitted)
+. Fried v. Fisher, 328 Pa. 497, 499-500, 196 A. 39, 41 (1938) (“Although there are assignments of error to portions of the [jury] charge, the case presented on appeal to this court is confined by the statement of the question involved to plaintiff’s contention that binding instructions should have been given in his favor. While, perhaps, some of the learned trial judge’s charge as to the law governing consideration in contracts might be open to academic criticism, the point upon which the case really turns is whether [defendant] can enforce plaintiff’s promise to release him from further liability under the lease.”).
+. Id. 560 Pa. at 398, 745 A.2d at 608 (“The issue presently before this court is whether the Superior Court erred in finding that appellants’ complaint was untimely filed. At the conclusion of a three-day trial, the jury returned a verdict for appellants on their claim for promissory estoppel which the Superior Court reversed as barred by the statute of limitations. For the reasons stated below, we find that the statute of limitations on an action sounding in promissory estoppel is four years and that, under the facts of this case, the question of when the appellants knew or should have known of a breach by the appellees is a question of fact which should have been submitted to the jury. We therefore affirm the Superior Court as to the applicable statute of limitations, but reverse and remand to the trial court for a new trial on the singular issue of promissory estoppel, including a jury determination as to when the statute of limitations period began to run.”).
+. Merex A.G. v. Fairchild Weston Sys., 29 F.3d 821, 825 (2d Cir. 1994).
+. Petrecca v. Allstate Insurance Co., 797 A.2d 322, 326 (Pa. Super. 2002).
+. Id., 797 A.2d at 325.
+. If equitable relief had been sought those claims could be heard by an “advisory” jury only.
