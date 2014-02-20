@@ -1,0 +1,53 @@
+---
+court: "Philadelphia County Court of Common Pleas"
+docket: "302"
+decided: "2014-02-20"
+citations: ["38 Pa. D. & C.5th 1"]
+reporter: "pa-d-c5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of Stevenson"]
+source_url: "https://static.case.law/pa-d-c5th/38/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4310971
+cites_cases: ["131 A.2d 133", "388 Pa. 644", "540 Pa. 409", "574 A.2d 649", "658 A.2d 341", "719 A.2d 1101", "858 A.2d. 1226", "893 A.2d 99"]
+---
+
+# Estate of Stevenson
+
+## Majority (O’KEEFE, J,)
+
+O’KEEFE, J,
+— On April 22, 2013, Raquel Stevenson, mother of Desiree Stevenson (decedent) and the administratrix of her estate (appellee), filed a motion to approve a wrongful death and survival action naming herself as the only beneficiary of decedent’s estate. Jesse Evans, decedent’s father, (appellant) filed an answer on May 13, 2013, claiming that he was also a beneficiary of decedent’s estate. After a full evidentiary hearing on August 19, 2013, as well as written briefs submitted by both parties, on November 25, 2013, this court granted appellee’s motion with the allocations she requested. On December 3,2013, appellant filed a motion for reconsideration that was denied on December 13, 2013. Appellant now appeals the November 25, 2013, order granting appellee’s wrongful death/survival action motion.
+Facts and Procedural History
+The decedent died on March 9, 2009, at the age of 10, from alleged medical malpractice stemming from the failure of Albert Einstein Medical Center staff to diagnose and treat her viral myocarditis (heart infection). Decedent presented to the hospital with vital signs consistent with a serious heart problem but was left waiting in the emergency room for over an hour after being seen by the attending physician. After being placed on a monitor and having an IV started, lidocaine was ordered but was not administered for another half-hour. After decedent was finally given the lidocaine, she coded five minutes later and died after attempts at CPR were unsuccessful.
+After the lawsuit was filed, appellee filed for bankruptcy. The Bankruptcy Trustee filed a petition to have Teresa Colleran-Quinn, Esquire, appointed to prosecute the litigation and she obtained a $1.9 million settlement.
+Appellee claims that she is the only wrongful death beneficiary because appellant, decedent’s father, was never involved in decedent’s life. Appellant responded in his answer that appellee told him that decedent was not his child. Appellee claims that appellant denied paternity.
+Legal Analysis
+The following standard of review applies to the orphans’ court:
+In reviewing the orphans’ court’s findings, our task is to ensure that the record is free from legal error and to determine if the orphans’ court’s findings are supported by competent and adequate evidence and are not predicated upon capricious disbelief of competent and credible evidence.
+When the trial court has come to a conclusion through the exercise of its discretion, the party complaining on appeal has a heavy burden. Paden v. Baker Concrete Construction, Inc., 540 Pa. 409, 412, 658 A.2d 341, 343 (1995). “It is not sufficient to persuade the appellate court that it might have reached a different conclusion if, in the first place, charged with the duty imposed on the court below; it is necessary to go further and show an abuse of the discretionary power.” Id. “An abuse of discretion is not merely an error of judgment, but if in reaching a conclusion the law is overridden or misapplied, or the judgment exercised is manifestly unreasonable, or the result of partiality, prejudice, bias or ill-will, as shown by the evidence [of] record, discretion is abused.” Id. A conclusion or judgment constitutes an abuse of discretion if it is so lacking in support as to be clearly erroneous. Id.
+[...]
+We will reverse any decree based on “palpably wrong or clearly inapplicable” rules of law. Horner by Peoples National Bank of Central Pennsylvania v. Horner, 719 A.2d 1101, 1103 (Pa. Super. 1998). Moreover, we are not bound by the chancellor’s findings of fact if there has been an abuse of discretion, a capricious disregard of evidence, or a lack of evidentiary support on the record. Id. If the lack of evidentiaiy support is apparent, “reviewing tribunals have the power to draw their own inferences and make their own deductions from facts and conclusions of law.” Id. (quoting Union Trust Company of New Castle v. Cwynar, 388 Pa. 644, 649, 131 A.2d 133, 135 (1957)). Nevertheless, we will not lightly find reversible error and will reverse an orphans’ court decree only if the orphans’ court applied an incorrect rule of law or reached its decision on the basis of factual conclusions unsupported by the record. Estate of Harrison, 745 A.2d at 681.
+In re Paxson Trust I, 893 A.2d 99, 112-113 (Pa. Super. 2006).
+The instant dispute involves whether decedent’s father is entitled to receive a share of decedent’s estate or, as appellee asserts, is ineligible due to forfeiture under 20 Pa.C.S.A. §2106(b)(l). The relevant portion of the forfeiture statute reads as follows:
+(b) Parent’s share. Any parent who, for one year or upwards previous to the death of the parent’s minor or dependent child, has:
+(1) failed to perform the duty to support the minor or dependent child or who, for one year, has deserted the minor or dependent child...shall have no right or interest under this chapter in the real or personal estate of the minor or dependent child.
+20 Pa.C.S.A. §2106(b). This statute is in place to prevent someone who has failed to live up to his or her responsibilities as a parent from gaining a “windfall” from the child’s death. In re: Kistner, 858 A.2d. 1226, 1229. Therefore, in order to successfully prove forfeiture, the child must have been a minor or dependent child at the time of their death and the potentially forfeiting parent, in the last year of the child’s life, must have owed a duty to support and either failed to perform the duty to support the child or deserted the child.
+The seminal opinion in this matter was provided by the Pennsylvania Superior Court in In re Estate of Teaschenko, 574 A.2d 649 (Pa. Super. 1990). The Teaschenko court held that the party alleging forfeiture has the burden of producing evidence sufficient to establish a prima facie case of forfeiture. Id. at 651. Further, “...the parent must completely fail to perform any duty of support before a court will find á forfeiture under this statute.” Id. at 651-652. Finally, the court defined willfully for the purposes of the forfeiture statute as “...the parent is aware of the duty to support, has the capacity to perform that duty, and makes no attempt to do so.” Id. at 652.
+At the start of the July 23, 2013, evidentiary hearing, the parties stipulated to the first two requirements; that is, they agreed that decedent was a minor and that appellant owed decedent a duty to support her. (N.T. Aug. 19, 2013, 3:9-19). They did not agree that appellant did not support decedent in the last year of her life or that the lack of support was willful. Id.
+Duty to Support
+In his answer to the motion for approval and, by his own testimony, appellant admitted that he had failed to provide “any” duty of support to decedent in the last year of her life. In his answer, appellant claimed that he had not seen decedent since she was three months old. Appellant’s answer, May 13, 2013, p. 2-3. During the hearing, he admitted the same thing. (N.T. Aug. 19, 2013, 69:18 - 71:13). It is, therefore, undisputed that appellant provided absolutely no support during the last year of decedent’s life.
+Additionally, it appears that appellant is attempting to combat this prong of the statute by claiming certain purchases for decedent including a crib, playpen and diapers. (N.T. Aug. 19,2013,48:2 - 49:3). These purchases were disputed by appellee’s mother who testified that it was her who made the purchases. Id. at 83:16 - 84:11. However, as the forfeiture statute is only concerned with support provided during the last year of the decedent’s life, these claims are immaterial.
+Willfulness
+With three out of the four requirements for forfeiture met, appellant’s entire case rests on whether his failure to support decedent was willful. Appellant posits that his failure to support decedent during her lifetime should not be considered willful because appellee told him that decedent was not his child. Appellant gave no compelling reason for believing that he was not decedent’s father. At the hearing, the following testimony was elicited:
+Q: So what made you believe this wasn’t your daughter?
+A: Because she [appellee] kept playing with me, like, she kept playing with me like I was a nut. She was saying things like, Well, she is your daughter, she is not your daughter, she is your daughter, she is not your daughter. I said, Well, which one is it, is she my daughter, is she not.
+(N.T. Aug. 19, 2013, 50:12-19).
+When asked why he never attempted to have decedent’s paternity determined, even though he was familiar with family court, appellant provided the following explanation:
+Well, the reason why I didn’t ask for no paternity test because I thought that that was my child at the time. Until she started denying that she wasn’t my child. When she said that it wasn’t my child I stopped coming to her parents’ house. And then she told me I wasn’t on her birth certificate. I felt - I was convinced that the child wasn’t mine. So I went on about my business.
+Id., at 51:6-13.
+Going on about your business does not seem to be the proper response for a parent who is losing a child that he once thought was his. This is especially so given the mixed messages from the person alternately claiming that the child is and isn’t his. It does not appear to this court that appellant’s failure to take even one step to find out if the child he claimed he cared for was actually his cannot be called anything but willful neglect of his duty as a parent. This ceding of any responsibility throughout the child’s life and then looking to benefit after the child’s death is the exact type of windfall the forfeiture statute was designed to prevent.
+This court a granted appellee’s motion with the allocations she requested because appellant statutorily forfeited decedent and was not entitled to receive a share of decedent’s estate.
+Conclusion
+Therefore, for all of the above stated reasons, this court did not err or abuse its discretion when it granted appellee’s motion to approve a wrongful death and survival action on November 25, 2013.
