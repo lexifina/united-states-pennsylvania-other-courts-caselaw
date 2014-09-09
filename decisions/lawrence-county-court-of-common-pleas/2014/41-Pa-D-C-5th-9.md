@@ -1,0 +1,37 @@
+---
+court: "Lawrence County Court of Common Pleas"
+docket: "10220 of 2014, CA"
+decided: "2014-09-09"
+citations: ["41 Pa. D. & C.5th 9"]
+reporter: "pa-d-c5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Petition for Change of Name of A.S."]
+source_url: "https://static.case.law/pa-d-c5th/41/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4183716
+cites_cases: ["19 A.3d 1068", "609 A.2d 158", "819 A.2d 558"]
+---
+
+# In re Change of Name of A.S.
+
+## Majority (HODGE, J.,)
+
+HODGE, J.,
+Before the court for disposition is a petition for name change related to the minor child, Aiden Mitchel Sheffler, bom August 22, 2010. The petitioner, Adam Clark Donnelly (hereinafter, “father”), and the respondent, Tara Anne Sheffler (hereinafter, “mother”) are the natural parents of the minor child. Father is requesting the minor child’s name be changed to include his surname, Donnelly. Prior to addressing the merits of father’s petition, the court provides the following summation of the procedural and historical facts associated with this case.
+Mother and father were dating at the time of Aiden’s conception. They were not married and never lived together. Two weeks before Aiden’s birth, mother and father met to discuss his name. At this time, mother told father that she had decided unilaterally that the minor child’s middle name would be Mitchel and the last name would be Sheffler.
+On August 22, 2010, Mother gave birth to the minor child in her home at approximately 5:15 a.m.; mother and the minor child were subsequently transported to the Beaver Medical Center by ambulance. Due to the emergency nature of the child’s birth, father was not notified that the minor child was bom until the following day. Consequently, father was not present at the hospital when mother signed the birth certificate. Mother signed the certificate, which formally identified the minor child as Aiden Mitchel Sheffler. Mother was served with a copy of the instant petition for name change on March 13, 2014. Mother filed timely objections, and hearings were scheduled before this court on May 13, 2014 and May 5, 2014.
+Father testified about his relationship with Aiden and the reasons he requests the court to change Aiden’s last name to reflect that of his own. Father stated that he made a place for Aiden in his home prior to his birth. Aiden has always been a part of his household and family, and he has a strong relationship with his half-brother and step-mother. Father is concerned that the minor child’s name is not reflective of father or father’s heritage. Father additionally stated that he repeatedly requested to have the minor child’s surname include or be that of his own.
+Alternatively, mother stated she provided the minor child with her surname because she was not married to child’s father. Mother contends that her actions conform to the Pennsylvania Code, which provides that “[t]he child of an unmarried woman may be registered with any surname requested by the mother. If no other surname is so requested, the child shall be registered with the mother’s surname.” See 28 Pa.Code §1.6. Mother conceded that father has a good relationship with the minor child, but she does not believe their relationship is contingent upon sharing a common surname.
+After considering the testimony and evidence presented by both parties, father’s request to change the minor child’s name of Aiden Mitchel Donnelly or in the alternative to Aiden Mitchel Sheffler-Donnelly is presently before the court for a determination.
+When considering a petition to change the name of a minor child, the trial court must consider whether doing so is in the best interest of the minor child. In Re: Change of Name of Zachary Thomas Andrew Grimes-Palaia, 609 A.2d 158 (Pa.1992). The Superior Court of Pennsylvania has further held that
+the party petitioning for the minor child’s change of name has the burden of coming forward with evidence that the name change requested would be in the child’s best interest, and that where a petition to change a child’s name is contested, the court must carefully evaluate all of the relevant factual circumstances to determine if the petitioning parent has established that the change is in the child’s best interest.
+In Re: Change of Name of E.M.L., 19 A.3d 1068, 1070 (Pa.Super. 2010) (citing In Re: C.R.C., 819 A.2d 558, 560 (Pa.Super. 2003). Relevant factors include the natural bonds between the parent and child, the social stigma relating to or respects afforded to a particular name within the community, and where appropriate, the minor child’s preference. In Re: Grimes, 609 A.2d 158, 161 (Pa. 1992).
+In reaching a determination, the court acknowledges that it is more frequently being presented with petitions to change the name of a minor child. The commonality between the cases is often the lack of a relationship between the subject child’s biological parents. These cases are often difficult for the court to decide because the court infers that the parents associate some measure of love or parental bond is having similar nomenclature with the minor child. In the court’s own experiences, the two are not mutually exclusive. It is often the love, attention and devotion given, to the child by each parent that is fundamental in solidifying the familial unit.
+Furthermore, social norms are not what they were fifty or even twenty years ago, where children typically carried the surname of their biological father, regardless of the parents’ marriage status. The court does not infer a negative connotation will befall the minor child if his last name is different from that of his father’s or even his mother’s if she ultimately chooses to remarry. Both parties have presented themselves as wonderful and capable parents. Both parties have a strong support system and respectable families in the community.
+Based upon the positive attributes of mother and father, the court cannot conclude that the father has met his burden of proof that it is in the minor child’s best interest to grant father’s petition for name change. Although the testimony establishes that the minor child is happy in both homes and very healthy, he is still very young. Should the minor child have a preference to change or modify his last name when he reaches maturity, the court will gladly entertain such a request, but given the parties’ present circumstances and the factors presented to the court, it cannot conclude that there is sufficient justification to grant father’s request at this time.
+ORDER OF COURT
+And now, this 9th day of September, 2014, with this matter being before the court on a petition for change of name, with the petitioner, Adam C. Donnelly, appearing and being represented by Heather M. Papp-Sicignano, Esquire, and with the respondent, Tara Sheffler, appearing and being represented by Phillip L. Clark, Jr., Esquire and after a hearing held, and in consideration of the testimony and evidence presented, the court hereby orders and decrees as follows:
+1. Consistent with the attached opinion, the petition for name change is denied.
+2. The name of the minor child, Aiden Mitchel Sheffler, bom August 22,2010, shall remain Aiden Mitchel Sheffler.
+3. The prothonotary shall properly serve notice of this order of court upon counsel of record for the parties and upon any unrepresented party at their last known address as contained in the court’s file.
