@@ -1,0 +1,39 @@
+---
+court: "Monroe County Court of Common Pleas"
+docket: "8391 CIVIL 2014"
+decided: "2015-02-05"
+citations: ["46 Pa. D. & C.5th 45"]
+reporter: "pa-d-c5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hortsman v. Hortsman"]
+source_url: "https://static.case.law/pa-d-c5th/46/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12186341
+cites_cases: ["14 A.3d 120", "182 A.2d 219", "198 Pa. Super. 539", "555 Pa. 481", "584 A.2d 403", "661 A.2d 481", "725 A.2d 717"]
+---
+
+# Hortsman v. Hortsman
+
+## Majority (WILLIAMSON, J.,)
+
+WILLIAMSON, J.,
+This matter comes before us on preliminary objections filed by Richard Horstman (hereafter “defendant”) to the complaint filed by Graceann Horstman (hereafter “plaintiff”). Plaintiff filed the underlying complaint on November 13, 2014. Defendant filed preliminary objections to plaintiff’s complaint on December 9, 2014 alleging legal insufficiency of the claim and lack of subject matter jurisdiction. On December 16, 2014, plaintiff filed a petition for examination of defendant. Defendant filed a brief in support of preliminary objections on January 26, 2015. Plaintiff filed a brief in opposition of preliminary objections on January 20, 2015.
+BACKGROUND
+The defendant in this case is plaintiff’s father in-law and plaintiff is married to defendant’s son Michael. Plaintiff alleges that, on July 16, 2014, after the filing of a protection from abuse order against Michael, plaintiff returned to her home to recover her personal property. Plaintiff then discovered defendant at the home carrying out items from the home which she claims are her personal property.
+Plaintiff attached as an exhibit to the complaint, a list of the items which she alleges defendant carried out of the home. One of the items was an Apple computer which was a gift from Michael for plaintiff’s birthday, along with photography software and pictures. The other items on the list include a variety of clothing items, a suitcase, jewelry, cosmetic items, and a professional Nail Tech bag with supplies.
+Plaintiff filed the underlying complaint seeking replevin and damages for the items which she alleges defendant is in wrongful possession of at this time. Defendant states that he is not in possession of the items. He also argues that his son is also an owner of the property in question and it is marital property to be distributed in a divorce action.
+DISCUSSION
+Preliminary objections in the nature of a demurrer test the legal sufficiency of the complaint. Haun v. Community Health Systems, Inc., 14 A.3d 120, 123 (Pa. Super. 2011). Moreover, “preliminary objections which seek the dismissal of a cause of action should be sustained only in cases in which it is clear and free from doubt that the pleader will be unable to prove facts legally sufficient to establish the right to relief.” Id. Finally, “if any doubt exists as to whether a demurrer should be sustained, it should be resolved in favor of overruling the preliminary objections.” Id.
+In ruling on preliminary objections, “all well-pleaded allegations and material facts averred in the complaint, as well as all reasonable inferences deducible therefrom, must be accepted as true.” Wurth by Wurth v. City of Philadelphia, 584 A.2d 403, 407 (Pa. Cmwlth. 1990). The “court need not accept as true conclusions of law, unwarranted inferences from facts, argumentative allegations, or expressions of opinions.” Penn Title Ins. Co. v. Deshler, 661 A.2d 481, 483 (Pa. Cmwlth. 1995).
+Pennsylvania has chosen a “dual classification” system of equitable distribution, in which the court must distinguish between property that is marital and that which is separate before the court equitably divides the marital property. The line at times can blur, such as when separate property is shared or mixed with marital assets, and must often be settled on a case-by-case basis when there is some dispute. Drake v. Drake, 555 Pa. 481, 491, 725 A.2d 717, 721-22 (1999).
+Marital property is defined as all property acquired by either party during the marriage and the increase in value of any non-marital property acquired pursuant to paragraphs (1) and (3) as measured and determined under subsection (a.l). However, marital property does not include: property acquired prior to marriage or property acquired in exchange for property acquired; and, property acquired by gift, except between spouses, bequest, devise or descent or property acquired in exchange for such property. 23 Pa. Cons. Stat. Ann. § 3501.
+Replevin is a legal form of action ordinarily employed only to recover possession or value of specific personal property unlawfully withheld from the plaintiff, plus damages for its detention. Replevin is primarily a possessory action in which issues ordinarily are limited to plaintiff’s title or right to possession of goods. Brandt v. Hershey, 198 Pa. Super. 539, 182 A.2d 219 (1962). Persons having only a joint interest in the subject matter of an action must be joined on the same side as plaintiffs or defendants. Pa.R.C.P. No. 2227(a); 12 PS. Appendix; Brandt v. Hershey, supra.
+Here, plaintiff admits in the complaint that the Apple computer was a gift from her husband. PI. Compl. Ex. A. Since the Apple computer is admittedly a gift from plaintiff’s husband, this would be marital property not subject to an exception. Id. Given the holding in Brandt, plaintiff would need to j oin her husband as a plaintiff in an action seeking replevin for the Apple computer because they both have a joint interest in the marital property.
+However, accepting plaintiff’s well-plead facts from the complaint as true, she states that the rest of the listed items are her own personal property. PI. Compl. Ex. A. Making a determination of whether these items are personal or marital property is not proper for this court at this stage in the proceedings. Using the standard for preliminary objections, this court must assume that the facts in plaintiff’s complaint are true. Thus, plaintiff has stated that the items taken by defendant, besides the Apple computer, are her own personal property, and therefore it is not necessary at this time to join her husband as a plaintiff in an action for replevin. Id. If it is later discovered that any of these other items besides the Apple computer are indeed marital property, plaintiff would have to join her husband as a plaintiff in the claim for replevin or begin the process of an equitable distribution pursuant to the divorce code.
+Defendant’s preliminary objection of legal insufficiency is granted as to the replevin claim for the Apple computer which is admittedly marital property. Defendant’s preliminary objection of legal insufficiency of the replevin claim is denied as to all other items listed in Exhibit A of plaintiff’s complaint as plaintiff states that they are her personal property, subject to a factual determination.
+In reviewing this case, if indeed the facts plaintiff has alleged are ultimately true, it is troubling that items may have been removed from the house while a P.F.A. was in effect. This is especially so in light of attorney Anders’ acknowledgement at oral argument, that most of the alleged missing items are the plaintiff’s clothes and undergarments.
+ORDER
+And now, this 5th day of February, 2015, upon consideration of the preliminary objections by defendant, Richard Horstman, to plaintiff’s complaint, defendant’s preliminary objections as to legal insufficiency, it is ordered and decreed as follows:
+1. The preliminary objection as to the legal insufficiency of the replevin claim for the Apple computer is sustained and the claim in replevin as to the Apple computer is dismissed without prejudice.
+2. The preliminary objection as to the legal insufficiency of the replevin claim for all other items listed in the complaint is overruled.
